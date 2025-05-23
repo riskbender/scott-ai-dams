@@ -1,0 +1,42 @@
+all right let's see if anybody can help
+me with this
+technical problem i'm using photoshop
+the newest version
+on the big sur operating system on a mac
+i've selected the line tool and now i'm
+going to draw a line
+so far so good it's exactly what it was
+supposed to do
+settings are correct i've got a
+line selected it's shape it's got a
+black fill
+a black stroke i've double checked nine
+points
+you've got your weight your height oh
+good right
+except the moment i deselect
+it disappears it's still here
+it's you know it exists uh in the
+background
+but it's not a case of bringing you
+forward and so it's not behind
+this layer it just doesn't like to show
+now if you think that you know what the
+problem is that it's behind there
+look at this i'll pick a different shape
+from the same
+tool set i'll go here and i'll draw that
+shape
+now i'll deselect it and see if it
+disappears
+nope whatever this problem is
+is limited to the line tool
+so if anybody can solve this for me
+please let me know obviously i've done
+all the rebooting and reloading software
+stuff the obvious stuff
+but if anybody can figure this out
+there's no
+documentation or anything i can find
+online to
+suggest the solution

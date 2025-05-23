@@ -1,0 +1,1572 @@
+[Applause]
+good morning everybody and welcome to
+the highlight of human
+civilization it's called coffee with
+Scott Adams and I'm pretty sure you've
+never had a better time in your life but
+if you'd like to take this experience up
+to levels that'll well it'll make you
+tingle in places that I can't even
+mention uh well all you have to do is
+get yourself a copper mug or glass a
+tanker chel orstein a canteen Su or
+flask a vessel of any kind fill it with
+your favorite liquid I like coffee and
+join me now for the unparallel pleasure
+of the dope and be head of the day the
+thing makes everything better it's
+called the simultaneous Sip and it's
+going to happen right
+now ah you've been
+culated now we're going to do a little
+uh lag test if you don't
+mind uh I'm going to do test on both the
+uh YouTube channel and over on locals I
+want to see what the lag is between my
+comments and your
+response I'm going to say an unusual
+word and the first person who repeats it
+back to me in the in the comments that
+will tell you how long the lag is all
+right get ready so the first one who
+retypes this word that'll tell me how
+long the lag is the word is octopus go
+one two three bar oh 3 seconds three 3
+seconds that was very fast looks like we
+got the lag down now that might change a
+little bit as the traffic comes in I
+don't know if it's traffic related but
+that's a yeah that's very good thank you
+we have many
+octopi and uh the experiment is complete
+good good now there might be a
+difference on the browser version versus
+the app I don't know about that
+yet well let me tell you about my AI
+experience yesterday if you were like me
+and I like to think everybody is you
+probably said to yourself sometime in
+the last oh year or so uh I should spend
+some time working with AI just so I
+don't get left behind anybody say that
+to themselves and a lot of you are
+probably already using it for work but I
+said to myself I'm going to wait in so
+what I thought I would do was build a
+little uh app which in the AI world if
+you use
+uh open AI chat GPT version uh would be
+called a GPT so it it lets you talk your
+way into creating an app and so I tried
+that and I said to myself what can a
+clever person in his senior years who
+doesn't work with technology all the
+time
+anymore like how far can I
+get here's here's the problem the
+interfaces for using AI are weirdly way
+behind the AI so you no matter how
+powerful the AI is getting you to use it
+as a user is weirdly it's almost
+ridiculously uh nonobvious for example I
+probably spent an hour yesterday not
+knowing that there was a switch where I
+could intentionally change it from
+version 3.5 which wouldn't do anything
+for me because it didn't have the
+features I needed for what I was doing
+to 4.0 I spent the whole time trying to
+debug why it wasn't doing what I wanted
+and I wasn't even in the right version
+now why does it not default to the
+current
+version or or why doesn't it Flash and
+tell you I'm definitely on this version
+so you can do these things right now I
+mean it's just that's just a user
+interface you know total botch that's
+all it was so I spent hours just trying
+to figure that out uh do you know how
+hard it was even to find the official
+chat GPT app you go to the App Store and
+there's so many crazy little apps that
+have the same name and they and they try
+to make a logo that looks sort of like
+the official one but
+different it's it's 90% garbage apps or
+apps that're not the ones you want so I
+spent maybe an hour maybe an hour even
+trying to look for the app have you ever
+spent an hour looking for the app when
+you knew the name of the company I mean
+that's so weird uh why was it so hard so
+but then when I had had the actual
+experience of building it um what's new
+about version 4 is it can access an
+external file so you can feed it a file
+and then ask questions about it and
+build a little app around its special
+knowledge of maybe that one file or what
+you taught it and that little special
+knowledge would be your
+GPT so it was actually a freaky
+experience building an app by talking to
+it but that kind of worked meaning I
+just had a conversation with it and the
+thing that's really mindblowing is that
+it makes suggestions after it fails so
+you'll say can you do this it will try
+and it will say I can't I can't do that
+with the file You' given me but I'm
+going to try this instead and I'm like
+what seriously you're actually keeping
+me informed what you're trying a whole
+new look and then it tries another one
+but it it was freaky it talks to you it
+talks to you without being asked and
+tells you what it's doing and it tells
+you it's going to try a new way to solve
+your problem it's just your brain just
+goes what what am I dealing with it's
+it's awesome um now I did not succeed
+but I believe I learned enough yesterday
+that in a very short time I could create
+a
+GPT that would look at a a text file
+that has all of my every Everything a
+Dilbert comic ever said and then
+separately it can find that Dilbert
+comic in a different way and it can take
+those two pieces of knowledge and marry
+them and become a search engine for any
+Dilbert topic so maybe by the end of
+today just by talking to AI I'll be able
+to announce that there's a a GPT that
+you'd have to have you know access to uh
+the app I guess um that you could do a
+certain
+or I could do a search or I could hire
+somebody to do a search for you if you
+wanted to reprint that sort of thing but
+that's how easy it was just talking to
+it but you have to get past the
+interface glitches
+first well Iceland is a state of
+emergency at least part of it I guess
+there's a big ass volcano there that uh
+has been so active they've had 1,400
+earthquakes in 24 hours a number which
+is surely bigger than out since I read
+the post on it and um they're they're at
+least uh it looks like they've told one
+town to completely leave so there's one
+town that's right right in the
+uh right in the death area but it looks
+like they have time so it looks like
+they're going to get out but they're
+going to lose their homes so it looks
+like an entire town might
+disappear so we'll see if it gets worse
+it could affect air travel I understand
+somebody smart told me that all right um
+here's what bothers me especially about
+this Iceland story I have to be honest I
+spend a lot of my time thinking what my
+backup Escape place would be you know if
+if the place you live goes to hell for
+whatever reason natural disaster or
+let's say you get canceled and you can't
+live among the population anymore
+something like that and I always look
+for all right what's my worst case
+scenario where can I go and Iceland was
+on my short list cuz I like wow you know
+bet you could go there and just hide
+from the rest of the world for a while
+and now the whole place might turn into
+a volcano so no place is
+safe um there's a study on willow bark
+extract I know you were waiting to to
+find out about that weren't you you're
+all like I hope he talks about the
+willow bark extract cuz that's that's
+some news right there well it turns out
+this willow bark you put it in tea or
+something make a tea out of it and it
+can uh thwart all kinds of
+viruses so everything from seasonal Cals
+to coid 19 to viruses that affect you
+know completely different conditions so
+it's it's sort of a broad spectrum virus
+killer but it might be so easy to obtain
+and maybe so hard to patent that you
+you'll never be able to take it but if
+things go bad go find yourself a well I
+don't want to tell you to take bark off
+a tree and consume it that seems like
+bad advice you should probably listen to
+a doctor before you eat any tree bark or
+make tea out of it but it's good to know
+it's an
+option this is this is one of these news
+stories that I like to give you toward
+the beginning to show you that even
+though the news might look like it's all
+doom and gloom at the minute at the
+moment
+there might be some really really big
+things that are Brewing to make things
+better I mean suppose they did come up
+with a broad spectrum antiviral that
+just like took a big piece out of every
+virus totally possible that that could
+actually happen I mean that would be
+very transformational for life on Earth
+have I ever told you that uh science
+isn't real and they mostly just making
+up I didn't used to think that you know
+when I was a kid I thought science was
+like the best way to understand the
+world and of course I was born right
+around the time the science was telling
+you cigarettes were good for you that's
+about when I was born and I was born
+about the time that the government was
+telling you that the the food pyramid
+was how you should
+eat no no no no not true uh but it just
+keeps getting getting funnier and
+funnier at how bad science has always
+been and we didn't know
+it um I've told you this before so in
+the late '90s I wrote a book called The
+Dilbert future and I've said this before
+but it's it's a good lead up to what I'm
+going to talk about um and I said to
+myself I'll bet you I could pick
+anything that science knows to be true
+for sure I could predict that it will be
+overturned by science in the future and
+that I would be right and I would look
+like a
+prophet and so I had two choices I was
+like I'm e going to pick the Big Bang or
+I'm going to pick the theory of
+evolution because I thought okay those
+are two things that
+nobody nobody is going to say you know
+is going to change we really get those
+things we understand them and in my
+lifetime sure enough uh the uh the Big
+Bang has been at Le least to thrown into
+gray question because our better
+microscopes or not microsc telescopes
+can see that there are galaxies formed
+that don't make sense if there was a big
+bang so did anybody see that that would
+be overturned I mean I don't know what
+it's been replaced with I mean that's
+still a mystery
+but and I would argue that Evolution has
+been
+debunked but you're welcome to disagree
+and I would say the evolution has been
+debunked by the simulation Theory now we
+don't know that we're a simulation it's
+just that it's you know a trillion to
+one odds that it is which would make
+Evolution more of a perceptual thing and
+not any part of
+reality so I picked the the the two most
+basic things of Science and in my
+opinion this is my opinion they've both
+been debunked to my satisfaction in my
+lifetime I was right on both of them now
+the one I picked was Evolution but uh
+yeah I could have picked the Big Bang
+but here's another one uh so yesterday I
+was talking about why is it that if we
+all evolved from people who came from
+Africa why is it that when I do my 23
+and me it doesn't have any African in it
+and I thought well is that just CU it
+gets so so diluted over time that it
+eventually effectively disappears is
+that why because it didn't didn't really
+smell right because I've got some
+Neanderthal in there a solid 2% or
+something
+and I thought hm it it does seem like
+stuff lasts a long time so why wouldn't
+there be a little bit more African in me
+and then I find out apparently there's
+been this whole debunking of the Out of
+Africa Theory how many of you knew that
+how many of you knew that there is some
+serious debunking about the theory that
+we we all started in Africa and
+everything spread out from there well
+you know I've only just touched the
+surface but apparently you know books
+have been written and there are a whole
+bunch of alternative theories that seem
+to make more sense than the an of Africa
+and you know what and here's the
+realization that came from
+it out of the out of Africa theory was
+always a racist Theory wasn't
+it did did it grow out of science or did
+it grow out of scientists being
+racists it looks like it was just a
+racist Theory the whole time because cuz
+the nobody said says this directly right
+but imagine you're an anthropologist
+in what what year did we come up with
+the an of Africa idea can you give me a
+historical give give me a calendar on
+that was it 1800s or
+1900s when did we decide that people
+evolved Out of Africa early
+1900s 186 somebody says mid
+1800s that's when people started finding
+fossils and and
+whatnot
+right so here's what I think I think
+that the world was a super racist place
+and that the
+anthropologists because they were super
+racist they came up with this idea that
+the Africans were more primitive and
+that that that the people like them were
+the ones who evolved from the more
+privative stuff literally the most
+racist thing you could ever come up with
+with and then they embedded it into you
+know basic
+science when in fact the evidence seems
+to suggest that humans started in maybe
+more than one place and that's the whole
+story but there was a lot of inters
+species
+banging the the early days of uh
+Humanity must have been wild because it
+turns out you could like you could bang
+a monkey you could bang a a
+neanderthal you know you could get those
+Den denisovans or whatever they are the
+little ones the little
+ones how Wild is that like today we're
+like would you would you date somebody
+Irish oh no I'd never date somebody
+Irish actually I've never heard anybody
+say that but suppose they did but back
+then it was like I had a little
+Neanderthal Tang last night how was it
+well it was wild it was wild I recommend
+it have you ever tried to
+denian Homo
+erectus can't can't wait to get some
+homo erectus action all right sounds
+worse than it
+is all right let's talk about uh so
+everything is wrong about science it
+always was um Ron
+McDonald damn
+it I can't do it I swear to God I was
+looking at the name and trying to read
+ra McDaniel and my brain couldn't
+actually do it my brain turned her into
+a clown a fast food
+clown
+now was it uh wasn't it Laura Ingram who
+made the M same mistake on TV and had to
+correct your in real time I I I I think
+I watched somebody else just do the same
+thing and then quickly correct
+herself what what could be more damning
+than being criticized and people keep
+calling you accidentally
+a clown's name I mean there aren't many
+there aren't that many famous
+clowns right how how many clowns can you
+name go how many
+clowns there's Ronald McDonald and then
+boo good give me another
+clown there are very few clowns that you
+can name right I mean Red Skeleton
+million years ago right so they're all
+yeah I I don't know about the Burger
+King that's more of a weird King thing K
+crusty the clown thank you K crusty the
+clown clown Adams clever okay yeah but
+it's very unfortunate to be criticized
+and also have a name people think sounds
+like a
+clown but uh she was R was interviewed
+by Laur Ingram on Fox
+and I have to say she came off as not
+capable now I don't I have no inside
+knowledge to know if she does a good job
+or a bad job I don't have any opinion on
+that at all I wouldn't know what a good
+job looked like actually you could tell
+that Republicans aren't winning as much
+as they'd like to but you know it I
+can't tell from the outside who's doing
+what or who should do what better you
+should have accountability though so
+it's it doesn't matter the details don't
+matter if you're not getting it done
+you're not getting it done time to try
+something else but she did not come
+across as capable
+did anybody else watch it did you have
+the same impression I could have been
+primed you know too primed to see it
+that way but even so Laura Ingram asks
+her a basic question and she runs off on
+this long thing and uses up all her time
+I answering the wrong question and then
+Laura calls her out like um that wasn't
+even really the question I asked I she
+looked like she couldn't handle even an
+interview so it wasn't a good luck so it
+was a good day for uh V
+who by the way has uh merchandised uh
+remember when Nikki hilly in the uh in
+the debate called him scum under her
+breath uh now he's created a line of
+merchandise that you can buy for his
+campaign with with kind of a cool logo I
+have to I have to admit whoever did the
+graphic design on his stuff really good
+it shows a vake looking powerful and
+some military outfit and some American
+looking behind him for victory or for
+vake and uh it's called Rebel scum so he
+added Rebel to it Rebels
+come I tell you this works every time
+the Republicans do it and it works never
+when the Democrats do it have you
+noticed that maybe that's just a bias on
+my part but when but when the Democrats
+try to you know monetize or or turn one
+of their insults into a
+positive
+it doesn't quite work you know like the
+power Brandon thing they tried to do
+about Biden H it didn't really didn't
+really connect but I feel every time a
+republican tries it it works like the
+deplorable
+mugs about a lot of deplorable mugs were
+sold and we still call ourselves
+deplorable you know jokingly so yeah it
+doesn't work the other way for some
+reason well this little story is funny
+uh this this is where the level of trust
+is with our government here's how much
+we trust our government I'll just read
+so you might know that there was a a big
+bust there was a DC uh broel that was uh
+taken down by the FBI on the same day
+that uh number of people voted in
+Congress to authorize the building of an
+FBI new headquarters 300 million Death
+Star bigger than the
+Pentagon and 70 Republicans even and
+voted for
+it uh and Molly Hemingway had this post
+she said Is it bad I assume all 70 GOP
+who voted to reward the FBI with a brand
+new headquarters are also clients of
+this
+brothel so that that's saying out loud
+what a lot of us were thinking huh on
+the very same day it's almost like
+they're sending a
+message it it sounds very much like they
+were sending a message doesn't it like
+you know we do have The Client List from
+the DC
+brel here it is I mean it could leak I
+mean leaks happen uh you know it's just
+funny the timing it's funny that the
+timing of when there could be this leak
+just happens to match up and this is a
+coincidence people with the time that we
+needed Congress to do something that
+they didn't want to do but was good for
+us in the FBI so you know those two
+stories are just just sort of
+coincidentally there's no cause and
+effect and maybe there
+isn't but do you trust it or does it how
+many times has there been a
+story where your worst suspicion was
+exactly what was true way too many times
+way too many times so when you see this
+coincidence you say to yourself I don't
+even think that is a
+coincidence so I don't know what's true
+but we have been trained if you're
+paying attention you've been trained not
+to trust this and to assume that this is
+a dirty vote and that they just took
+$300 million of your taxpaying money and
+put it into something because of
+blackmail maybe I'm not saying that's
+true I I'm saying that if you if you
+have that as an operating
+assumption you're probably probably have
+a good operating assumption even if it's
+not right every
+time all
+right Jake Novak uh posted this today on
+X he said uh was at my local gun shop
+again yesterday I like the fact that
+it's again he he was at his local gun
+shop you know twice
+recently now Jake has worked for Israel
+and um so he's he's got a good insight
+into this uh this world and he says uh
+he was at the gun shop twice and I'm not
+exaggerating when I say that there was a
+minivan of religious Jews inside within
+20 minutes after the store
+opened and then J says and I'll say it
+again Jews are arm Jews arming up like
+this is the effective end of the gun
+control movement in
+America
+agree do you agree with that statement
+that es conservative Jews well Jews in
+general arming up in America is the end
+of the gun control movement
+now it's not the end of the of the
+debate definitely not the end of the
+debate but but it does create a almost
+impossible Force to
+overcome because not only do Jewish
+Americans and people all over the world
+have now seen this model of what a bunch
+of people with rifles can do to a bunch
+of people who don't have them right if
+you always wondered what could that look
+like
+that's what it looks like the people
+with the rifles Slaughter and torture
+and rape the people who didn't have
+rifles that's it that's that's your
+that's your entire story so if you want
+to be one of those people someday the
+ones who were tortured raped and had no
+guns well you know which way to go but
+if you like to have a
+gun you also know which way to
+go uh I'm going to add this to my list
+of are you ready for this added to the
+list of what what what is the list I'm
+building that I'm adding the uh Jews
+arming up with
+guns Trump was
+right the Trump was right
+list is really impressive at this point
+from the border to the wars to gun
+control I mean he's racking It Up by
+just staying
+quiet you know and
+and I'm going to say it directly there
+there is a feeling of Trump's third act
+that is so strong in in my
+bones that I'm finding it almost
+impossible to believe that by election
+day
+2024 we will not have a major breaking
+news Scandal about our election
+process you can you can just feel
+it it's just sort of is sort of like
+trying to get out in every possible way
+does anybody else feel that or is that
+just my
+imagination at this point I would I
+would place a substantial bet on a big
+story about elections between now and
+2024 don't know if it'll be Georgia
+don't know if it'll be Fulton County but
+I'm going to I'm going to go with my
+prediction that the alleged you know
+some people alleg there a bunch of
+unfolded fake ballots in a room and they
+know what the room is I'm going to go
+with my prediction that the room will be
+empty or at least those ballots will be
+gone you just watch if the ballots are
+gone so is so is your
+democracy would you agree with that if
+the ballots are gone and we never know
+where they are that's the end of your
+democracy yeah you you you could you
+could could call it Dad at that
+point all
+right here's a little test of your
+understanding I'm going to give you two
+names uh that are in the news but not in
+the most mainstream of news and I'm
+going to make the following claim if you
+don't recognize these two names you
+don't understand anything that you're
+seeing in the
+news that's a big claim isn't it so this
+will be your test if you recognize the
+names and you understand their role and
+who they connect to and you know who
+they work with and who funds them and
+all that then you have a good idea what
+you're seeing here are the two
+names Chris Krebs and Alex
+Stamos Krebs k r e BS and Stamos St a m
+oos how many of you know both of those
+names and their role in the political
+informational world
+that that's I feel like this is sort of
+a dividing point between Democrats and
+well-informed
+Republicans if you're a well-informed
+republican you'd recognize both names
+and you would know that they're part of
+the
+misinformation structure created by the
+Democrats and you would also know if
+you're well informed that the
+misinformation structure
+which on the surface is to get rid of
+misinformation is effectively a Democrat
+um censoring machine which could be
+applied to the social media platforms
+Etc if you didn't know that that entire
+structure exists and and the names of
+the people who are Central to it then
+you don't know that your news is
+fake you don't know that your social
+media uh experience you know is is is uh
+Changed by them so I'm not going to say
+you know what's good or bad about them
+you know I don't want to get sued for
+some kind of weird accusation I'm saying
+that as a news consumer if you've not
+gotten down to the level where you
+recognize those names and their role and
+stuff you really don't know what's
+happening because then the news won't
+make sense you'll think it's real the
+moment you think the news is real and
+that the one you watch is the real one
+and the ones you're enemies watch is the
+wrong one as soon as you think that you
+you don't understand anything
+everything's confusing after
+that well let's talk about
+brainwashing um I saw a post by user on
+X uh goes by calash
+ro cordak
+rush and uh I thought it was a
+interesting thought and the user said
+said uh I've begun to think that
+education was always supposed to be
+politicized people just forgot about
+this and ended up giving the keys to
+this hen housee to the Wolves I.E those
+who want to subvert the minds of
+impressionable children uh thus we now
+have students cheering on
+Hamas now to which I say yes education
+was always intended to be politicized if
+you do it right it's
+politicized and I would point out that I
+was brainwashed as a kid like really
+really heavily brainwashed as were most
+of you I would say but I was brainwashed
+for let's say capitalism and uh loving
+my country and you know patriotism and
+uh the uh the so-called Melting
+Pot
+now those things have a
+negative you know they the culture that
+I was brought up in you know the the
+brainwashing in
+school uh turned us into America is
+great and we can do anything and you
+know we'll go over and you know bomb
+your people if we don't like you so I I
+think I think America went almost too
+far in saying Americans are special I'm
+not sure that was helpful but the the
+collective uh the collective
+brainwashing was very effective in
+creating a enough cohesion in the
+country and enough uh you know the
+capitalism emphasis made you work hard
+and it worked out it was a it was good
+software for the country for where the
+country was it was just the right right
+operating system but it had its
+flaws because it was successful and only
+because it was successful we could stop
+talking about you know daily survival
+and then you start talking about more
+theoretical philosophical things and
+suddenly you say hey this system is
+brainwashing people into a certain
+system that's not making everybody
+Thrive something you didn't talk about
+until you had the you know the let's say
+the luxury of being able to talk about
+it and and then you know people wanted
+to be flexible CU it did seem unfair on
+some level people would imagine and so
+you know we've evolved into a different
+system let me let me give you an idea of
+how uh powerful brainwashing
+is um so Jewish students at MIT were
+blocked from attending classes by
+hostile anti-israel
+protesters do you think Tik Tock had
+anything to do with that yeah there
+there's very good information to suggest
+that Tik Tock is where the anti-israel
+and anti-jewish protesters are getting
+their their fire from so Tik Tock
+clearly is a brain washing thing but how
+bad does it get there was a video of a
+Palestinian grandmother on something
+called Hamas TV I don't know how there's
+a Hamas TV but I guess there is uh it's
+not MSNBC it's a Hamas TV you could get
+those too confused I know but um the
+grandmother said that uh the giad
+against the Jews is a top priority of
+the Palestinian people and she said
+directly that she's ready to sacrifice
+uh all of her 17 children she has 17
+children and 65 grandchildren so she's
+willing for all of her children and all
+of her grandchildren to become Martyrs
+uh for in the cause of killing Jews and
+taking over the Jewish
+land
+now can Israel get any luckier with his
+enemies if you ever had a chance to
+choose your your enemies the one you
+should choose would be the one who says
+uh yes go ahead and please kill all of
+my children and all of my grandchildren
+CU we'll be quite happy about that
+situation you know we go to heaven and
+stuff I mean they're making it kind of
+easy for uh Israel to do what it must do
+to protect itself Now isn't isn't the
+the biggest conversation about um Gaza
+has has been uh who killed whose babies
+right CU we don't care about adults as
+much as babies so it's like your babies
+you killed my babies you killed my
+children no you killed more of my
+children it's all about killing children
+because that's you know the most
+powerful mental model is you know that
+that uh that alarms us the most so it's
+of course we'd see the most of that but
+here's somebody who actually says you
+know I don't mind if you kill my
+children and grandchildren you know as
+long as we're working on this this
+mission to kill
+you that really does give Israel a free
+hand can I say this directly I don't
+know if I can say this directly and stay
+on social media I'll say it maybe
+indirectly if you create a
+situation where your enemy has no choice
+but to kill your
+children your enemy has a free pass they
+have an ethical and moral free pass to
+kill all of your children if you've
+stated I have trained my children to
+grow up and kill you even at the risk of
+their life nothing shall stop my
+children my children I I encourage you
+to go out and and kill the enemy the
+enemy has an absolute total ethical
+right to kill all of your children let
+me say it as directly as
+possible people like this grandmother
+and she does not speak for all
+Palestinians I should say that for sure
+doesn't speak for all of them but
+unfortunately the world is going to see
+messages like this and they're going to
+say you know what if Israel killed all
+of their children it would be a horror
+Beyond
+imagination and completely Justified
+from a self-defense
+perspective those both can be true it
+from a
+conscious conscience
+perspective it's the worst thing you
+could even imagine killing anybody's
+children intentionally from a
+self-defense perspective absolutely
+necessary so let me say it
+directly um it's hard for me to have
+sympathy for people who have weaponize
+their own
+children how how do I do
+that I'm not sure I can even muster any
+honestly it's a cruel world and terrible
+things happen and I wish it didn't
+happen you know I very much wish no
+nobody's children got killed but if you
+weaponize your children and then you
+brag about
+it the other team gets to kill your kids
+that's just the way it
+is um so that's good for Israel that
+takes a lot of pressure off them from at
+least the um the mental part that people
+would put on them so given those
+examples let us go to the white
+board I want to give you uh
+my my impression of what's happened in
+the brainwashing
+landscape so as I said when I was a kid
+the model was the government would
+influence TV you know the CIA
+specifically would have lots of
+influence over the TV and they tell the
+TV you do a lot of
+patriotic you know stuff uh make sure
+the people love America and think we're
+awesome Mak make sure you do a lot of
+Melting Pot stuff you know make sure
+we're all getting along that sort of
+thing so they controlled largely what
+the schools taught and what the TV
+taught you in directly so then the kids
+were taught capitalism patrio patriotism
+and the Melting Pot so that that was my
+experience now again the patriotism part
+probably turned America into a bunch of
+ how many of you would agree
+with that I love America I think we're
+awesome but I think it went too far I
+think it turned us into
+because it made us think we're a little
+bit better than the rest of the world
+now maybe that's good you know maybe the
+system of America worked better because
+we thought we were better than other
+people we were we were trained to think
+that but it's definitely got it's
+downside right you get too arrogant you
+get too cocky you start thinking you're
+better than everybody then it's easy to
+attack them and kill them because you
+know our our needs are more important
+than your dying children so I I think I
+think we overshot the mark a little bit
+but there's no doubt that that operating
+system propelled America to become the
+dominant
+power at the
+moment it looks more like this you've
+got China that owns Tik Tock that's
+influencing the kids you've got Soros
+money that's influencing the government
+which probably has a little or a lot to
+do with how the government uh runs the
+schools the the teachers unions for
+example uh they've got their own version
+of what is right so you got the colleges
+creating woke teachers Etc now this new
+brainwashing um let's say situation
+pretty much guarantees that you get a
+lot of kids who believe in communism and
+the oppressor oppressed model which
+guarantees the destruction of your
+country let me say it as clearly as
+possible this isn't just a
+problem this is a guarantee of the
+destru destruction of your country
+because you would actually be training
+young people to do all the least
+practical things to fight about the
+repression instead of making money you
+know the things that drive the the world
+so the government needs to be in charge
+of the kids but the government is no
+longer unified there are two versions of
+What the government would want that are
+pretty different wasn't so different in
+the ' 50s I don't think the Democrats
+and Republicans were too different were
+they when it came to patriotism Melting
+Pot capitalism wasn't it Democrats and
+Republicans pretty much the same when I
+was a kid I don't even remember a
+difference yeah the the Democrats wanted
+more welfare stuff but they were
+certainly completely in favor of the the
+brainwashing model that was the common
+one so now you've got kids brainwashed
+all over the place what it should do is
+drive Society apart and it should
+destroy
+America
+now keep in
+mind that uh that's a that's a straight
+line prediction a straight line
+prediction says there will never be a
+counterforce everything will keep going
+the way it was going but nothing goes
+like that in the real world nothing goes
+straight lines forever there's always a
+counter Force what would be the counter
+force in this case I don't know I don't
+know um could it be that the X platform
+will become dominant and then maybe but
+I don't see that happening because I
+don't see children on
+X could it be that uh our government
+might get its Stones back and um get rid
+of Tik Tock that could be a big big
+step but here's what I think I think the
+federal government should federalize the
+schools and I think they should come up
+with one common
+curriculum uh that that gets to
+brainwashing right there could be lots
+of variety and in some of the details
+but there should be a
+brainwashing standard Federal message
+that says to raise good children you got
+to teach them they're not oppressed or
+oppressors you can't have Dei you can't
+have you know this whole oppressor
+repress thing and you have to teach them
+that capitalism is better than uh
+communism you know with a little
+socialist flavor to it we prefer it that
+way um and and some version of uh
+patriotism but maybe without the
+excesses of that so do you
+think that
+Congress could collectively come up with
+a set of you know maybe three missions
+that people would
+accept at the moment the Democrats
+wouldn't be able to say yes to that but
+here's what I'd like I would love a
+national uh debate so that everybody
+shows their work I would want the
+Democrats to say here's what we want to
+teach kids you know oppressor oppressed
+whatever it is uh socialism is good
+communism wasn't so bad whatever it is
+just put it out there this is what we
+want to teach them and then have the
+Republicans and the moderate Democrats
+say here's a better idea how about
+teaching them you know patriotism but
+not too far and Melting Pot and you know
+everybody has a chance to make it and
+and all that let's and and I think that
+this is a huge opportunity for
+Republicans except they have that whole
+uh states rights
+thing the work worst thing you could do
+for America is let all the states run
+their education systems on their own
+without any federal influence in my
+opinion that would be the worst thing
+you could do because I guarantee you
+some states are going to be
+garbage here's one thing you can't take
+a chance on do do you know why the the
+federal government handles the
+military right we we all prefer that
+Authority be driven down to the state
+and local and individual
+level but the federal government handles
+the military why because it's the only
+thing that
+works there there's no other reason the
+federal government handles the military
+because nothing else would work it's the
+only thing that works the education
+system is closer to being like the
+military than it is to picking up the
+garbage do you get that I love the fact
+that my local local municipality is in
+charge of picking up my garbage I don't
+why would the federal government be part
+of that so I love it for the little
+stuff drive it down there right personal
+decisions but the education or let's say
+the brainwashing you know even more than
+the education and the brainwashing the
+brainwashing of our children is National
+Defense it's not like it it's not it's
+not reminding you of it it's not uh
+similar to it's not oh this should be
+also in the conversation it's not
+another variable you should consider it
+is your whole game it's the
+whole game your military is
+worthless worthless if you haven't
+brainwash your your young people to be
+productive citizens who
+contribute so the big the big problem
+with education is that we treat it like
+a social thing instead of a national
+defense
+thing what are the what is Hamas doing
+Hamas is treating their
+children like a social thing or like a
+National Defense thing well they've
+weaponized their children they've
+actually they they they at least get one
+thing right which is that they know
+their children are their weapons they
+know that their their cultural defense
+or offense in this case might be the
+weapon weiz kids and we're and we're
+letting our enemies weaponize our kids
+against us we're literally not not just
+figuratively we're literally allowing
+our enemies to brainwash our children to
+be on the enemy side and we're allowing
+that under Free
+Speech right we're allowing
+it and the federal government should
+clamp that down immediately now the
+reason this would be hard to do is that
+unless you follow this live stream I
+don't think you'd have quite the same
+feeling that the right frame to look at
+this is the persuasion frame right if
+you're looking at everything from a
+political frame it looks like you don't
+know what to do if you look at it from a
+follow the money frame which usually
+works it also doesn't work because the
+money isn't as obvious you know there's
+some Soros money in there and there's
+some China money but it's it's a little
+harder to follow the money but if I say
+to you follow National
+Defense that's your frame protecting the
+country and then on top of that frame is
+the persuasion frame if you get those
+two frames right the persuasion frame
+and you understand how you know how bad
+Tik Tock is and what a risk it is to our
+whole civilization and you understand
+you know the the National Defense frame
+then you can make the right decisions
+but you would need somebody at a V level
+of
+communication to sell to the go to sell
+to the public what they they need but
+maybe they don't understand they need it
+Trump maybe could do it he he's he's
+more of a you know he he creates a
+dumpster fire no matter if he's doing
+the right thing or the wrong thing so
+he's he's
+controversial uh I know V would hate to
+hear this because he's running for
+president and and I think he actually
+has a shot people ask me does aake have
+a shot yes because the two leading
+candidates for president both have a
+cloud hanging over them right and what
+happens if Trump actually goes to
+jail right what what happens if he's at
+a certain age and you know a medical
+problem pops up that you weren't
+expecting so V I think could take santis
+if it turned if if anything took Trump
+out you know God forbid but we're in a
+world where Anything could happen if
+anything took Trump out you'd have a
+vake who looks
+like a younger Trump you know with
+advantages without the baggage and then
+you'd have a disantis who looks
+like
+disantis I know I I feel like the would
+almost almost immediately take a slight
+lead if not a larger lead if the the
+moment if you imagin a moment where
+something happened to Trump God
+forbid so could he become president
+absolutely yeah but if it didn't happen
+let's say let's say you straight line it
+and Trump becomes the nominee and let's
+say he wins
+um I would hate to see V wasted as a
+vice president would you agree
+that would be the biggest waste of
+talent it would be almost unimaginably
+waste of talent and I think that's the
+reason why V has said you know I'm not
+really built for the number two job and
+that's why the model that would work the
+best way best would be a
+um remember how uh Jared was to Trump
+now people didn't like Jared for all the
+reasons but Jared was like a strong um
+partner who could simply execute things
+in the smartest possible way so it was
+just an
+amazing you know amazingly good luck and
+well smart I guess that Trump trusted
+Jared to do you know various portfolios
+of things but if aake if it came to
+that and V uh was considering a vice
+presidency he should only consider it if
+he if he's empowered even more than Al
+Gore was empowered during um you know
+during the Clinton years you you want a
+vice president who's got a portfolio and
+maybe here's here's the key part maybe
+the most important stuff instead of the
+ stuff am I right just have him
+do the important stuff the most
+important stuff I think he'd be great at
+that because then you could you could
+honestly say you know at the end of four
+more years of trump you would find
+yourself saying I love things the
+administration did and you probably look
+at what the vice president did in that
+case and say you know he really nailed
+these two or three areas that were just
+so
+critical so watching somebody with the's
+Talent taking on our strongest Pro or
+hardest problems would be exhilarating
+to me that would be exhilarating do do
+you know what the what it feels like
+Well here here's an example do you
+remember what it felt like to many of
+you I realize some people thought it was
+the end of the world but you remember
+what it felt like when Elon Musk bought
+to
+Twitter if if you leaned right at all
+didn't you
+immediately feel like things were
+heading in the right direction like it
+took you know took musk in an amazing
+amount of work I mean almost I can't
+even hold it in my head how much work
+was evolved to turn Twitter in or X into
+what it is now and by the way my my
+current view of X oh my God it's so much
+better the the interface on
+X that the fact that you can do you know
+pull your video windows out you can
+scroll videos and you know it's it's no
+longer I'm not throttled I mean
+everything about the experience the
+trolls are way down the number of trolls
+I get is down
+95% I I I think my trolls are down 95%
+compared to pre Prem
+musque I'm not sure why but so that's
+the same feeling I would have if
+somebody like
+vake had real
+power and the authority to go after some
+of our biggest problems because I I
+think he could poke a hole in in places
+that nobody could touch
+before all right and then he'd be an
+obvious one for president after that
+um let's talk about the uh zombie
+apocalypse in San Francisco uh so as you
+may know San Francisco is cleaning up
+because president shei of China and
+Biden are going to be visiting there's
+going to be a big economic Summit in San
+Francisco so apparently all of the
+zombie Street people and attics have
+been rounded up and everything's been
+power washed and they move them all
+somewhere but here's the
+question where'd they go and why
+couldn't they do that before and I I was
+laughing hard this morning morning
+because
+musk not only does he own the xplatform
+he's probably one of the all-time best
+posters here here's musk has a forward
+comment about the fact that all the the
+zombies in San Francisco were were moved
+right so they're now the the main parts
+of San Francisco seem you know
+clean and here's what mus said in four
+words and these four words sum up the
+last five years of your existence you
+ready for this four words from musk
+about the fact that the San Francisco
+people
+um that they're somewhere here's his
+four
+words where did they go
+H have four words ever said more where
+did they
+go because there's so much in that
+question because the first part of the
+question I mean it's
+implied why couldn't you do this
+before if wherever they are is
+acceptable why did you wait till
+now right that that's the last five
+years in in four words where did they
+go I don't know where they went so so
+part of it is that you don't have news
+that works anymore imagine listening to
+the story and the news the
+news doesn't know where they
+went I is that mind-blowing so
+everything you need to know about the
+state of news is in this question where
+did they go
+then everything you need to know about
+politics is also in the question where
+did they
+go because if they want someplace
+acceptable we could always have done
+it do you know what I'm going to add to
+the
+list I'm going to add to the list you
+know what list it is
+right Trump was
+right remember what Trump's solution to
+this was
+move them somewhere where they're simply
+away from the people who are in danger
+from
+them but just move them someplace
+safe is that not Trump's
+idea that was Trump's idea now I think
+they're moved within the city probably
+but I'm sure that they put the resources
+into making sure that they're somewhere
+where they're not bothering the
+residents too much and someplace where
+they're as safe as they were or maybe
+not any
+safer yeah this is Trump being right
+again that if there's nothing you can do
+about the fact that they exist in a free
+country you got to at least move them
+where they can exist without bothering
+you that's Trump's
+idea Greg gel's idea also you've seen
+him talk about it so geld and Trump both
+get the uh they were right on this
+one uh bill on his show was talking
+about how uh all these examples of uh
+kids attacking their
+teachers apparently half of teachers are
+planning to
+quit kids attacking
+teachers and
+now uh my childhood might have been
+different from yours but kids having
+fist fights with teachers wasn't that
+unusual in my day was that unusual in
+your day is there anybody who's
+older I remember it was always a freefor
+all no never so you went to a school
+where you never saw a teacher and and a
+student get into a fist
+fight I can think of two or three cases
+from my my experience it was the guys
+well I'll tell you what I never saw I
+never saw anybody attack a female
+teacher I never saw that do you know
+what would have happened if a male
+teacher had ever attacked a female
+teacher would have been ripped
+apart yeah you would have been ripped
+apart the students probably would have
+killed you but when it was man on man
+you know older student and a and a male
+teacher sometimes it just came to punch
+us it wasn't that
+unusual all right so it's not good I'm
+not explaining it away it looks pretty
+bad
+um here's some good news for you did you
+know that uh Trump and his adviser
+Steven Miller created this uh America
+First legal thing and it's basically to
+root out uh illegal discrimination
+against white male
+Americans and apparently they're going
+after NASCAR that has been
+discriminating against uh white people
+and they've already G after uh let's say
+Morgan Stanley Major League Baseball
+McDonald's and Starbucks and accusing
+all of them of uh discrimination and
+having you know Dei practices that are
+discriminatory now remember I always
+tell
+you that my um my objection to the
+slippery slope is that a better way to
+look at the world is not that some
+things have the quality of slipperiness
+but rather that there's not yet a
+counterforce and that slipperiness
+almost always creates a counter Force to
+stop the slipper so this would be one
+example of a counterforce so if it's
+well funded and here's my guess I'm just
+going to guess that there are a few
+billionaires who are the main funding of
+this you know it's probably open to
+anybody who wants to contribute to the
+fund but I'll bet you there's a few
+billionaires were like the main funders
+you know so it's not exactly everybody
+funding it's maybe a few
+individuals and I think that they're
+putting their money where their mouth is
+which is if if these organizations are
+going to blatantly discriminate against
+white people as they have for 40
+years ever since I was in my
+20s then finally after 40 Years of
+slipping when it's at the point where
+where uh Republican an are literally
+being
+hunted it was finally time for a counter
+Force to appear and it's Trump turns out
+Trump is the counter
+Force so he's he's backing it anyway so
+I'm very much in favor of the counter
+Force every everything that is good
+needs to have a counter Force right even
+if you think it was you know a good
+impulse things go too far you always
+need the counter Force even for good
+things not just bad
+things all right ladies and gentlemen
+there's very news that I should have
+mentioned that I
+didn't that was a that was a tight
+hour um so the one thing I want to
+accomplish is to get people to think in
+the brainwashing frame but don't think
+brainwashing is always bad because
+there's no choice when it comes to
+Children yeah let me say this is
+directly as possible children have to be
+brainwashed we just call it you know
+teaching them or educating them or
+raising them right there are other words
+on it but children do not have developed
+brains you can't let them make up their
+own
+minds right you know at depending on the
+age you know you give them more and more
+freedom as they get older but you can't
+let children make up their minds about
+what's right and wrong it just is the
+worst process in the world you have to
+brainwash them and you have to do it
+from the federal level because you can't
+trust the states not to be infected with
+a bunch of Communists which is the
+current
+situation it should be illegal to teach
+the oppressor oppressed uh okay I'm just
+going to say
+it it should be against the law to teach
+that some of your citizens are
+oppressors and some are oppressed that
+should be
+illegal does anybody agree
+it's the main operating system of our
+country and in my opinion it should
+actually be illegal it should be it
+should be as illegal as um you know how
+Germany has these really strict rules
+about uh denying the Holocaust you can
+actually go to jail in Germany you could
+go to jail for denying the
+Holocaust now that seems way way over
+the line for Americans right but is it
+over the line for Germany
+I mean nothing's like Germany you can't
+compare it to anything so if Germany
+said all right even at the risk of
+jailing some people that shouldn't be
+jailed we are never ever ever going to
+let this you know anti-jewish thing
+surface to the level where it causes
+Another World War so Germany understands
+that they will control the brainwashing
+of their children so
+carefully that you will go to jail if
+you try trying to tell the children that
+the Holocaust didn't happen you'll go to
+jail that's some serious brainwashing
+commitment but is it
+wrong probably
+not right from from our perspective
+outside of Germany it seems way too far
+like hey Free Speech right
+but this was a this was a problem that
+caused a really really really big
+problem like the biggest you could
+probably have you know the Holocaust so
+yeah you have to brainwash that out
+of people's minds and you have to do it
+aggressively and you have to do it
+unapologetically you just have to
+brainwash people that they don't need to
+be you know killing other groups of
+people all right Nazism only worked
+because they got to the young
+minds well is that
+true I mean that was a big part of it
+but didn't Hitler take over so quickly
+it wasn't really a generational
+change I thought people were already
+primed I I think Hitler had the right
+message I mean I hate to say it when I
+mean right I mean for his purposes not
+for the good of the world um for his
+purposes because World War I it created
+this feeling in the German people that
+you know they were owed something or
+they were oppressed sort of an oppressor
+oppressed model but it wasn't wrong they
+were pretty
+oppressed so it was it was the perfect
+situation to brew a World
+War uh Scott Scott Scott Moody
+threatening downgrade to US
+debt yes the US debt
+problem had better get at least its debt
+commission going I mean I definitely
+would like to see Romney and Joe Mansion
+doing an independent debt reduction
+thing
+but I I think somebody maybe of aake or
+a trump needs to say if you can't settle
+the debt we need some kind of a 2% cut
+no matter what
+rule
+and I'd like I'd like to see somebody at
+least selling that give us a 2% across
+the board unless you can agree to a
+budget that that cuts it by
+2%
+limit spending to 20% of GDP yeah or
+something like
+that what about Eric Adams being
+raided is that in the news
+today did mayor Adams oh he got uh yeah
+that was old story right that was about
+his campaign got
+raided yeah I don't know that I don't
+know what that's about but it doesn't
+look it doesn't look organic it looks
+like like some
+ his phone got taken my
+god oh no iPhone taken somebody says
+well we don't know if that was
+true oh they took all of his devices
+they took all of his devices somebody
+says Perry Johnson is Perry Johnson
+um running third
+party Perry Johnson is in favor of 2%
+cut oh
+okay Adam's phone and iPad were seized
+by the feds I'm
+seeing
+wow
+um car trag all leads to where we are
+today okay I don't know
+them
+all right you're going to burn your
+devices well I'll tell you
+again uh this
+advice assume that all of your
+Communications are going to be public
+eventually because I think they might be
+I think there's a day where Quantum
+Computing simply makes everything you've
+ever said public because it can crack
+everything and we're we're on the verge
+of that
+so you should make sure that you don't
+have any you know Murder plots or any
+any
+felonies you know I don't think you can
+get rid of anything that anything
+anybody else would criticize right if
+anybody saw your private conversations
+they'd have plenty to criticize because
+there's always somebody on every side of
+every issue but don't have any felonies
+there do not have felonies on your
+digital communication
+misdemeanor bad
+behavior saying some incautious things a
+little bit of bigotry if you've got
+those things you can probably survive
+them because if everybody's
+communication is public we're all going
+to look pretty similar similarly bad but
+don't do a felony and put it on your
+digital
+Communications you can't tell if he's
+trolling do you mean
+me
+you think uh mayor Adams is being taken
+down for challenging the illegal alien
+policy again the the obvious
+interpretation is that that's exactly
+what's
+happening you know so we're we're in a
+period where assuming the worst is also
+the most reasonable
+assumption so I hate that
+all right that's all for you uh YouTube
+thanks for joining I'm going to do one
+more uh test of traffic and you're going
+to have to repeat the word I say so I
+can see how long it takes for it to show
+up in the comments it's going to be a
+new word you ready for
+this the new word is
+bison B i s o n
+bison bison got it right
+away bison all right well that's almost
+no delay on both platforms very good I
+think there might have been a technical
+delay that got worked out so we're in
+good shape now yay everybody likes
+bison all right YouTube I'll see you
+tomorrow thanks for
+joining

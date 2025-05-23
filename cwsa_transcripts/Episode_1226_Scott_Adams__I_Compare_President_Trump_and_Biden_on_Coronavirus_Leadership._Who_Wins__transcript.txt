@@ -1,0 +1,1450 @@
+hey everybody
+come on in it's time time for
+coffee with scott adams the best time of
+the day
+every single time and
+what do you need yeah if you'd like to
+take this up a level
+all you need is a copper mug or glass a
+tanker chalice or steiner canteen jugger
+flask a vessel
+of any kind fill it with your favorite
+liquid i like coffee and join me now for
+the unparalleled pleasure of the
+dopamine
+of the day the thing that makes
+everything better it's called the
+simultaneous sip
+and you're gonna have it right now go
+ah feel
+the connectedness you know
+we're often separated by
+country type and ethnicity we're
+separated by
+gender and age and all kinds of things
+but one thing that brings us all
+together it's the simultaneous sip
+and it's pretty awesome speaking of
+awesome
+although there's a tragedy involved
+united
+airlines had a situation where a coveted
+passenger died in flight and
+as the coven passenger was gas i guess
+stop breathing uh there were actually
+multiple people who volunteered to help
+uh do cpr just just hold this in your
+head for a moment
+we're in the middle of a pandemic and
+somebody has symptoms that
+certainly look like they could have been
+coronavirus you know because it's a
+breathing problem
+and indeed it was confirmed it was real
+coronavirus
+and yet and yet
+there were multiple people who
+volunteered with their
+hesitation to perform cpr now in this
+case the cpr did not include
+mouth-to-mouth because they have oxygen
+masks
+so it's more about the compression but
+one of those people was
+uh tony aldappa who's a young man who's
+uh
+i guess he was an emergency emt type
+happened to be on the flight and he
+jumped in
+used his expertise with no hesitation
+performed
+cp cpr on the guy for a long time was
+by his own report by tony's own report
+he was covered in the man's sweat and
+urine
+by the time he was done and indeed
+tony also it looks like got coronavirus
+so he did actually get the exact risk
+that he knew was the risk when he didn't
+hesitate
+and he says now he would do it again now
+of course he's a younger
+man so his risk of dying tony's risk is
+lower than
+than the patient so statistically the
+odds were in his side
+but how do you like how do you like
+living in a world
+in which you can be in the middle of a
+pandemic
+and you go down on an airplane and there
+are
+like several people come to your rescue
+several it's pretty inspiring
+another story uh trump um is actually
+mulling reportedly he's asking people
+about uh
+reprising the apprentice
+now i'm not a big tv watcher so i don't
+have an opinion about whether that'd be
+good tv but
+it would be the top-rated show
+so if trump wants to have the top-rated
+tv show
+he can do it but it's a it's a sort of a
+weird
+career situation for trump because he
+could also have the top rated at
+anything
+basically you know whatever business he
+starts is probably going to do pretty
+well if he chooses right
+so he's got a lot of options
+steve malloy tweeted a cartoon
+uh from the washington post that was
+depicting uh trump supporters as rats
+yeah does that sound familiar so it's a
+cartoon
+depicting trump supporters as actual
+rats
+you know physical rats and
+it might sound familiar to people of a
+certain age because
+as steve pointed out in a side
+side-by-side photo
+it's uh nearly identical to nazi
+propaganda
+now very few people have
+mocked people more than i have
+for using any kind of holocaust analogy
+or nazi analogy and the reason i mock
+people who do that is that
+the whole reason that you know the
+holocaust
+is so big in our minds
+is because it was a one-off well
+one office unfortunately that's too
+optimistic it's it's something that
+doesn't happen a lot
+let's just say unfortunately it wasn't
+unique
+that there was a massacre but
+usually i say to myself wow you know
+calling an american politician
+hitler that's that's not
+you know right that's just hyperbole
+it's stupid you're just not
+you know a good part of the conversation
+but this is the first time i've ever
+i seen an exact match
+the the uh the type of communication
+that the washington post
+was using with this car cartoon of the
+trump supporters as rats
+is exactly the same as nazi propaganda
+showing the jewish population as rats
+before world war ii it's exactly the
+same
+there's no difference
+that is so shocking that i don't even
+know how the washington post stays in
+business after that
+i mean the whole the whole company
+should have been shut down
+after that like this is so bad you
+actually should have shut down the
+company
+but you know there's no law against it
+so there's no way you could actually
+shut down a company over a comic but
+this is in terms of how bad it is
+it's a close the company kind of bad
+this isn't oh sorry this doesn't run a
+correction
+or run an apology kind of thing this has
+closed the whole company
+you don't deserve to be in business
+because you are a menace to society
+if if you're a uh news organization
+uh well i've said enough on that um
+today i don't know if you can take the
+excitement but i have it's a double
+whiteboard day
+but it's not just a two-sided whiteboard
+day
+but the two sides are two different
+topics how about that
+how about that it's not even the same
+topic topic number one
+the integrity of our computing systems
+in the united states
+whoops don't want that side
+don't look don't look that's the wrong
+side no don't look
+i hope you enjoy my super high tech
+presentation
+which if you're listening to this on
+audio is really annoying
+so um all right topic one the integrity
+of our computing systems in the united
+states we found that
+with the solar winds hack that uh is
+probably
+russia our experts say trump says
+might be china it might be but the
+pompeo and the intelligence agencies are
+saying it's
+probably russia how should how much
+should you
+trust our intelligence systems who say
+it's
+probably russia what
+what what level of credibility would you
+put on
+all of our intelligence agencies being
+quite certain
+quite certain yeah zero zero
+zero is what the credibility i'd put on
+it i'd put zero on that
+now that doesn't mean they're wrong but
+in terms of
+whether you could believe them or should
+believe them based on recent history i'd
+say zero
+you know they gave us russia collusion
+so if they give you that they can give
+you anything
+but here's our situation
+we know that foreign hackers have gotten
+into
+uh pretty much a lot of our
+critical systems but one element of this
+particular hack
+is that you can't really tell if you got
+hacked or not
+that's that's built into the nature of
+the hack
+is that you wouldn't really know you
+were hacked
+so i don't use the word hacked
+uh for this graphic i use the word
+compromised
+so compromised just the way i'm going to
+be using it for this
+means that you don't know if you're
+secure or not so that's different from
+knowing you're hacked
+rather you just don't know you might
+have some bad software in there
+you might not but i want to give you the
+good news
+i don't want to dwell on the bad so we
+know that whether
+we have confirmed a hack or worse we
+simply know that
+might have been because it's compromised
+pretty much
+all of our major systems with one
+exception
+have been compromised and again it
+doesn't mean hacked
+it just means we don't know if it's
+hacked so therefore it's
+compromised in that sense but the only
+one that isn't
+is our election systems which is not one
+system but rather it's a
+constellation of different systems but
+i'll just represent it with one
+circle here so all of our other systems
+in the united states
+we know are compromised which doesn't
+mean hacked it just means it might have
+been except for the election systems
+so we we have a good solid election
+system and
+i think you'd have to chalk it up to
+luck
+because all of these systems that are
+compromised
+have just as good security
+as this one system there wasn't
+in fact some people would argue that
+it's kind of ironic
+because the one system that seems to be
+kind of weak on security
+if you were just sort of looking at it
+from the outside
+i don't think the companies would say
+that i think the companies would say
+they have good security
+but looking at it from the outside i say
+to myself
+it doesn't look so good to me but i'm
+not really a professional in that area
+so i'm going to say the the companies
+that manage these systems are
+correct and that their computer security
+is
+the best because just look at this
+every one of these other systems is
+either confirmed to be hacked
+or might have been might have been you
+don't really know
+but not the election systems and the
+reason i know this is because this is
+this is what the news says and if you
+look on social media
+even if you were going to uh let's say
+you're crazy
+if you just hypothetically let's say you
+are actually mentally insane
+and you started thinking i think the
+election
+may have been hacked and our software is
+not secure so if you're insane like that
+and obviously that would be
+clinically insane if somebody said
+something like that um
+you would be uh actually chastised on
+social media
+because even to say that
+this one is also compromised
+i mean how can you even think that
+that's
+that's a little woohoo you know well
+it's true that
+all the other systems are compromised
+whether they've been hacked or not
+through compromise but this one wow
+first rate so that's the good news i
+like to focus on the good news
+you you watch the news and they'll be
+like oh people died you know
+negative stuff pandemic but you come
+here for the optimism and
+i'm here to tell you it looks dire with
+all these
+these hacks and these compromise systems
+but thank god
+our election system is not part of that
+mess
+thank god and i'm going to take it
+further
+the the people who manage the election
+systems
+are not just better than the rest
+because they're the ones who don't have
+compromise systems
+they're not just better but i think
+they're patriots really
+and i've got a little tear of my eye
+because
+you don't really see this kind of
+patriotism often
+especially from people who might
+be citizens of other countries so you
+don't see as much american patriotism
+from citizens of other countries but
+for our election systems they're
+completely american patriotic
+and i would you join me
+just i think we should give a little
+applause for our election systems
+everybody else failed us this year they
+all failed us
+but not our election systems
+so looking on the bright side
+speaking of the bright side congress has
+finally it looks like they're going to
+have some kind of a coronavirus
+stimulus deal and
+isn't that good news i'm going to here's
+some more good news
+the coronavirus stimulus bill that our
+congress which gets a lot of congress
+gets a lot of criticism when you say
+is that too strong a statement that
+congress gets a lot of criticism it's
+true
+people are criticizing congress all the
+time and unfairly i think
+because just look at the stimulus deal
+here's here's a deal that they all
+pretty much agreed
+on months ago uh
+and it only took them what
+six months or so to do a bill that they
+all pretty much agreed on from the start
+so or at least they knew how it would
+end from the start
+the smart people say so that's pretty
+good isn't it
+like how how long is a bill supposed to
+take i feel like in the
+in the context of an emergency where
+people are starving to death
+six months is pretty fast i mean
+let's let's not criticize them for every
+little thing
+it's just a pandemic it's only people's
+entire lives
+being destroyed it's just starvation but
+six months is pretty fast and i'm not
+talking about
+something that's easy i mean this is
+practically a
+warp speed moonshot kind of a thing
+and i think congress well congress
+today is just all only compliments today
+congress
+for doing the work of one day in
+six months i salute you your patriots
+thank you thank you congress for letting
+all those people suffer
+for six months for no reason at all
+but six months still pretty good
+pretty good uh in news of um
+what would we call this uh wokeness in
+wokeness news
+uh ida bay wells you may know her
+because she was one of i think she was
+the principal behind the 16 1619
+project in which we are all trying to
+learn more
+about the founding of our of our country
+especially the uh the slavery uh
+part of the founding of the country and
+so
+uh ida bay wells was tweeting
+and she said this um it was part of a
+tweet thread so it
+sounds a little bit out of context but
+she was saying uh
+she can't get over how people talk
+disdainfully about 10 and 11 year old
+children
+well i didn't know that people speak
+distainly
+disdainfully about 10 and 11 year old
+children
+does that happen a lot of your house i
+don't
+i mean some people talk about their own
+kids sometimes but
+do people do you hear a lot of
+complaining in public on social medias
+like
+tell you this country's got some
+problems
+but no problems quite as big as our 10
+and 11 year olds
+am i right so apparently in ida
+bay wells world there's a good deal of
+complaining about 10 and 11 year olds
+i must live in a bubble because i don't
+hear it but i'll take it on
+faith that a lot of people are talking
+about those
+damn 10 and 11 year olds disdainfully
+disdainfully anyway she's talking
+how it's bad that people would imagine
+that they lack talent
+and gifts because they're being under
+uh underserved so her point is that
+kids especially in minority places
+you don't want their whole life
+determined by their bad school
+so by the the age of 11 bad school may
+have
+sort of set their fate of course
+somebody went into the comments and
+quickly noted school choice should help
+fix that
+so we have a problem which is kids
+especially minority kids getting uh
+under
+let's say a low quality education but
+there's a fix which is school choice
+because competition
+eventually tends to improve just about
+everything
+and here's what ida bay wells said
+to the comment that school choice would
+help fix that she said
+school choice literally came about to
+stymy
+integration but nice try
+so her argument against
+school choice in 2020 is that the reason
+school choice first was introduced
+was a scheme to stymie integration
+now is that true or is it false
+why do i care what's the difference if
+it's true
+what's the difference if it's false it's
+the past it's the past
+what if you found that the
+country called the united states was
+a founded around unfortunately
+in many states slavery
+would you say that the united states
+maybe is a bad
+system because it was founded on a
+pretty bad principle
+you know women couldn't vote slaves
+weren't
+considered people so is the entire
+united states bad because of the way it
+was
+founded or or
+just going to put this out there do you
+allow
+that pretty much everything in the past
+was shitty
+and it may have evolved into something
+that we like today
+because uh don't conservatives say this
+about
+uh well there's a lot of talk about how
+things were founded everything from
+democrats were really the kkk
+and uh you know uh planned parenthood
+was really about
+you know exterminating the the black
+population
+there are a lot of things that were
+founded
+for a purpose that over time became some
+other purpose
+so if your strategy for improving your
+situation
+is based on what something was founded
+as
+you've got a really bad strategy and
+i've been saying forever that the
+biggest problem in the black community
+is their strategy
+meaning that if you look for example
+let's take the lgbtq arc of
+uh freedom if you want to say if you
+look at
+how lgbtq folks have handled their own
+let's say their own struggle to
+to get equal rights in this country
+would you say that their strategy was
+good
+or bad i would say it was really good
+i would say if you were to look at the
+strategy that especially the gay
+community
+has used for what 20 or 30 years to
+improve their situation excellent
+a plus i would say just on a strategy
+level
+really really really really really good
+in every way
+i mean i can't even find anything that's
+wrong with their strategy
+so but in the in the case of the black
+population trying to improve their
+situation
+their strategy is so obviously bad
+and do you know why i can't help
+i don't know either why can't i help
+i want to help i would like to say um
+i think you're getting your strategy
+from a journalist
+you know a journalist is telling you
+that school choice
+is a bad idea essentially because of the
+the reason it was founded
+which doesn't have much correlation at
+all with why people do it today
+today they do it because they're trying
+to improve education that's sort of the
+point of it
+so if you're getting your strategy
+from a journalist have you gotten it
+from the right place
+now i don't like to be the one who says
+stay in your lane
+i believe a journalist could have the
+best strategy in the world
+but not in this case who would you
+rather listen to
+kanye who says don't get lost in the
+past
+and then went and used his own strategy
+to build a
+you know a multi-billion dollar empire
+do you want to listen to the person who
+built a multi-billion dollar empire
+about what a good strategy looks like or
+do you want to look at somebody
+who's a journalist
+there's a big difference now you could
+say well but wait a minute kanye's
+basically an artist don't you mock
+artists
+yeah i do mock artists i don't market
+i don't mock an artist who built
+multi-billion dollar
+industries there's obviously something
+going else going on with kanye he's got
+other talents it's pretty obvious so
+i think the black population uh
+really has a strategy problem that's
+just
+uh it's like it's worse than the
+pandemic like literally
+is literally worse than the pandemic and
+it's just strategy
+it really is it's come down to just
+shitty strategy
+because everything else that they want
+it's available
+i mean it's not available immediately
+you'd have to employ a strategy and
+keep on it and you know it's going to
+take years to
+to show improvement etc but it's
+available
+it's not like it's not available you
+just use a better strategy
+all right the question of asymptomatic
+spread i was talking about yesterday
+there were some studies that at least
+suggested that almost
+none of the spread comes from
+asymptomatic people
+and therefore the smart people say well
+wait a minute
+if very little of the spread can be tied
+to asymptomatic spreading
+why are asymptomatic people wearing
+masks
+right why are they why do they have to
+lock down
+because if you have to have symptoms
+to spread it at least in any meaningful
+way to spread it
+wouldn't it be easy just say well you
+got symptoms
+so you do your thing because you got
+symptoms stay away from people whatever
+you have to do
+i don't have symptoms so i'll just live
+like a normal person
+and take my less than one percent chance
+that i'll run into somebody who
+who can be an asymptomatic spreader that
+sounds logical
+right is what i just said
+completely rational to you i think my
+audience
+maybe not the whole country but my
+audience is probably compatible with
+that
+yeah if we know asymptomatic spreading
+is trivial
+why don't the people who have no
+symptoms just live life
+and the people who do have symptoms go
+to a little
+more extreme and they're quarantining
+and we're done here right wouldn't we be
+done
+i mean literally if you only made that
+change
+aren't we done is that what you think
+i don't think so and let me tell you why
+you may have had the following
+experience which i did and it goes like
+this
+someone in your family gets symptoms
+but you also have something you need to
+do
+got to travel you know
+you got things you need to do but
+somebody in the family has symptoms
+let's say they haven't been confirmed
+yet
+so the test isn't coming back because it
+takes a week to get the test
+by the way where i live my health care
+provider
+will take longer than one week so far
+to give you your test result longer than
+a week
+so if you've got a symptom and you don't
+have your test result back
+but you know that the symptom could be
+one of you know a variety of different
+things
+and you've got stuff to do
+let me ask you this do you quarantine
+with
+extreme rigorousness
+you'd like to think you would right
+if you're not in the situation you say
+to yourself uh of course i would
+if somebody in my family had symptoms
+yeah
+i'm gonna lock that person up in a
+closet you know whatever
+i'm gonna stay away i'm gonna you know
+i'm gonna move out to a hotel for a week
+that's what you say let me tell you what
+you do
+it's a little thing called cognitive
+dissonance
+that's right if you find yourself in
+this situation
+you will invent rationalizations
+why it doesn't apply to you
+you think you won't but you will
+you will and you will do that reliably
+and predictably every psychologist
+who understands the field would be able
+to predict this with
+complete certainty that once you're in
+the situation
+you're going to say yeah
+but we'll just have little johnny
+sit in the back seat and tell him to
+breathe sideways
+yeah we'll just tell we'll just tell
+johnny to wear a mask and we'll
+bundle the other kids into the little
+car and stay there for three hours while
+we're driving in this little confined
+space
+with somebody who probably has coveted
+but
+you know we don't have the test results
+back and i'm feeling maybe it was
+probably a cold
+and ah you know i don't believe in you
+know
+right people will justify
+any risk away to do what they want to do
+it's the most basic part of our
+operating system
+is we don't care about reasons now let
+me take that back
+we don't care about facts and we also
+don't care about what we said we would
+do
+we don't care about any of that we kind
+of want to do
+what we want to do and if there's
+something stopping us from doing it
+we will imagine it doesn't matter
+because of reasons that we make up that
+only sound good to us
+but anybody looking on would say that
+doesn't sound like a good reason
+until they're in it and then that very
+person who criticized you
+they get in the same situation they do
+the same freaking thing
+cognitive dissonance is very very
+predictable
+and those people would say you know it's
+not that big a deal if
+my family takes a little bit of risk
+how much difference could that make to
+the whole i mean i'm just one family and
+you know so that's what would happen so
+the point is if you were to make a rule
+that said
+you only need a mask if you have
+symptoms
+what would happen people with symptoms
+would find a reason not to wear a mask
+and they would say to themselves yeah i
+do have symptoms i'm coughing
+i got a dry cough i can't smell anything
+but i feel like it's the flu i'm sorry i
+feel like it's allergies
+how many people who had coronavirus
+symptoms
+would tell themselves it was it was just
+allergies
+so they didn't have to wear the mask to
+the mall
+most of them probably more than half
+would not wear a mask with symptoms
+and they'd still go to the mall if if we
+got to the point where only
+symptom people with symptoms were
+supposed to wear masks
+so there's no way that
+the managing the asymptomatic versus
+symptomatic thing
+can work in the real world if people
+could actually
+you know comply then it'd be a great
+idea but people would not comply they
+would not even come close
+i'd like to point out that most of the
+fake news that
+well i don't know i think it's
+competitive but the news on the right
+is just filled with fake news on
+coronavirus stuff and election stuff
+news on the left is filled with fake
+news usually
+trump related fake news but probably
+we're
+we're reaching peak fade fake news
+because we're having uh at least
+potentially we're having a change of
+leadership
+i remember i told you that the that
+whoever is and
+uh whoever is not in power meaning if
+biden's in power
+fox news is sort of a power if you know
+what i mean
+uh whoever is not in power creates the
+most fake news
+but during the transition you might have
+this weird situation where both the left
+and the right are cranking out fake news
+full time until there's you know
+unambiguously
+one leader and then the fake news will
+will start to be biased just toward the
+the opposition side but at the moment
+because you've got this
+i'm not entirely sure who's the
+president at least according to
+a lot of the country you have you have
+double fake news
+so you're getting bombarded on both
+sides i would i would advise you
+that whatever credibility you put on
+your own
+news sources drop it to zero
+trust me whatever you thought was the
+credibility of your own news sources the
+ones you thought had been pretty good
+for the last several years
+just for the moment for about a month
+drop it to zero there's no credibility
+on the left or the right at the moment
+you i would see that the you we might
+creep back to a little more credibility
+but right now none
+um would you like to compare the
+leadership of joe biden
+hypothetically and president trump
+reality if you'd like to be good at
+comparing things you came to the right
+place
+a lot of what we think is political
+disagreement is just
+people who don't know how to compare
+things well arguing with people who do
+and the people who don't know how to
+compare things right don't know that
+they don't know how to do it
+here's an example let's say you were to
+compare
+who would be better in the pandemic
+leadership and i just
+took some you know some of the main
+things that are involved in leadership
+notice that i left out from the list the
+idea of
+rapid testing which is different from
+testing really fast
+so the first thing you need to know is
+that when i use the phrase
+rapid testing for coronavirus that has
+nothing in common
+with testing really fast testing really
+fast would be great
+but we don't have any products that can
+do that and be the highest level of
+accuracy
+the rapid testing is a little less
+sensitive test
+but they're so cheap that you can test a
+lot and the testing a lot
+compensates for the fact that they're a
+little less accurate if they're cheap
+everybody has them and then the
+pandemic's over trump has never pushed
+it but neither has biden
+so i would say on one of the biggest
+issues of
+coronavirus leadership both biden and
+trump
+failed 100 on just that issue
+now i say failed because neither of them
+have even said
+we considered it and here's the reason
+that we don't want to go harder at it
+had they done that i would say well i
+don't know if they failed or not
+but they've at least got a point of view
+neither biden or trump have expressed a
+public point of view on the concept of
+rapid testing
+which has nothing in common with testing
+really fast
+testing really fast is sort of stuff
+we're you know trying to do
+rapid testing is a whole different thing
+neither of them they both ignored it
+uh who would have closed travel early
+and how important it is
+this is the column that is teaching you
+how to think if you didn't already do
+this
+issues are not of equal importance all
+right
+closing the travel early probably made a
+big difference
+we can tell from the way both biden and
+trump
+talked about it during the time when it
+mattered biden was
+not in favor of closing as early as
+trump i would say the
+importance of closing the border was i'm
+just going to put a number on it
+think of this in terms of a way of
+thinking
+if you wanted to put different
+percentages here you might get a
+different outcome
+but in terms of the way to approach it
+that's that's what you want to learn
+here just the approach
+so i'm going to say 20 importance seems
+about right
+and i would say i would give that to
+trump trump did something
+right more right than biden and
+we're being fair here right this is this
+is the
+live stream where i'm not being just
+overtly political
+did trump close travel sufficiently
+early enough and aggressively enough
+especially in europe
+especially closing all the travel as
+opposed to making exceptions
+i'd say no no i think trump
+did not close early enough or tight
+enough
+but we do know for sure that biden would
+have been
+even worse because what he said he would
+do is
+obvious now in retrospect it's obvious
+biden would have been worse on this one
+and it's 20 of the whole thing all right
+in
+in my view of things how about being a
+role model for wearing masks
+i would say biden is much more
+consistent
+and his messaging is much more
+compatible
+with the experts so therefore biden's
+better
+would you say biden is better unmasked
+because he's
+closer to the experts he's more
+consistent
+and he models it consistently in public
+better than trump right well here's the
+thing
+you have to imagine that if biden had
+been president
+the conservatives would listen to him
+that's sort of crazy right
+it's not like biden would have the
+better messaging and therefore he would
+get the better
+outcome i would agree completely
+that biden's messaging on masks was
+far superior than trump's messaging on
+masks
+but here's the thing it didn't matter
+it didn't matter at all because if biden
+had been president do you think
+conservatives are going to listen to
+biden
+and say oh you know i had my own
+information
+from i don't know fox news and my own
+research
+but now that you tell me that my arch
+enemy
+biden says i should wear a mask and
+reduce my freedom
+well why didn't you tell me democrats i
+was just waiting for a democrat to tell
+me to reduce my freedom
+and now i'm all on board does anybody
+think that would have happened
+so what the the fake news has sold you
+on
+is this ridiculous idea that because
+biden's messaging on masks was better
+which it was 100 percent better not even
+close
+biden's messaging on masks killed
+trump's messaging on masks but here's
+what trump
+gets right he knows what matters
+he does a terrible job trump does on
+things that don't matter very much
+biden did a terrific job terrific job
+on something that didn't matter now the
+reason i gave it to 5
+importance is not and this is important
+not because i think masks don't work but
+because
+as a function of leadership it wasn't
+going to make that much difference
+so i'm only giving it a low percent not
+in terms of
+effectiveness of stopping anything but
+only in terms of could a leader make any
+difference
+if if you know would biden's messaging
+really move the needle no
+there's very little chance it would have
+made things better it might have made
+things worse
+if you're a conservative and you're a
+trump supporter and you see trump say
+you know i think the experts probably
+are right
+yeah maybe you should wear a mask use
+your judgment it's sort of not strong
+enough
+but at least he's trump at least he's
+the guy that many of you voted for
+if you assume that the democrats are
+masking up better than the conservatives
+who is better to com to convince a
+conservative to wear a mask
+would a conservative be more convinced
+to wear a mask
+because a leftist told them to
+or because one of their own told them to
+but he didn't tell him as strongly and
+as effectively
+which one would get you a better math
+result
+i don't think that's clear but
+it's it's a not a big
+lever vaccination speed even trump's
+critics give him
+an a-plus biden said
+follow the science if you followed the
+science would
+project warp speed have worked nope
+if you followed the science you would
+have taken the recommendation of the
+scientists
+don't push us it's going to take five
+years trump
+did not take the recommendation of the
+scientists in this
+one sense in which he said no i'm going
+to push you you're going to do it in six
+months
+and they freaking did it they actually
+did it
+i would say that the vaccination will be
+at least 70
+of the solution at least i mean you
+could put this
+higher but i wanted to leave a few
+percentages for the other stuff
+i mean maybe it's you know even higher
+than 70.
+how about lockdown persuasion the the
+just the ability of the president to get
+the states to do what he wanted to do
+and specifically to lock down would
+baiden be better at getting states
+to be a little more rigorous about
+locking down
+well he might have better messaging
+just like he might have better messaging
+on masks but would it make a difference
+do you think florida would lock down
+if it were still up to florida
+republican governor
+right do you think a republican state
+like texas
+or florida would say oh you know now
+that biden's president
+this democrat we republicans who
+disagree with him completely
+yeah we'll we'll do more lockdowns
+because now a
+democrat is telling us to lock down our
+republican state so
+yeah we're more likely to lock down no
+no no that's not going to happen
+so again you can say that the lockdown
+is
+you know the biggest most important
+thing we do
+but why you can't argue if you're being
+rational
+is that one leader would have gotten you
+much of a difference
+compared to the other i don't believe
+biden would have gotten much of a
+difference
+in terms of lockdown given that the
+states really are the prime
+movers of you know of what's happening
+there
+uh then on school closures i would say
+that at this point we just say trump is
+right
+on one of the biggest issues that has
+more to do with protecting the you know
+the mental health of our kids
+trump was just just right right
+people disagree to them but here we are
+and now people say yeah we probably
+should open the schools
+he was right now when i look at this
+if you were to say if you were to say to
+yourself incorrectly
+the two most important things might be
+mask wearing
+and lockdowns and i say incorrectly not
+based on science
+of you know whether these things stop
+things but i'm just saying that if you
+believe these are the two big things
+you tell yourself but biden's better on
+the two big things
+so that's pretty good right but what
+you're not doing
+is understanding that the two big things
+don't have really any
+sensitivity to leadership leadership
+probably not the biggest variable except
+for this
+and maybe for the school closure things
+and i would say
+this is my honest opinion with no
+hyperbole if you were to compare
+trump's leadership to bidens
+it's not even close it's not even close
+trump killed it
+on this he killed it that i think
+historians will judge
+that uh you know once they properly
+understand that biden couldn't have done
+much about masks or about lockdowns
+either which i think everybody would
+agree with
+if they thought about it once you
+realize that
+this was one of the best examples of
+leadership
+in all of history and actually i think
+the historians will someday regard it as
+one of the best
+uh especially the operation warp speed i
+think people will see it as one of the
+best acts of leadership
+of all time in the end
+and trust me if you're new to this i
+i know already the criticisms i'll get
+is that uh you know i'm just in the bag
+for trump and whatever
+blah blah i'm just gonna support trump
+but you've all heard me criticize them
+including on the rapid testing which is
+a giant mistake it just happens to be a
+mistake that biden is making at the same
+time
+here's my christmas provocation related
+to this
+and i'll remind you i said this if trump
+had been president of south korea
+instead of being president of the united
+states would his result in south korea
+be just as good against the coronavirus
+as as south korea got which is
+considered a success
+i say yes if trump had been president of
+south korea
+he would have done just as well as the
+south korean president did
+why well apparently there's a private
+company in south korea
+who as soon as the the virus was
+identified
+started working hard on test kits and so
+south korea for a number of reasons they
+had sort of an
+island situation because of the the dmz
+doesn't let anybody through so
+effectively they were kind of an island
+so that's a big advantage
+and then they had the coincidental
+advantage of having
+a company that independently stepped up
+and gave them enough testing for their
+little island country
+so that was different if trump had been
+president of south korea
+still that independent private company
+would have still
+did what it did it noticed the virus it
+made the test kits
+and so south korea had had a way to test
+their way to tamping it down that just
+wasn't available in the united states
+so you take the president of south korea
+and you move into the united states
+he wants to be the same leader and he's
+like hey let's
+let's test really fast and then he finds
+out he can't
+because in the united states there was
+not a company that
+independently created a bunch of really
+good tests
+really fast didn't happen here and it
+wasn't because south korea was
+was so well managed it was because there
+was an independent company
+that got ahead of the curve that's it
+that and the fact that they're an island
+nation then on top of that you add the
+culture
+if you assume that masks work is would
+you get better compliance in south korea
+no matter who is the president would you
+get better mass
+compliance and social distancing in
+south korea
+yes yeah there's a cultural difference
+if you move the president of south korea
+over to the united states and that
+president said hey everybody
+wear masks and do social distancing
+would he get more compliance
+than trump did i don't think so
+would would biden get more compliance
+than either
+trump would or the president of south
+korea if he had been the president of
+the united states
+i don't think so there's no evidence he
+would have gotten more compliance
+they would have basically been doing the
+same thing and gotten the same result
+so my argument is this the country makes
+the leader as much as the leader makes
+the country
+and we put too much belief in the in the
+leader's work
+as the the main mechanism of change and
+they are
+obviously very important but really
+the office makes the president the
+country makes the president
+the reason we have a president trump is
+because there's something about america
+right you don't get it you don't get
+president trump
+unless there's something about america
+and you don't get you don't get maybe a
+president trump
+elected in south korea because whatever
+it is about south korea it's different
+so thinking that the leader is changing
+the country
+is a little bit of wrong think it's
+actually that the
+nature of the country so
+so long as they have a democratic
+process is giving you
+the leader that the country wanted
+so keep that in mind
+all right um
+here's the reason that the fake news
+can't criticize
+trump for what i consider his biggest
+mistake in the pandemic
+which is not pursuing the rapid testing
+idea
+which is completely different from
+testing really fast
+i recovered that because if the fake
+news
+criticized trump for not doing it
+what would happen what would happen if
+the fake news
+criticized trump for not doing the rapid
+testing technique
+if they criticized him for it it would
+educate people
+what it was and that it would happen
+so if the fake news criticized trump for
+not doing
+rapid testing there would already be
+rapid testing
+so they would actually solve the
+pandemic by criticizing trump
+somebody says they did i know there had
+been an article or two about it but
+basically it's not really a story on cnn
+or msnbc
+it's not a headline story that they they
+pound all the time
+it's just something they mentioned and
+then they dropped it and left
+all right that
+uh so watch this in the comments how
+many people don't understand what rapid
+testing is so you're seeing the comments
+oh there's this place in the united
+states that is doing rapid testing
+oh there was a rapid test recently
+approved
+none of them are rapid testing so if you
+believe
+that we're close to it or working toward
+it or the
+things that have been recently approved
+are in this category of called
+rapid testing you don't know what rapid
+testing is
+what you're talking about is tests that
+are
+kind of fast that's not rapid testing
+because you have to add the cheap and
+super rapid part of it
+or else it's a whole different concept
+uh somebody's saying how accurate are
+rapid tests that is a misunderstanding
+of what a rapid test is
+so to ask the question if you're asking
+the question
+how accurate the rapid tests are then
+you don't understand the concept of a
+rapid test
+the concept is that a a
+a lower accurate test will get you a
+better result
+if you do enough of them because if the
+first test doesn't work
+the second one does etc
+somebody says low accuracy testing is
+not as useful as you think it is
+how do you know where was it tested
+i think that the logic of it is so
+strong that while i accept
+i accept the possibility that it might
+not be the kill shot i think
+the fact that it's not being at least
+tested somewhere you know may be tested
+in a state or something
+the fact that it's not being tested is
+complete failure
+right even if once you tested it it
+wasn't as good as you thought
+but the fact that you're not testing it
+and so obviously
+looks like it's a good idea even if
+you're wrong
+giant mistake now i say the same thing
+about hydroxychloroquine if it turns out
+that hydroxychloroquine has
+no impact on the coronavirus
+it would still be unambiguously a
+mistake
+that we didn't try it before we you know
+could have certainty
+because the risk reward was right even
+if even if the drug was no good
+all right that's all we get uh
+so all right that's all for now and i'll
+talk to you tomorrow
+all right looking at you youtube
+periscope is off uh somebody says it
+wasn't a mistake
+paul says it was intentional
+maybe i mean i don't know what
+intentional means in this case but
+maybe somebody says thank god the liquor
+store
+stayed open well you know what uh if you
+watch conservative news
+one part of the fake news on
+conservative news
+was this uh keeping open the liquor
+stores
+when you heard that liquor stores were
+gonna stay open but you know other
+businesses were
+not didn't you say to yourself ah how
+does that make sense
+liquor is optional and the answer is
+alcoholics
+if you have a pandemic and alcoholics
+don't have access to
+legally by alcohol they're still going
+to get it
+just they would do it illegally or they
+would uh have major
+medical problems for having to suddenly
+stop drinking
+which is not the best way to stop
+drinking in many cases
+so the question on liquor stores if if
+you saw a story that the liquor stores
+were staying open
+and they did not mention the next fact
+that uh addiction specialists or experts
+actually recommended it so addiction
+experts
+recommended for health reasons
+to keep liquor stores open because the
+the people who are addicted to liquor
+if they stop cold turkey it's a problem
+they need to stop professionally and
+with it with the system and
+you know maybe uh they need to in they
+need to be in treatment
+in order to make the stopping be a good
+idea
+so are the experts right you know are
+the addiction experts right who said you
+know
+maybe if it's short-term just leave the
+liquor stores open
+are they right i don't know i don't know
+but they had a reason
+and that reason isn't generally not
+reported on conservative news
+so if if the experts have a reason and
+your news didn't show you the reason
+whether or not you agreed with it
+is different but they didn't even show
+you the reason
+that's fake news all right that's all
+for now
+i'll see

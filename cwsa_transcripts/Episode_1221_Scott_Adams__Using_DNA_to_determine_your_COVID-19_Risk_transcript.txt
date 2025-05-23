@@ -1,0 +1,366 @@
+all right today we have a very special
+single topic
+and i'm here with uh razzie become a
+spokesperson and geneticist
+uh associated with traitwell and we're
+going to talk about
+dna and its potential to find out who
+has maybe
+worse risk with covid19 how are you
+received
+i mean i don't have covet 19. so yeah
+you're already ahead of the game right
+there
+so tell me if somebody wanted to check
+their dna
+and we'll talk about the science behind
+it and the privacy and all that
+but just start out with what would they
+do if they wanted to know
+today what would somebody do to find out
+if their dna
+suggests a higher risk for 12 19. yeah
+so you know basically within the last
+six months there's been a lot of
+research
+on covert 19 and people have looked
+at populations of people who have been
+hospitalized
+not hospitalized they were infected not
+infected
+and tried to figure out what the
+susceptibilities were and there was a
+bunch of genetic hits that came up in
+the literature
+genome-wide associations some of your
+listeners probably heard about those
+um there's one on chromosome 3
+that basically if you have the
+susceptibility allele which basically
+means okay you got a marker that says
+you're more susceptible you're about two
+times as likely to be
+having severe covet which means
+hospitalized you know it's
+it's it's a it's not just the flu okay
+yeah now help me with these statistics
+should i really care about doubling my
+risk because you're doubling such a
+small number
+would i even know the difference depends
+on what your other risks are probably
+like if you're if you're if you're 18
+you're asking a very good question
+in terms of what are you talking about
+receive right um
+if you are 72 let's say you can't retire
+for some reason so i'm
+you know obviously i'm not a medical
+doctor i'm not making recommendations
+but life is about trade-offs
+um i feel like our our discourse forgets
+that
+sometimes you need to work um we need to
+have people in supermarkets you know we
+need to have people driving trucks we
+need to have people doing various things
+but there are certain risks um that go
+with that and the risks are not the same
+for everybody if you have type 2
+diabetes
+if you have a heart condition if you're
+immunocompromised we can go down through
+the list
+a lot of these are associated with
+genetics right so
+so right now there's a website that
+people can go to
+and enter not only their dna if they
+have that file
+but also their comorbidities what is it
+what is the website and how
+who accesses it and how yeah it's cove
+coveted forecaster.com
+um it's associated with traitwell and so
+um if you go to trade well on twitter
+t-r-a-i-t-w-e-e-l-l
+basically what we're doing there is
+we're taking the information
+from your dna and the information that
+you're giving based on
+you know i mean you could lie about your
+weight um that's up to you but
+uh you know uh we there's been a lot of
+information
+of the comorbidities and so that affects
+your risk calculus
+as well as well as your genetics so um
+you know
+let's be entirely frank if i had to know
+about your risk on chromosome 3 that
+particular position
+as opposed to whether you're an 85 year
+old with heart disease obviously
+i'm going to look for an 85 year old
+with heart disease right so
+i don't want to dismiss environment or
+the
+non-genetic aspect so so how
+um how accurate should we assume
+that this is so it's impossible to know
+yet
+right yeah we're still getting
+information so i would say let me let me
+speak to the genetics part
+because uh the environmental part is you
+know
+environment environment um and depends
+on your test population
+so the genetic part there was a paper
+that came out in new england journal
+of medicine using spanish and italian
+data
+uh in the spring um in spanish and
+italian hospitals in spain hospitals in
+italy
+they found five to ten percent of people
+um in western europe had this
+risk locus um had this risk marker right
+and this is severely associated on the
+order of about like two
+two you know odds ratio of like you know
+to a factor of two
+um against your just general risk
+they replicated that 23andme the
+director's consumer genomics company
+they replicated that result
+with um a much larger american sample
+set it's about the same number
+um like almost two right so um
+if you're asking me personally you know
+one publication even if it's
+peer-reviewed who knows
+but the fact that they found it in
+another much larger population
+in the fall in another country suggests
+to me that yes there are underlying
+genetic
+factors around that position and also a
+secondary
+effect like a 25 chance increase risk on
+a
+chromosome 9 so you know most of these
+characteristics have like all these
+little genetic effects
+so for example height or intelligence um
+what we're here
+what we're doing here is focusing on
+something that's kind of common so
+five to ten percent is kind of common um
+and has a has a non-trivial effect
+oh okay and now
+the public has gotten this great lesson
+in science
+that non-scientists you know hadn't had
+until
+covet and so we we've trained the public
+that there's
+you know the gold standard you know uh
+random controlled
+testing and that can tell you something
+useful and if there are two of them
+that's better
+where would you put this on the scale of
+1 to 10 where 10 is a randomized
+controlled
+let's say a reproducible study so that's
+a 10. where where's your reliability
+for for this because this is a different
+kind of animal
+yeah um you know those are the gold
+standard uh yeah i put them like
+seven and a half because it's been in
+large populations in different countries
+uh
+and also i mean you know
+this isn't like a casual trait like
+people really care and they're tracking
+this in hospitals right
+right so so the the odds are good that
+you're on to something
+there's just always a caveat that you
+know
+science changes and while we know
+changes so how do you deal with
+um the the privacy element
+i know enough about it that if i've
+taken a 23andme
+or some genealogy uh kinds of sites
+where you've already uploaded maybe your
+dna
+if you've done 23andme as i have i can
+just download it from my site
+my app lets me do that and then i can
+just upload it to your site
+and i actually did that it's you know
+minutes i mean
+there's no friction there's no friction
+at all just download and upload
+yeah well i mean you know yeah i mean
+you know obviously everyone has to take
+that seriously um
+you know there's only okay let's be like
+entirely frank like
+make reasonable rational calculations
+i've talked to engineers
+um it seems like making a good faith
+effort at that
+um and also in terms of uh in terms of
+privacy i mean i think honestly
+um the weakest position is not the
+direct
+consumer genomics companies um it's the
+hospitals
+um in terms of uh database breaks and
+stuff like that i
+you know this is just a pet peeve of
+mine i don't know why hospitals don't
+get much
+flack for this because a lot of these
+companies have had issues
+but um hospital databases are
+notoriously creaky so
+in terms of privacy i think there are a
+lot of low-hanging fruit out there and i
+don't want to minimize
+it but um in the grand car but
+if you're comparing your risk of losing
+your dna
+to i don't know the internet or
+something uh how
+controlled is your is the app i mean
+do you feel that you've got a good
+handle on that privacy wise
+yeah i think so um you know uh you think
+it's
+it's encrypted in a database that's uh
+you know not
+it's not like i mean sql injections all
+the standard things you know um
+we did we did check for that okay um
+yeah my my thing on dna and privacy is
+that uh
+i'm not gonna try i'm making my dna
+anybody who wants my dna i'll make it
+public
+i'll i'll publish my i'll publish my old
+dna
+but i don't recommend that for anybody
+else it's just a personal choice i just
+don't think that should be a secret
+um now is it possible
+somebody asked me this question when
+they knew i was going to talk to you
+could could this sort of thing be done
+in the future with a maybe a little
+different technique to find out if
+somebody would have a bad reaction to
+the vaccine
+yeah but the data has to come in so
+unfortunately
+right not with any data that we have but
+is there
+the the process could identify that
+there's a dna
+yeah correlation would you suspect that
+there is
+i'm going to be honest like most things
+that are
+that are biological have some heritable
+you know
+um a lot of times we don't care um let
+me let me tell you a story
+um my and a friend who
+died um induction into the marines from
+the anthrax vaccine
+this happens every year but it's a risk
+that we take
+right um don't talk about it very much i
+know about it because
+friend right um probably if i had to bet
+he had some very rare mutation that
+doesn't have any problem
+otherwise right you can't predict that
+yeah
+so anybody who's joining us uh now
+there's already a
+site where you can put in your dna and
+other comorbidities
+it's called the covidforecaster.com
+it's exactly like a sound spell the way
+it sounds
+and um do you have any uh
+any other warnings or caveats about
+using the system
+uh my my take based on what i've seen
+is that i would add it to the many other
+risk
+risk management variables that you're
+weighing when you're deciding everything
+from
+you know how how much should i fight to
+be first in line to get that vaccine
+to how much should i you know go crazy
+on social distancing versus you know
+being a normal responsible person uh
+but i wouldn't say it's the you would
+agree that you can't say it's a hundred
+percent
+anything for any one person yeah just
+one more variable to add to a lot of
+variables
+yeah these sorts of things are updating
+and changing over time based on the
+information we have
+right so you update your priors based on
+what you have
+um we know so much more in six months in
+a good way
+and in a bad way um about this sort of
+issue so
+that's one thing i would say it's always
+an evolving thing your dna doesn't
+change but the information we have about
+it does
+so um so this is great i just wanted to
+keep this
+short and tight let everybody know that
+there's a way they can upload their
+dna now the does the company commit that
+it doesn't
+really it doesn't sell the dna it
+doesn't release the dna
+standard center so you'd have the same
+risk
+that you have where it is which is
+if it's already at 23 and me it's
+already in somebody's database
+this this is the reason that i don't
+obsess about protecting my dna
+i just don't think it's a thing you know
+in the same way that
+i don't think i would ever have privacy
+in digital communication
+i mean i want it but i have but i live
+my life like it's not really a thing so
+it's the same standard i used
+so it's coveted forecaster.com razeeb
+khan
+thank you very much for sharing this
+with us
+and it's a one more tool we'll add it
+we'll add it to the good news that's
+coming out on covent
+because we got enough bad news all right
+and uh
+have a great day

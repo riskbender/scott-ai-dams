@@ -1,0 +1,466 @@
+i can get this to work
+well here's an experiment in audio
+design you want to see the setup here we
+go
+we've got two road casters
+one here one over there connect it to
+one each to an ipad and
+right now to a laptop so
+in theory you're getting excellent sound
+both in youtube and in locals
+so sounds great over at locals i'm
+hearing
+and is the the volume nice and loud
+i've got the de-esser going on here
+yeah i think i had a wrong setting or
+wrong cable or something this morning
+but i decided to solve this with brute
+force
+so my my long-term goal had been this
+to have two simultaneous platforms so
+i've got
+youtube here and the locals platform
+over here
+and i wanted to have only one microphone
+had to be a clip on because i moved too
+much so i like to move around
+but i wanted one microphone going into
+whatever devices
+a de-esser and i wanted it to stream to
+two devices so
+the the other thing that i wanted to
+accomplish
+is that if you use one of the
+consolidation softwares like
+obs you get a delay
+in the comments so the comments are not
+real time
+so if i've got real devices i'm going to
+have two ipads but right now i have an
+ipad and a laptop
+i've got a road caster pro
+going to each stream but i've got one
+microphone
+with an xlr t connection
+so that i could have one microphone go
+to two road casters
+and then by usb c
+connection the only one i found that
+works
+goes to the laptop and the ipad
+yeah i played back the morning podcast
+and it was way lower than normal not
+sure exactly why
+i cut your hair hippie oh the de-esser
+is working good
+so now i have a de-esser on both sides
+and
+what's the mic level showing um i'm
+about
+three quarters up on the mic level so
+it's not quite hitting the the orange
+yet
+um sound seems fine
+f those youtubers you say well
+have i done it after five years of
+experimenting
+have i finally accomplished the ultimate
+which is finding a
+a capable system now there's nobody
+who's getting low sound now right
+everybody's getting a nice crisp sound
+the bsr has a de-esser
+yeah i do uh
+it's louder persistent sounds good
+yay i think we got it now i've told you
+before that i'm a
+autodidac which means that it takes me
+ten times longer to do anything and the
+reason is that i
+i try to work things out myself and i'm
+not
+qualified story of my life and so what i
+did was
+i tried to teach myself enough about
+audio engineering that i could put
+together
+a system that would just work every time
+for me
+and i can't tell you how many times i
+tried and failed
+you should see the pile of cables and
+hardware and connections
+and gadgets in my my back store room
+it's just chairs are full of
+because i've got bad storage but
+i've tried if i had to guess how many
+times i've tried to get this
+right before getting it right now
+i'd say
+maybe 150 tries something like that
+there's still people saying the volume's
+too low
+apparently nobody can be happy well my
+my ultimate dream is that i'll know who
+the trolls are
+because the sound will be fine
+yeah sounds perfect we pay people a
+hundred thousand
+dollars to do what you've done part of
+what i wanted to do here
+is see if i could through brute force
+which means
+basically paying a little extra money
+and trying everything
+i wanted to see if i could come up with
+a system that would work
+for everyone and
+the volume is too medium
+so here's maximum volume right there all
+right
+youtube you've got maximum volume i'll
+put up the microphone too
+all right the microphone and the
+output are both at maximum value volume
+is that better
+um just right so you like it at maximum
+value
+volume do you have audio compression
+i don't think it's compressing now
+oh it's better okay uh
+level was good before going to max so
+some of you are having a different
+experience
+uh locals is all good yeah i tested
+locals myself and that looks good
+how loud are you talking um i'm
+talking like i would talk to somebody
+who is let's say
+on the other side of a living room so
+i'm giving it a little oomph
+but i'm not talking like i would talk
+you know up close uh
+compression sounds like you would do the
+fuzz some good
+i don't know would it
+so uh if i if i get this
+to work more than once
+take the kill shot if i get this to work
+more than once i'll document it
+so people can figure it out at the
+moment
+this would cost you about three thousand
+dollars per
+stream so between the uh
+the road caster pro the dedicated ipad
+and the microphones about three thousand
+dollars per stream
+so that's expensive i have another
+another way to do it but it doesn't have
+a built-in de-esser
+um what time is it yes it's not the
+morning
+do you ever have that that thing where
+you take an afternoon nap
+and you wake up and you think it's the
+morning but it's really
+it's 5 p.m instead of 5 a.m
+per stream yes 3 000 per stream
+so the the setup i have here not
+counting the cost of the
+laptop is about six thousand dollars
+so that's the high-end ipad plus a road
+caster plus a
+high-end microphone
+um
+volume on youtube is slightly lower
+okay so i've got youtube um
+all the way up yeah one time purchase
+that's correct
+um audio is only
+great yeah so current current situation
+is about three thousand dollars per
+stream
+now i have a i have a less expensive
+option but it doesn't have a de-esser
+built in and i would have to do a little
+engineering to make that work
+uh kevin says it's slightly hissy
+does anybody else have that the um
+microphone max is best
+so i've got the macro i got both the
+microphone and the output
+at max i think i'll uh
+oh i hear somebody say no hiss okay so
+some of that
+somebody says feedback i doubt there's
+feedback i've got one microphone
+nobody else is hearing feedback right
+sounds a little tinny
+i think the hiss is due to compression
+but i don't think i have any compression
+turned on
+no feedback and not tinny so it looks
+like uh
+can you adjust screams to look at both
+youtube and locals at the same time oh
+yeah i can
+when i'm not doing a test let's let's
+see what that looks like
+so the question was could i put my
+screens close enough together
+that i'm looking at both of you at the
+same time and the answer is yes
+and i am so embarrassed that somebody
+had to tell me how to do this
+so the the first bunch of times i did
+this i had two ipads sitting next to
+each other
+and it was difficult because the the
+camera is on the same side
+so one would be here and then the other
+one would be on the other side of the
+other
+the other ipad and it i think i used it
+like that for
+i don't know two years and somebody said
+take the second ipad and turn it upside
+down
+and put the two cameras together now of
+course the ipad doesn't care which side
+it is because it just adjusts to upside
+down
+so all i had to do was put the cameras
+together turn it upside down
+listen to both simultaneously
+good thank you thank you for doing all
+this testing by the way
+um yeah so youtube is on an ipad
+and i've got the laptop right now
+working on
+locals uh the next thing i'm going to do
+is i have
+ipads on order so i have two ipads
+and then i can get the lighting the same
+the same on both
+um
+corey you're happy with my test thank
+you
+raise your voice in anger
+uh you would do this stream while
+holding a cat if i could get my cat
+to stay still i would totally do my live
+stream
+with a cat now let me let me tell you
+what i've
+learned so far about sound equipment
+number one wouldn't you love to see a
+big professional looking microphone
+they might give you a little extra
+advantage but i find it's one more thing
+to think about
+because if there's a microphone that i
+have to adjust to
+then when i'm doing all of my moving
+back and forth and grabbing my coffee
+cup and stuff
+my audio is going to be suspect or i'm
+going to be thinking too much
+about being close to the microphone how
+many times have you seen
+joe rogan where he has to tell the guest
+to be closer to the microphone
+so you do what you want to avoid in
+every case
+is any extra complication
+any at all the the slightest extra
+complication
+you just have to get rid of it because
+there are massive failure points
+so everything about this is just to
+drive it to the lowest
+potential failure point
+now what i found was that the a high
+quality
+lavalier clip on mic which might only
+cost
+you know 20 bucks or something gives you
+as good a sound
+for this purpose as a you know an
+expensive
+desktop or microphone that comes from
+above
+the de-esser settings are too high
+well the de-esser only has one setting
+on these devices
+so the de-esser is either on or off
+and i i do know enough to know this some
+de-essers
+you know you customize to your voice
+i don't believe the road caster pro has
+that option i think it's just
+on or off so it's probably picking some
+middle ground de-esser situation
+ask dave rubin how he does a sound i
+know the answer to that
+so i've been in dave rubin's home
+studio a few times and the way he does
+the sound is he hires an engineer
+i could do that i know how to hire an
+engineer
+but the whole thing is that i do my live
+stream
+in my pajamas in my house
+all alone drinking coffee
+that's sort of the whole deal as soon as
+i add a staff
+it's just not the same show
+you should not be too entertained by
+this this is a
+audio check but i since you're here i
+thought i'd
+gabby you a little bit
+host lost connection somebody's saying
+but that
+must not be affecting everybody else
+uh mic check
+all right everything's working great all
+right well i will see you
+in the morning at my official coffee
+with scott adams
+and uh i can't wait
+to finally get the sound right the
+lighting is brilliant
+i can do the lighting better but at the
+moment
+so let me show you over on youtube it'll
+be easier to show you i think
+i guess that doesn't work
+there it is
+so
+uh don't look at my ratty massage here
+so i've got these uh
+blackout curtains which the youtube
+folks are looking at right now
+uh but one of them is these are
+the battery charged so it's not closed
+uh and i gotta say the if you're trying
+to do the
+any kind of uh podcasting and you're
+trying to get the light right
+here's the biggest tip if your room
+cannot be made totally dark with
+blackout curtains
+you can never get the right light right
+so let me say that again if anybody's
+trying to do this i spent
+months and months and months to learn
+this difficult lesson
+if there's any light coming from
+anywhere outside the room
+you just can't light it it just can't be
+done because that light will always
+change
+it's never the same the light coming
+from outside
+all right and that
+why am i making you look at curtains
+doesn't make sense
+so here's my device
+and then i can program these babies
+these buttons over here
+um on the sorry locals i was just
+showing the youtube people something so
+on the road caster i've got buttons i
+can
+program with sound effects and certain
+things
+so i'll be playing with that a little
+bit is this the best room for you to
+broadcast
+i haven't tried them all
+um am i gonna program
+ad-libs
+all right uh yeah this is
+this is massive a b testing you're
+seeing it live
+you know i've told you before that um
+having no shame whatsoever
+an inability to be embarrassed
+um if there's inability to be
+embarrassed is like a superpower
+so i've been testing my audio live
+and failing massively i've been failing
+in the live stream failing the tests i
+said earlier i probably tested
+150 different hardware
+configurations to get a sound right
+um all right
+a little shine off the top of my head
+yeah the other thing i do is if i get
+the lighting
+indirect enough i don't need to have
+makeup you can see
+unfortunately with the better lighting
+you can see that i would need it if i
+if i were going to light it well
+would i like some tips sure
+shows the deck again and we can
+troubleshoot it
+well there's there's nothing to see here
+it's i mean i
+i don't have any problem with the
+hardware or the
+technology it's pretty straightforward
+the the hardest part was figuring out
+which outputs to use which is why i
+ended up with two of them
+because i can't get one of them to do
+two outputs no matter what i do
+and i tried dozens and dozens of ways to
+do it and none of them worked
+but this works um
+intro music in the future maybe i'm
+still trying to uh
+learn the drums am i still in my pj's
+dumb and my
+i'm in my gym shorts right now uh
+any comments on that anomaly guy well
+not today i think we said what we needed
+to say
+but i've noticed that my critics
+don't disagree with me my critics
+especially in all the covent stuff those
+critics
+almost universally the people who don't
+like my takes
+didn't didn't understand them so
+if you subtracted my critics who simply
+didn't understand my point
+i wouldn't have any left basically
+uh road is great customer service well
+i'm not so sure i'd say that
+i did ask for help and didn't get any so
+i had to figure it out myself
+any comment on the arizona results
+well the fact checkers uh as of today
+said that there's no irregularity there
+at the same time the the the headlines
+in fox news were there lots of
+regularities
+but the fact checkers said nope no
+regularies
+no irregularities
+so i'm willing to
+accept any possibility there could be
+they find something could be they don't
+and frankly neither situation would
+surprise me i think they're both in play
+at this point
+all right i'm going to shut down now and
+do some other stuff and i will see you
+in the morning we'll talk about all
+those irregularities and more
+thanks for watching in my soundcheck
+youtubers i hope this is better for
+tomorrow

@@ -1,0 +1,1798 @@
+we're going to have a
+show I think let me get your comments
+working
+here
+perfect
+Perfecto well if you're listening to
+this and not viewing it you don't know
+that there's a Dilbert comic that's up
+on the screen I hope you see
+it uh and Dilbert he's training his
+elbonian replacement and the boss says
+to Dilbert good news after you train
+your elbonian replacement I'll be
+reducing payroll expenses while being
+more diverse it's a twofer and dber says
+will you be treating him like a slave
+and the boss says oh right it's a
+ther so always always up on the current
+trends all right let's see if I can
+change that screen back to me there we
+go how goodlooking I
+am well you may Wonder uh if I drink
+enough coffee
+will it cause a reduction in my OCD well
+yes I
+[Music]
+will all right let's make this official
+good morning everybody and welcome to
+the highlight of human civilization it's
+called coffee with Scott Adams and I
+don't think you've ever had a better
+time but if you'd like to take this
+experience up to levels where they can
+never understand it in Greenland and
+Panama and those other places we're
+going to conquer all you need for that
+is a cuper muger a glass of tanker chal
+ofstein a Canen Jugger flask vessel of
+any kind fill it with your favorite
+liquid I like coffee join me now for the
+unparallel pleasure the dopamine end of
+the day the thing that makes everything
+better it's called the simultaneous Sip
+and it happens
+now exceler
+well so I've got lots of tech news and a
+bunch of bunch of political news uh Al
+I'm going to say most of the tech news
+too after the political stuff but there
+a couple of cool things uh CES the the
+technology show is happening right now
+for 2025 and one of the things that's
+being introduced is a 3D
+projector now not the kind that projects
+on a flat screen and it gives it you
+know the appearance of being 3D it
+actually creates the 3D holograph and
+can put it on your table and have a
+dance in front of
+you now I don't know if they can do it
+with photo realistic stuff they did it
+with an animation so you look at the
+table and and sitting on the
+table apparently is a little character
+that's dancing right in front of you in
+uh as a 3D object kind of amazing I
+didn't think that was going to
+come well I did a little uh deeper dive
+on Quantum Computing because I was
+trying to understand I've told you this
+before uh when I hear people explain how
+it works or why it works it sounds like
+word salad and I thought to myself H I
+guess maybe it's because I don't have
+the technology background but if I did
+I'd understand that word salad and I
+went deeper and deeper and I'm I'm quite
+sure that nobody knows why it works
+I'm fairly positive and you've heard
+things like I think Joe Rogan said this
+the other
+day the quantum Computing works because
+it accesses the Infinity of other
+dimensions nothing like that's happening
+there there's nothing like accessing
+other
+dimensions that's not happening uh we
+don't know what is happening but there's
+no indication it's accessing another
+dimension if there is one what is it
+even so the the things they say are
+things like well you know the this
+probability wave uh interferes with
+another one and between the two of them
+they can predict the future without
+using any logic or any
+calculation they just see the
+future and and that future they see
+could be like the solution to a
+difficult you know uh problem like a
+math problem or and I say to
+myself really you just interfere a
+couple of probabilities and then you can
+see the
+future so what Quantum Computing
+is alleging to do is literally see the
+future or or to peer into the past I
+guess too none of this is really
+possible as far as I know so I thought
+to myself it must be me right there just
+because I don't understand the field and
+I've now seen two experts who do
+understand it kind of suggest that
+nobody understands it and we don't know
+if it could ever even be commercial in a
+in a big way I mean it might have some
+Niche you know specific things it can do
+but it's never going to be a general
+computer um so forget about having your
+own quantum computer it doesn't look
+like that's going to happen but Nvidia
+just created a three 3,000 personal AI
+supercomputer and it's uh it's only this
+little
+box which if you wanted to work on AI if
+if I understand it right it would be
+like a um a data center in a tiny little
+box so if you were working with AI
+instead of having to access a data
+center you can access this little box on
+your desk and apparently you have like
+full AI
+capability so I don't know the ins and
+outs and the pluses and minuses of doing
+that versus having access to the uh
+actual full data center but it's got 200
+billion parameters and it looks like a
+big deal and then they also they also
+have a secret chip that's going to go in
+humanoid
+robots so uh with all those new
+introductions I guess the stock for
+NVIDIA would
+be and it's
+down I don't know maybe people expected
+more seemed pretty impressive to me I
+think Nvidia is over worth well over3
+trillion dollar now and you know they're
+they're talking about things that looks
+like it would have a big impact on
+Tesla because um if they put these
+humanoid chips and
+robots does Tesla buy some of those
+chips or do they have their own chips
+for the robots so I don't know who's
+smart enough to know if any of these
+Nvidia things have any impact on Tesla's
+future but I don't know we'll see um in
+the guardian they're saying that virtual
+employees could come this year in other
+words a a AI agent that can take
+instructions and act like a person and
+get things done I'm GNA go contrary I'm
+going to say it won't happen and that's
+based on my experience where I tried to
+create over the summer I tried a lot I I
+worked pretty hard on it trying to
+create a
+AI agent that could just answer some
+questions on my dilbert.com web page and
+what I learned is it doesn't look like
+it's possible and here's the problem
+with the current
+AI which which would be different from
+the future versions which are AGI but
+the one that uses a large language model
+and just use patterns it can't answer
+the questions reliably because it
+hallucinates and you can't stop it and
+even if you have a database and you say
+AI uh do you see this database yes I can
+read it can you tell me something that's
+on the page yes here it is you go okay
+you can definitely read the data here's
+my instructions when I ask you a
+question only look at this database
+which is just a document and and only
+answer from that okay got it and then
+you ask a question it'll just make
+something up without even looking at the
+document
+so that was UN commercial
+product there was actually a launched
+commercial product that as far as I can
+tell doesn't work and I don't think
+there was any competitor so there was
+nobody who had figured out how to make
+it stop hallucinating and as far as I
+know it might not be
+possible because the large language
+models don't just follow rules they've
+got a whole different you know mechanism
+I don't think you could make that
+reliable I think bi its nature it's
+unreliable and I don't know that you
+could tweak it fix it patch it I don't
+think you can get there from here so
+that's why they need the AGI that would
+be a whole different technology that we
+haven't seen yet I don't think it's
+invented but I guess they Sam mman
+thinks are getting close and it could
+happen pretty soon um but I'm going to
+go contrarian and say the current AI is
+not going to create an employee that you
+can rely
+on uh so I'm contrarian there all right
+so there were at least two things that
+were fake news that I reposted yesterday
+without knowing there were fake
+news now how much worse is this going to
+get how many times am I going to get
+fooled by something that really looks
+real
+um it didn't make much difference one of
+them was um a parody that showed a
+company that would be the reconstituted
+Enron creating a nuclear egg
+you know something you could hold in
+your arms there would be a nuclear power
+plant for your personal home it was just
+like a big egg and the commercial for it
+was really well done it had
+specifications and how to use it and
+everything uh but it was
+parody it wasn't labeled clearly parody
+though so I looked at it and I'm looking
+for the parody part I didn't I didn't
+see parody so I reposted it thought but
+I asked at least I was at least I was
+aware enough to say is this real when I
+reposted it but if it was real it' be a
+big deal it wasn't real it's not
+real so I think that they
+cheated um the rules on X is that it
+must be clearly labeled it was labeled
+but I think the whole clearly part you
+maybe is in question meanwhile there's a
+new study according to just the news
+Stephen Richards is writing that new
+study says that Tik Tok suppresses
+anti-china
+content so it has both anti and
+pro-china content but it suppresses the
+anti and promotes the other now is there
+anybody you know who's been telling you
+this for
+years is there anybody who said uh uh
+you know the that China is got their
+finger on this and there's no way that
+this is all you know
+objective I I talked to a Tik Tock user
+the other day and I I mentioned it was
+going to be you know it would be banned
+unless an American buys it and and I
+said it's because you know it could be
+persuasive in a way we don't like and
+the person I talk to said but you don't
+understand you don't use Tik Tok if you
+did you know that I see both sides of
+every story and I said do you how do you
+know well because I see both sides sides
+now I think that's true I think both
+sides of every story are in fact on Tik
+Tok but the problem is which one do you
+see the most and who sees
+it and as I explained to the Tik Tok
+user who she'll remain
+anonymous I said uh what if what if
+there are some people using Tik Tok that
+Tik Tok can tell for sure they cannot be
+influenced meaning that you're a hard
+Democrat or you're hard Republican
+you're not going anywhere but do you
+think that Tik Tok can identify people
+who are on the fence cuz everything
+depends on the people on the fence The
+Independents do you think it can
+identify an independent and if it did do
+you think the independent would get
+exactly as
+much you know content as you're
+seeing so the thing is that you can't
+tell if persuasion is happening you just
+see what you see and if the only thing
+you knows that you're seeing both sides
+you don't know if you're the person
+they're trying to influence and maybe
+you're not so maybe you're just seeing
+regular content but uh there's no way
+that they're going to keep their finger
+off the button if it's so easy to move
+the you know persuasion needle so anyway
+this it's not peer reviewed yet but it
+will be so maybe it's not valid we'll
+see what the peer review says but I
+think it's just so
+obvious you know you could have just
+asked me you didn't have have to do the
+study do you think China will use this
+to influence the
+world
+duh
+duh so China did make a weapon of mass
+persuasion and uh Kevin o seems to be
+one of the people who part of a group
+looking to buy it so it would stay Tik
+Tock could stay in business but become
+an American thing with American data and
+American control I don't know if that's
+going to happen but we'll
+see all right
+um oh so the Washington Post is
+reporting uh according to the New York
+Post is reporting about the Washington
+Post um that Trump uh is talking about
+scaling back his tariff
+threats and making them more about
+specific Industries instead of making
+them broad now here's my
+question why is the Washington Post
+working against the interests of the
+United
+States 100% of the people watching the
+story know that Trump is using tariffs
+for negotiation everybody knows it do
+you think the Washington Post doesn't
+know that he's using it for
+negotiations so the main thing that you
+do if you're negotiating is you come in
+with your hardest offer you know the the
+toughest one so that you can negotiate
+from that should you need to
+so Trump has been consistent oh yeah
+we're we're going to tariff everything
+from Canada if we have to or everything
+from China I don't know if he says that
+but but he acts like the Tariff is just
+going to be wonderful and great and good
+for the country and and then the smart
+people say but but it's like he doesn't
+understand tariffs he doesn't know that
+the American company pays for it not the
+you know not the foreign company
+shipping in to which I say settle down
+it's for negotiating
+he doesn't have to he doesn't have to
+say your version in order for this to
+work he has to
+pretend I'll say pretend that he wants
+tariffs so badly and they're so good
+that the more tariffs he has the happier
+he's going to be and then go into the
+negotiation but the Washington Post is
+trying to kneecap him they they're
+broadcasting to the world that he
+doesn't mean his his starting
+position what are they trying to
+accomplish
+is that just trying to ruin the country
+are they just is just an anti-American
+entity and they they decide what to
+write about based on how bad it is for
+America now I don't think that's the
+case but it looks like it why why does
+it look like it I guess they they want
+to attack Trump in any way they can so
+there's still a resistance publication
+they're nowhere near the middle and they
+think this is somehow what what
+advancing the interests of who who and
+then of course you have to ask the
+question what would tariffs do to
+amazon.com probably not good for
+business so this is a kind of reporting
+that um even though it's uh I'm sure
+it's accurate I don't think it's
+inaccurate but this is the sort of thing
+you should brush over as in some people
+say that you know it's a negotiating
+position that's not telling anybody
+anything but if you say it's a
+negotiating position and he's already
+saying that he's not going to stick with
+it well that's not reporting that's just
+ruining his negotiating position that's
+like getting in the story so very
+unhappy about that well yesterday the
+Democrats um who have been saying for
+eight years that Trump is Hiller uh they
+were quite proud of their peaceful
+transfer of power to Hiller
+do you think that anybody in their base
+has noticed that they called him Hitler
+for eight years said he's the biggest
+risk to America and then they're acting
+proud that they rolled over and gave him
+the win to protect
+democracy that's right the Democrat
+message is Trump is Hitler and we're
+going to protect democracy by peacefully
+putting him into power
+um does anybody on their side see
+that is it just us are we the only ones
+who see that nothing they did makes
+sense
+unless unless the primary thing they've
+been telling you for eight years was
+known to be a lie when they said it
+which is the case obviously it was a
+lie
+unbelievable just
+unbelievable then Biden is going to
+release 11 yemeni detainees from guano
+moay in other words people with
+suspected terrorist Tendencies two of
+them were I think uh Osama Bin Laden's
+bodyguards but the Biden Administration
+is assuring us that they've been either
+rehabilitated or vetted and checked down
+and they just want to send them to
+Oman to which I say om man
+how is that a good idea now if he said
+we're just doing it to save money then
+at least I could say well seems like a
+dangerous thing but at least it say his
+money but they're not really saying
+that does this it looks like a
+prank it it looks like somebody sat down
+and say all right what's the worst thing
+we could do well let's let's do
+something that's just like so
+indefensible that it'll just be
+funny like why is it that his actual
+policies are indistinguishable from what
+I would call a practical
+joke like that would be a good practical
+joke oh we're going to free a bunch of
+terrorists
+why it's just the power the president
+has I I know but but
+why well we're going to release 11 them
+to Oman but
+why well we checked them out and uh you
+know we think this is a good play but
+what do you know that we don't
+know unless you've put internal bombs in
+them so they blow up when they reach
+Oman how is this good for
+America it's it's it looks like a joke
+meanwhile CNN's Harry enton um did a
+survey and asked people what their
+biggest memories of trump were from
+prior Administration
+and apparently the January 6 event um
+only 5% of the people surveyed said that
+was their biggest memory of trump now
+this poll is
+ridiculous so if you thought oh that's
+telling me something the whole world has
+moved on
+no the question was you know what's the
+first thing you remember and Trump is
+somebody who reminds you of a hundred
+things so if you ask a poll and you say
+What's the the biggest one and they
+don't pick January 6 I don't think that
+means they don't care about it I mean I
+don't think people do care about it that
+much but I don't think this poll is
+useful what's interesting is that CNN
+would feature
+it because it it has the it I I think
+it's a you know biased absurd poll with
+no no credibility whatsoever but it's on
+CNN and it's unambiguously Pro Trump
+meaning that the country doesn't care
+about the thing that they've been
+reporting on for a for what four years
+the country doesn't care was CNN's
+reporting which would be consistent with
+their you know decline in
+ratings so forget about the accuracy of
+the poll just look at the fact that it
+was on CNN at all that's kind of
+interesting apparently speaking of
+pranking the Biden Department of Justice
+is going to bring 200 more uh people up
+on charges for January 6
+and not this January 6 you know the
+original now the Gateway pundits
+reporting this why in the world would
+they do
+that don't they know that they're just
+going to be granted clemency or pardon
+like it just again this one looks like
+okay that's a prank right that like
+you're not serious are you you're you're
+actually going to charge 200 more spend
+all that money and all that time to ruin
+their lives when you know they're going
+to be
+released how in the world does that make
+sense like none of it looks real it just
+doesn't look like real people made these
+decisions it looks like a bad dream or a
+prank or practical joke or
+something well one of the big fun
+stories today is that Mark Zuckerberg
+did a video in which he says he's quite
+radically going to change how Facebook
+um sleta
+is
+censoring and he seems to have gone to
+full
+Trump um he said that the Trump election
+was sort of a cultural pivot
+point so he starts out by saying
+directly that the mood of the country is
+very clearly you know magal looking and
+that he wants to adapt to it now these
+are my words not his exact words but
+very clearly he was saying you know we
+live in a in a world in which Trump won
+the
+majority and Facebook would be better
+off as a company if it started to be
+more compatible with that point of view
+now that point of view is less
+censorship and you know better processes
+for the censorship so he described what
+he's going to do which is remarkable now
+as I'm talking about this I know exactly
+what you're going to be thinking you're
+going to say to me Scott but what about
+all the terrible terrible things he did
+in the past with Facebook you know
+Banning people and censoring and all
+that those are true things that I don't
+care about because I don't live in the
+past if I lived in the past I would care
+about it now you might say but but Scott
+what took him so long to which I say
+everything good takes too long I'm not
+going to judge him for taking too long
+I'm going to be happy if it's a good
+idea so I think and I I'll tell you more
+details but I think he is right on point
+it's one of the most brilliant CEO moves
+you'll ever see he is so smart and again
+I know that you're going to say but but
+I'm so mad at him I can't get over it I
+get it I get it you don't like what he
+did in the past and I'm not defending it
+I'm just saying that the moves he's
+making now probably are exactly what he
+says and they're good listen to this
+um he's going to get rid of fact
+checking he's going to get rid of the
+fact Checkers because they're biased
+what does that sound like that's Mega
+that's that's pure Mega the fact
+Checkers are fake and you have to get so
+he's getting rid of them do you know
+what he's going to replace fact checking
+with he's going to copy Community notes
+from X and he says that's what he's
+going to do I'm going to basically copy
+X and use Community notes because it
+works
+so musk went first Community notes is
+quite successful I would say
+and um Zuckerberg noticed and so he's
+copying now it's not easy to be a social
+media Network and say um you see my kind
+of a competitor I'm just going to copy
+that because it was a good
+idea that that's what Zuckerberg can do
+like it's just brilliant but there's
+more
+um they're going to get rid of the
+automated sensoring and only consider
+sensing some situations where somebody's
+being reported so there'll still be
+things censored you know the the worst
+violent stuff you know the usual stuff
+but uh it won't be automated you'll have
+to report it
+now do you approve of that yes you do
+because you want humans to decide
+whether humans can can or cannot do so
+you don't want the algorithm deciding so
+yeah that's good
+um he says explicitly that the new
+process is going to let a lot more
+inappropriate stuff on the platform but
+that the principle of free speech is
+more important do you have a problem
+with that no that's that's America he
+just described a perfect Mega opinion
+about Free Speech it's messy it's
+violent sometimes it's dangerous but
+it's free speech and the alternative is
+worse
+now here's the one that will blow your
+mind the the moderation the human
+moderators apparently they're they're in
+California what's going to happen if
+your moderators live in California well
+it's all going to be liberal opinions of
+what should be allowed and what should
+not so here's what he's
+doing he's moving the moderation from
+California to
+Texas let that sink in for a moment he's
+moving the moderation from California
+because they're too biased to
+Texas does that sound like
+magga
+yeah it sounds like exactly what you
+would have done it's exactly what you
+would have done you would have moved it
+to
+Texas and he says he's going to this is
+this might be the the real money shot
+here he says he's going to work with
+Trump um to i' say influence or pressure
+other countries to not um try to put
+Facebook meta and a
+business
+and that's smart so he's completely
+aware that he needs the Trump
+Administration and the government of the
+United States to back him and and
+threaten other countries say look if
+you're going to censor us over there and
+that hasn't impact on our American
+company we're going to terar you or
+we're going to you know stop prot
+protecting you or something
+so I love
+this um so other some other countries
+probably had back doors and everything
+else and you want to get rid of that I
+think
+so a lot of people said is Zuckerberg
+just chasing the money and and this is
+not his own philosophical opinion he's
+just knows he has to do it to chase
+money to which I say
+so so well what why is that bad he's the
+head of a major uh commercial Enterprise
+he's not allowed to chase
+money chasing money means being
+compatible with the country you're
+serving so I don't care I don't care if
+that's his only motivation if it's his
+only motivation and he can clearly say
+that getting out of that censorship
+business is good for business working
+with Trump productively is good for
+business um supporting systems that
+would give you more free speech is good
+for business if the only thing he wanted
+to do is make money I would say good job
+excellent that you you nailed it if you
+just want to make money I'm completely
+supportive of that now some of you might
+say but but Scott it's a trick because
+he did all those things in the past to
+buy us a
+system it's pretty transparent he's
+either going to do these things he said
+or he's not I mean that moderation will
+either move to Texas or it won't you
+know the the automated the automated
+system will either catch things or it
+won't we can watch it's all transparent
+I I think it's
+brilliant because he was in a tough
+place and I think he's completely
+cognizant of the way Facebook and maybe
+even his personal donations to try to
+fix the elections uh fix as in improve
+um he probably knows that that was a
+huge mistake and that it distorted the
+system in a way that the syst system
+wasn't built to be distorted so to me it
+looks like he thought he was doing the
+right thing and thought he was working
+with the government of the time
+productively as he saw it I guess and
+now he knows that those are all mistakes
+and so he's doing a really hard pivot
+hard as in it's hard to explain it it's
+hard
+to you know especially to his own
+company imagine imagine how much trouble
+he's getting from his own employees
+today do you know how hard that would be
+to go against all your liberal employees
+and just do a pure mega version of of
+the
+service now when I say pure magga I want
+to be really careful with my words he's
+not saying I want to be right-wing when
+I say pure magga I mean just compatible
+with the Constitution and that's it it
+just we just want free speech so if he
+gives us that pretty happy we'll see I
+mean I agree with you that the jury's
+out he he has to perform but everything
+about his history suggest he knows how
+to
+perform all right so all
+good Wall Street Journal is talking
+about the success of Robbie Starbuck and
+I guess he's got a staff of people who
+are who have got now how many 15 public
+companies to change or abandon their Dei
+and lgbtq
+policies and what's interesting about
+this is you already knew Robbie Starbuck
+was having a lot of success there what's
+different is that it's now a big article
+in the Wall Street
+Journal do you know how big that
+is like every major
+corporation has somebody paying
+attention to the Wall Street Journal so
+it's one thing when you know Robbie
+Starbuck is bragging on X that things
+are working and he has a right to brag
+by the way he's doing amazing work um
+but once it's in the Wall Street Journal
+that's the thing that every business has
+to pay attention to you can't ignore the
+Wall Street Journal if you're in a
+business so it kind of It kind of raised
+Starbucks profile and it raised it in
+the context of he's winning like
+crazy that's how you want to be
+elevated because if he's winning like
+crazy and it's creating the uh creating
+a pattern in your brain that these big
+corporations that you figure is are no
+dumber than you are are making this
+change then the 16th 17th and 18th
+corporation that he talks to he's going
+to say I got 15 in a row do you think
+that's an
+accident no because if you say
+no uh the Wall Street Journal has
+already lifted my you know my visibility
+people like me with big accounts are uh
+backing him hard um we're in trouble so
+he is so he's very very cleverly
+assembled a set of supporters on X that
+are enormous you know just big accounts
+who are willing to say yeah do more of
+that so he he isn't using uh his own
+power he's doing such good work on
+behalf of people who have big accounts
+in the rest of the country I would say
+that uh we want to back him we want to
+see more of it so he's he's built a
+perfect little machine to R over the the
+Dei excesses perfect it's all good news
+Well you want me to talk about Don Jr uh
+recently just landed in Greenland maybe
+an hour ago and um it does seem that
+this trip he's with Charlie Kirk and
+some few other people and it does seem
+that the intention of the trip is to set
+the ground workor for a deal to buy it
+that's like a real thing and
+this again I I hate to be gushing about
+smart people doing smart things but can
+you even think of a smarter way for
+Trump to approach this than to have Don
+Jr of all people of all people Don Jr
+visit personally and interact with the
+residents now have you seen the early
+pictures the residents of
+Greenland are pretty happy that Don Jr's
+there now for one thing they probably
+don't get a lot of you know celebrity
+excitement so they got that going for
+them but they don't seem like
+liberals I don't know much about
+Greenland but you know from the little
+bit I've seen they seem like working
+class people who want to be left alone
+does that sound like anything you've
+heard of before Working Class People who
+just want the government to leave them
+alone I've got a feeling that there's a
+lot of smartness behind
+Trump's idea of buying Greenland that he
+might know that the population is just
+ready to
+be um
+seduced and if if Trump himself went
+there you would agree that would be the
+wrong move
+right at this point he's not even sworn
+in so it would it would definitely be
+the wrong move for Trump himself to go
+but who would be more
+perfect to basically seduce the the the
+blue color color people who probably
+like outdoorsy things they're probably
+just like Don Jr it's probably just a
+bunch of Greenland Don jors and he lands
+in the middle of it and I think he's
+here's what I think he's going to
+do first of all he takes this wild idea
+and he turns it concrete because there's
+a real person who really matters who's
+really there like it's not conceptual so
+Trump has already turned it from
+conceptual to its
+underway it's amazing the the the level
+of his
+persuasive um instincts are just crazy I
+mean I've never seen anything this good
+honestly so I ask you again is there
+anybody on the planet who would have
+been a better choice to send to
+Greenland today answer no best one on
+the planet for what I for what the
+intention is um is it likely that Don Jr
+will touch a lot of people meaning that
+a lot of people will know he's there see
+him interact with him yes there are only
+56,000 people in the whole country of
+Greenland my my little town is twice
+that
+size he's going to be able to reach
+touch have some impact on a healthy
+little chunk of that and it's probably
+enough to make them all get serious
+about it now I think that the only thing
+required for Greenland to say yes is for
+the Greenland people to feel good about
+Trump how are you going to feel when he
+sends his son out to hang out with you
+you're going to feel good about it
+you're going to feel like oh this this
+Don Jr is like a regular guy Don Jr does
+the best job of being a rich guy acting
+like a regular guy now I don't think
+he's acting exactly I I think that's his
+actual personality um he's perfect for
+this job just perfect I love everything
+about this anyway um let's talk about
+these other
+countries um oh and just one last thing
+about Greenland I'm sure it would be
+good for Denmark to sell Greenland
+because they can't afford to protect it
+and it will be important to protect it
+going forward because the because the
+ice melting above it and Russia and
+China are going to be having their ships
+around there and it's got resources that
+people care about you know Rare Earth
+material minerals Etc
+so Denmark would not want to admit it
+because you know they'd rather stay in a
+negotiating mode and say no no there's
+no way we'd ever sell this but they
+would be better off I don't think
+they're getting a lot of uh
+International Prestige for being
+colonizers of
+Greenland are do they do the people in
+Denmark wake up and say ah feel good
+about my country because of our control
+of Greenland there's nothing in it for
+Greenland except expense yeah they're
+just paying for what's there so it's
+good it's good for Denmark it's probably
+good for
+Greenland almost certainly and it could
+be good for the United States and
+definitely good for
+Canada to have us protecting on both
+sides so that would put Canada between
+Greenland and
+Alaska if you can if you can tell me
+that there would be a safer place on
+Earth than being between our you know
+two assets of the United States it's a
+pretty good situation so I don't know if
+the deal is going to happen but it is in
+everyone's interest somewhat
+unambiguously like clearly obviously in
+everybody's interest I think he's going
+to get it done I think this will be
+amazing um meanwhile Trump also has
+talks about Canada becoming a state and
+he keeps he keeps joking about it but
+not really
+um which is fascinating now here's what
+I think you know it it sounded like just
+a you know a trumpian joke to make fun
+of Trudeau for being like a governor
+instead of a leader of the country but
+given what's happening in Canada I don't
+think we I don't think the United States
+can take a chance that a calipat forms
+on our northern border and that's what's
+happening now you might say Scott Scott
+there are so few uh Muslims in Canada
+that's you're crazy to which I say
+that's how it happens it happens with
+too few that's that's the whole way it
+happens you have too few and then you
+say well a few more wouldn't matter few
+more well no problem so far so why not
+have a few more and so far no problem
+stop being racist let's get a few more
+as some point when you reach around 10%
+of the population the radicals Within
+that group will come to control the
+moderates because radicals are willing
+to die for what they want the moderates
+are not they're just trying to get along
+so that the the most extreme people in
+any group tend to rise to control of it
+right it's just natural it's has nothing
+to do with Islam it's just the Natural
+Way anything works the the most the
+people are willing to die for it
+literally are going to be in
+charge um or die trying so I don't think
+we can take a chance that Canada is
+heading really hard toward getting that
+10% population which could easily turn
+into the seeds of a caliphate and we
+could have we could have an Islamic
+country in our northern border that's no
+good because of the compatibility with
+the systems
+so so
+um the other thing is that if you put
+into the mix that you might want to buy
+can Canada or have them merge with us I
+guess not buy it it makes the Greenland
+thing seem more
+normal you know somebody was pointing
+out that that Trump is ruining the uh
+what is it the Overton window or
+something uh so he's got so many things
+going on that you don't know where to
+stop to criticize them you're you're
+just like whipped from one topic to
+another so I love the fact that you Sim
+simultaneously talking about uh Panama
+Canal Canada and Greenland
+it that's just so trumpy and perfect to
+be talking about all of them at the same
+time it's very strategically smart
+because even if he just wants one of
+them to happen or two of them it's good
+to throw Canada in the mix so as you
+know Trudeau is stepping down I saw it
+um eventually he announced it and I saw
+um Scott Jennings the Republican guy
+that they have on CNN who does a great
+job
+and he said that the the removal or the
+leaving or the quitting of uh
+Trudeau uh you could draw a direct line
+from the Canadian truckers
+situation do you think that's true do
+you think that the evil that he put on
+the Canadian truckers for protesting you
+know canceling their Banking and you
+know just my god do you think that that
+was sort of the the thing that pushed
+Canada over the line and even eventually
+led to Trudeau having to step
+down do you think there is a straight
+line I think there is obviously it took
+more than that but yeah I I think the
+the trucker kind of got it done so
+congratulations Canadian truckers
+BJ um Take a
+Bow I know he's listening all right
+um so should we talk about Elon Musk
+angering Canada or angering
+Britain or uh let's see angering Germany
+or angering France where would you like
+me to
+start so after Elon Musk becomes the you
+know determinant factor maybe for why
+Trump gets elected he seems to change
+you know change his Focus or for at
+least some of his time on other
+countries
+and so let's just run through the list
+of who who is made mad
+recently um so up in Canada there's a
+report we don't know if it's true some
+musk asked for a fact check on it but uh
+allegedly some islamists in Canada are
+holding a uh conference which again is
+not confirmed it's just being reported
+uh on how to defeat All non-muslim
+Nations and create a global
+caliphate now they're pretty far away
+from having enough power to do that sort
+of thing but the way it starts is with a
+first meeting to talk about it so so
+elon's looking at that with a one
+eyebrow up like the rest of us should
+be
+um and of course he's accused of
+racism so so Canada has the that problem
+that we've kind of solved in the United
+States and I'll call it the Andrew
+Breitbart solution
+it goes like this you wanting to close
+the border you're a racist you're racist
+you're
+racist and then as Andrew Breitbart
+teaches you say
+so well but you're racist you're racist
+you're
+racist
+so yeah and I don't think that's
+literally what's happening but and I
+don't think that anybody wants to be a
+racist and they're not they're not
+they're racist they're just not
+interested in your
+opinion that's the win the win is to not
+be interested
+so yeah yep yep that's true so but
+Canada still thinks that if they
+complain about somebody being a racist
+that that the person they complain about
+will have to change their ways and
+apologize and get in
+line to which Elon Musk does not say but
+may indeed be thinking
+so that's what that's what Canada needs
+just two letters so yeah yeah that this
+would be terribly bad for one
+group everything is
+so you'll get
+there um the other fake news that I sent
+around yesterday accidentally was a
+video of Trudeau resigning uh in a bar
+watching it and as it happened the bar
+erupted in Wild cheers that that was
+actually a fake video the bar was real
+but they were reacting to a sporting
+event but somebody put Trudeau on the TV
+screen and it made it look like they
+were they were celebrating his his
+stepping down but that was fake news
+um all right so you think things are bad
+in the
+UK If I had to describe to you how bad
+things are going in the UK what would be
+the fewest words that I could use to
+describe how bad it is over there well
+I'll see if I can do it the fewest words
+to describe how bad things are in the UK
+all right how I'm going to go with this
+Andrew Tate's running for prime
+minister um anything else you need to
+know but it gets better now first of all
+I do know that you don't run for prime
+minister so before you jump in and say
+Scott you don't understand the system
+they you know the prime minister is
+selected by the other elected people to
+be their leader blah blah blah I don't
+care he he says he's running for prime
+minister which presumably he knows he
+needs to get into the government and
+then be part of a party that has enough
+support to make him the prime minister
+so I'm not worried about the details now
+uh Andrew Tate is serious you serious
+about it now but he also says whether he
+wins or loses he can sort of force the
+conversation to be about the things they
+need to talk about and he can bring
+attention to the worst parts of their
+system and he can now I'm going to say
+something that will shock you because
+you're not going to be ready for this
+remember in 2015 when I was the one of
+the first people in the country besides
+you know Anne Coulter to say that uh you
+don't understand Trump's like not like
+normal people he has this persuasion
+skill stack that will eviscerate
+anything he comes in contact with that
+challenges him until he has hollowed out
+the Republican party and become
+president now of course everybody
+laughed at me and said you're so stupid
+because he's just a crazy clown and he
+doesn't have any government experience
+so I can tell you one thing a crazy
+clown with oh oh and he also has like
+lots of you know scandals like probably
+did things with women that you don't
+like does that sound familiar well you
+may know that there was some press
+coverage that Andrew Tate had um at
+least for some number of years I don't
+know if he's still does uh an actual
+hypnotist who was in his inner circle an
+actual
+hypnotist like not somebody who just
+read up on
+it when you saw his popularity rise did
+it seem to you like it was
+unnatural like how in the world did he
+pull that off and become like the the
+number one thing on a lot of uh internet
+and the answer is he he has the talent
+stack now you don't have to like him I
+don't like him right so you might know I
+have a little history with him and we're
+not friends I don't endorse him I don't
+think I want him to be the Prime
+Minister of Great
+Britain but nonetheless if you were
+looking at it as just a
+talent a talent story does he have the
+talent to break through the system and
+the answer is yes the answer is yes
+because he has the ability to mobilize
+males and if he gets enough of them he's
+just Trump it's a trump strategy the the
+men in Great Britain are completely
+underserved and know it they just don't
+have any politician who's willing to say
+men you're underserved
+let's change that if Andrew Tate gets
+enough traction that the men of Great
+Britain hear him say that or some
+version of men you're completely
+underserved I'm going to help you
+protect the country I know you want to
+but the government's preventing you now
+we're going to protect the country we're
+going to keep out you know the bad
+elements Etc now I'm assuming and you
+know get rid of the grooming gangs and
+stuff like that now what's interesting
+is that t allegedly is converted to
+Islam
+so is it possible he would get some
+Muslim
+support as long as he's said some
+version of you know I'm Muslim too but
+you guys are crazy you know we're not
+going to make a caliphate that's crazy
+I'm going to prevent you from trying to
+form a caliphate I'm going to prevent
+you from trying to create your own
+Society within England I'm going to stop
+it and I'm one of you I'm one you and
+I'm going to stop
+it that'd be pretty strong right you
+know Trump went from Democrat to
+Republican is it a stretch that take
+went to Islam and then he could control
+not control but he would be influential
+potentially with other Islamic citizens
+and with men we already know he has a
+superow because men kind of like his you
+know audacious they like the whole Act
+so here's the thing I'm going to warn
+you about I wouldn't bet that he will
+become prominent in um the UK political
+system I would bet against it I would
+bet against
+it however if you think it's crazy or
+you think he doesn't have the talent
+you're wrong he has the talent he does
+have the talent he has the talent to to
+just hollow out their entire government
+and wear it like a suit
+like Trump did exactly like Trump did so
+if you don't think there's a path
+there's a path there's a path I would
+bet against it but there's a
+path
+um all right the only the only defense
+that they could have against his
+persuasive abilities would be the legal
+system just put them in jail and of
+course control of the media so the media
+never gives him any attention so that
+might work I don't know if it's
+enough didn't work in
+America
+um let's see uh so so musk did a poll on
+X he said uh you wanted to response to
+this America should Liberate the people
+of Britain from their tyrannical
+government 58% people said
+yes I have no idea how serious he is
+about that I don't think it's serious I
+I think he's just you sort of making a
+point and trolling them a little bit uh
+but but now the UK prime minister that
+care Kier starmer who needs a name I can
+pronounce I demand he changed his name
+uh is accusing musk of spreading
+misinformation blah blah blah they're
+all mad and then other countries like uh
+France so macron and France
+um is uh complaining that uh musk is
+interfering with other
+countries so what did musk say when
+macron um said in public that musk was
+interfering with other countries musk
+says oh like the time Stormer called uh
+real Donald Trump a racist and said the
+British government should do everything
+to stop
+him that
+happened good point or how about when
+Storer sent British labor party members
+to campaign in the US against President
+Trump was that
+interfering and those aren't even the
+good ones you want a good one have you
+heard of something called the steel
+dossier where an ex intelligence person
+from the UK came up with this whole fake
+thing yeah an X intelligence person from
+the UK there's no X intelligence
+people that was just the Great Britain
+interfering with with the United States
+that's what that
+was
+um and then my funniest
+part was this a a British politician
+named ed Davy he went on X to speak his
+mind he said quote people have had
+enough of Elon Musk interfering with our
+country's democracy when he clearly
+knows nothing about
+Britain it's time to summon the US
+ambassador to ask why an incoming Us
+official is suggesting the UK government
+should be
+overthrown
+um so there's nothing
+funnier than a person saying that Elon
+Musk doesn't understand their
+complicated
+situation because you know that not
+that's not been his
+domain to which I
+say really Elon
+Musk doesn't understand a complicated
+thing and doesn't have the ability to
+get up to speed really quickly cuz I
+mean how could
+he come
+on listen to Jordan Peterson's book I
+probably won't all right so nothing's
+funnier than telling Elon Musk he can't
+handle a complicated situation and Elon
+said in response said what exactly do I
+fail to understand about your failure to
+stop the Mass rape of little girls in
+Britain you sniveling
+cron
+okay that covers it no nothing else to
+say but but the audacity of the
+sniveling creedon Ed Davy to imagine
+that his world is the complicated kind
+that somebody who somebody like Elon
+Musk could possibly understand like oh
+well we don't understand the
+complications of why you're allowing
+these horrific crimes yeah maybe he
+doesn't know the
+Nuance I swear every time somebody says
+that Elon Musk is dumb or doesn't
+understand something I just shake my
+head it's like have you watched anything
+he's done for the last 30
+years anyway it's literally all he does
+the reason he's world famous is he
+enters domains in which he knows nothing
+about and almost immediately is the best
+one in the domain like that's literally
+what he does all right um and uh car
+starmer said he's considering cutting
+ties with the US unless Donald Trump
+distan himself from Elon Musk to which I
+say it's about time yeah why why don't
+we cut our diplomatic um cut our
+diplomatic ties I'm totally okay with
+that I I I think if if the UK is really
+threatening free speech in America in
+America and Elon is in America and he
+has free speech if they're going to
+attack United States because of free
+speech of anybody doesn't matter if he's
+part of the government elected not
+elected advisor citizen recent you know
+recent citizen it doesn't matter he gets
+to say anything he wants you know within
+within certain decency standards um so
+now if Great Britain is trying to
+squelch the free speech of anybody in
+America we should cut
+ties we've done it
+before yeah we should cut
+ties um then of course mus is uh has
+been advocating I think for the what
+they call the farri alternative party in
+Germany the afd now the story part of
+the story you need to understand is that
+when musk says the quote far right party
+in Germany is is the one that would do a
+better job it's not far
+right so that's just something the news
+says if you looked at their far right it
+would sort of look like Maga you know
+that that's my understanding now uh
+unlike Elon I don't know a lot about
+Germany so I'm not going to pretend to
+but uh I don't think it's true that
+there's some kind of extremist group I
+do think maybe they had something in
+their past like that but remember the
+Democrats have the KKK in their past but
+if you hold it against them today that
+would be just stupid and I see people
+doing it and I I just always bristle
+when I see that it's like that was a
+long time ago if they're not currently
+if they're not currently supporting the
+KKK and they couldn't be further from it
+then it doesn't really matter what they
+did in the
+past all right then there's a let's see
+um uh he's so Emanuel macron is directly
+accusing musk of interfering with
+elections including
+Germany and I guess that's all I need to
+say about that one um meanwhile you
+heard that uh we've already talked about
+this Biden banned offshore oil drilling
+before he leaves office and only in
+certain places that there isn't a lot of
+drilling right now um so I don't know
+how big a deal it is in the in the real
+world but uh
+it looks like he was just trying to
+kneecap Trump so Trump couldn't allow
+drilling there um but here's the weird
+part all the experts are saying it's
+it's
+irreversible that Trump doesn't have any
+way to back out of it and has to do with
+h a previous Court ruling called Chevron
+deference I'm going to get all this
+wrong because this is you know not my
+expertise the law but as best I
+understand it there was some prior
+situation that went to the Supreme Court
+in which an agency of the government had
+made a ruling that we should do
+something this way and somebody else
+said no you can't do it that way we're
+going to stop you or reverse it and then
+the Supreme Court said we're not going
+to reverse an agency's
+opinion unless you've got a really
+strong reason that that is beyond just
+we have a different
+opinion and so as long as it's just a
+difference of opinion of how things
+should be and nothing more than that the
+courts won't touch it based on precedent
+now so that would suggest that the
+ruling is made if Trump wanted to
+overturn it you imagine the courts would
+be involved but the smart people say but
+you won't win and and it could take
+years to to get through but here's my
+take nothing's your reever there's
+nothing that you can't cancel in reverse
+that that's not a thing it might be that
+it's hard it might be that somebody
+didn't yet figure out how to do it it
+might be that you have to be messy and
+you know take some hits to get it done
+it might be that you have to do
+something that's never been done maybe
+you have to you know take some
+penalties but I think you can reverse
+anything that's a decision that the
+country
+made so I'll just give you some examples
+so if um
+if the reason it's staying is because an
+agency is ruled on it then Trump simply
+has to give a better reason that's not
+just better opinion but like really
+overwhelmingly you know unique situation
+this really needs to be
+reversed he could probably do
+that I don't know could probably come up
+with an argument of why it needs to be
+reversed but it might take a few years
+to do it so I don't even know if it's
+worth doing but um we'll see
+um Trump did say he would reverse all
+the executive orders from Biden but we
+wonder if that one's going to be an
+exception because if he reverses the
+executive order the courts won't accept
+it so we'll see um Wall Street Journal
+is reporting how Iran has pulled pretty
+much everything of their assets out of
+Syria and if he didn't know that's a
+really big deal because Syria was sort
+of their um their land bridge to
+Hezbollah and their ability to
+um equip and fund their proxies so now
+Iran has no air air defenses Israel's
+taking out their air defenses they've
+lost
+Syria which means that they can't
+reinforce Hezbollah at least in any
+efficient way and Hezbollah has been
+beaten back at the moment and Hamas is
+you know just
+annihilated and um apparently Iran spent
+spend billions of dollars to get Syria
+you know up and running as their like
+proxy base station and they lost all
+that now I would
+agree that this is the perfect setup for
+Trump to get some kind of a deal then I
+don't think I've ever seen a better
+setup Trump is coming in exactly at the
+time when we can make deals and there's
+a way to do it it it almost seems like
+you know God inspired kind of thing it's
+like really uh all these things need to
+be handled you know from Ukraine to Iran
+it needs to be handled with deals and
+the best you know well most famous I
+won't say best but the most famous
+dealmaker in the world's coming into
+office at exactly the time everything's
+just perfectly set up to make a
+deal when have we ever seen that
+before it's like weirdly great it's like
+almost too good to be
+true everything from Greenland to
+Ukraine it's just all things that he can
+make a deal on and it looks all it looks
+all doable it's weird it's going to make
+you think that Biden was even worse than
+you already think because if Trump comes
+in and immediately wraps up some things
+that Biden couldn't wrap
+up you any questions about who is the
+best president ever and who was the
+worst will be answered and I think
+that's going to
+happen uh I saw the amuse account on X
+pointing out that Soros prosecutors the
+people people that Soros funded those
+prosecutors um 40% of the H homicides in
+the US take place in districts with
+Soros funded prosecutors now some of
+that is because you know he funded the
+ones in urban area so there's going to
+be more murder but uh that's a lot but
+75% of those
+districts the the ones that are Soros
+districts 75% of them stopped reporting
+murder statistics to the FBI in 2021
+so that doesn't look like a coincidence
+does it so when Elon Musk said he said
+it a while ago and he's reinforced it
+that in his opinion Soros hates humanity
+and that is how you explain all of his
+seemingly charitable actions that
+apparently are designed to destroy the
+world um I don't know what we don't know
+what he's thinking when he's doing it
+but if you looked at the outcome you'd
+say well I mean there's no way you would
+do all of those things
+unless you had a unified theory to
+destroy the world because they they just
+seem so obviously
+unproductive um
+so I love that we're shining a light on
+it and and I think that gives you a
+chance to reverse it so we'll see well
+there's a update on the pipe bomber so
+you remember the original January 6
+there were reports and videos of
+somebody planting pipe bombs in two
+different places and there have been
+lots of sketchy accusations and and
+information that makes it look like it
+was part of a maybe an FBI op or at
+least a government op here's what we
+know Liz wheeler is reporting on this so
+there's a new house report about that
+January 6 pipe bomber and it's shocking
+so apparently the this is this is from
+Liz wheeler um FBI tracked the phone
+data and they narrowed it down to 186
+phone
+numbers so remember the the bomber has
+caught so they narrowed it down to 186
+bomb
+numbers and then they narrowed it down
+further to uh one now we're talking
+about one of the pipe bombs by the
+bench so the
+FBI narrowed down the possible suspects
+based on the phone he had with them to
+one
+person so
+obviously that person got picked up and
+no you know what they did after they
+narrowed it down to just one person so
+basically they knew who it
+was here's what they did they uh
+suddenly dropped the
+case without explaining
+it what and and then today there's a new
+video of of a different angle of the guy
+who planted the bomb why is that now
+just available there's a reason that we
+just found out there's a different
+camera angle
+and then
+surprisingly the it looks like the eyes
+of the per seem to be um
+digitally blocked out now I'm not 100%
+sure that it isn't just Shadow or
+something but if you could see the eyes
+then something you know you might have
+some way to identify them better so
+everything about this is
+sketchy um apparently the FBI agent in
+charge had told Congress that the
+Telecom company data was
+corrupted but when the the telecom
+companies were approached they said
+nothing was corrupted we gave them
+everything so it appears the FBI lied to
+Congress knew who it was and dropped the
+investigation so that's that's the
+allegation and now there's Stone the FBI
+and other agencies are stonewalling
+Congress
+uh about why the investigation that was
+supposed to be about this really big
+problem just sort of stopped without an
+explanation good
+question um and the two people who found
+the pipe bombs on January 6 were quote a
+woman carrying a basket of laundry who
+is actually as Liz says a swamp creature
+who works for an Intel connected
+organization where she works on quote
+disinformation that's convenient and the
+other was found by a plain closed fed
+really so the two people so one was
+found by plain closed fed and the other
+was placed by somebody with some
+connections to the Intel World
+okay um both bombs sat in plain sight
+undetected for 15 hours or more until
+both were found independently within 15
+minutes of
+each obviously the order went out to
+pretend you found the bomb
+um and also that happened within 15
+minutes of the breach of the
+capital
+so it's all timed to be exactly what it
+looks like a some kind of an
+OP uh further the frame rate of the one
+video that the FBI
+released um was one 1.2 frames per
+second there's no such thing as a video
+camera that is only 1.2 frames per
+second
+that you couldn't buy one if you tried
+it there's not an old one there's not a
+new one so it's obviously digitally
+altered for some reason so this can't be
+the original video it's some kind of
+modified version and who would have done
+that well Usual
+Suspects
+um I don't know if we're close to
+solving this but uh I'm willing to say
+it's exactly what it looked like it
+looked like a government I don't know
+which part of the government plot to
+make the January Sixers look like real
+insurrectionists because apparently they
+were very rude by not bringing weapons
+so if they could make something blow up
+then they could say well you know
+they're all part of this this bombing
+thing and then they all have to be
+killed or
+something so um I'm willing I I think
+what we know so far is enough for me to
+say oh that was a government Al uh now I
+could change my mind if there's new
+information but I'd say it's obvious at
+this
+point anyway Jack bobic is pitching an
+idea of having a victims of 46
+Foundation a
+charity um for the people who suffered
+under Biden he was president number
+46 and it could exist for the January
+Sixers and the pro-lifers and the people
+were kicked out of the military for the
+vaccine denial and other
+stuff um
+I guess that would that would be good
+for the people who are the
+victims but it's also good framing so if
+you see it as persuasion yeah if you
+knew that we needed a Recovery Fund from
+American citizens who suffer the Biden
+Administration that's a pretty strong
+message like just just the fact that
+this is even considered or it's a
+thing um kind of reframes everything as
+Biden being evil instead of just a
+normal you know different party was in
+charge meanwhile Toyota wants 2,000
+people to go live in its brand new city
+for inventors it's going to be at the
+base of Mount Fuji and it's going to be
+all the people who are technologists for
+AI and space rockets and cars and
+everything if they put them in one place
+they can cross-pollinate and get more
+down I guess so basically they'd be
+creating like a little Silicon Valley um
+artificially I think that's worth a try
+now you might say why does Toyota do
+that um and the thinking is that Toyota
+is going to transfer from just making
+cars which might be something that in
+the self-driving car day you know if you
+don't have one you're not really in
+business anymore so there there's some
+kind of General Mobility company now so
+this all makes sense in some way
+meanwhile EPA a according to interesting
+engineering in Christopher mcfaden um
+there are so there're a uh electric car
+company so they've been trying to build
+this thing for 10 years and now they've
+got a a version that's getting close and
+it's got a th000 m solar powerered
+battery and you can get top speeds of
+101 miles per hour and it's super
+aerodynamic um so that's a big deal you
+know the the more competition there is
+in that space the
+better and there's a study that says
+that video conferencing where you see
+yourself on the screen like on I'm
+seeing myself I'm talking to you but the
+picture on the screen is is the same
+thing you're seeing um like a zoom call
+you know you see yourself and the study
+finds according to the Boston University
+of school of medicine that uh the
+pandemic caused people to use zoom more
+and Google meetings and stuff and that
+uh people want they feel bad about
+themselves when they see themselves all
+the time on screen because it would be
+like looking in a mirror all day and if
+if you don't like how you look it's it's
+really getting you know impressed on you
+that you don't look the way you look um
+and it's uh apparently is making some
+people have some mental illness about
+their you know body body
+image now here's what I noticed it feels
+to me like every time there's a
+technical innovation in society there's
+some demographic of society that is made
+Crazy by it like actually get mental
+illness because of something about it
+like your phones make a lot of people go
+crazy not everybody and there's some
+there's some dispute about whether
+that's even true but don't you think
+it's always the woman no sometimes it's
+men but who's having all the who's
+having all the body image problems
+because they're looking at themselves on
+Zoom I mean I I have the same feeling
+when I play back you know my recordings
+and when I'm looking at myself I think
+oh I should you know I wish I didn't
+have that or I wish that was different
+but it doesn't really make me
+sad CU I have a mirror I I've seen
+myself I know I know exactly what the
+pluses and the minuses of me are so it
+seems like it's again it's the the young
+female
+demographic if you force them to use
+Snapchat or Instagram or just
+zoom they're going to be focusing on
+what they look like and it's going to
+give them a little mental illness
+problem so that ladies and gentlemen
+is all I wanted to talk about today
+there is just so much going on and
+weirdly most of it's positive it's
+weirdly positive the the Greenland thing
+just gives us it's such a pallet
+cleanser isn't it like when we're
+talking about other things it's like
+there's some horrible crime involved or
+there's some big unsolvable problem or
+somebody hates somebody but Greenland is
+probably a bunch of people who just are
+fine with the United States
+wouldn't mind probably think they'd come
+out ahead if they were part of the
+United States we think it'd be a good
+idea nobody's really against it you know
+Denmark will resist because that's
+negotiation or maybe they really want to
+keep it I don't know but it's so just
+Pleasant to think about wouldn't it be
+nice to just you add to the country it's
+just a good feeling all right that's all
+I got I'm going to go talk to the locals
+people privately for a moment
+um wow yeah Greg gutfeld's back the main
+cast of the the five is back and uh
+everything's good
+now all right um locals I'm coming at
+you everybody else will see you tomorrow
+thanks for
+joining in 30 seconds we'll
+be
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e e

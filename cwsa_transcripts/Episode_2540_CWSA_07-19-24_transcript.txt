@@ -1,0 +1,1615 @@
+[Music]
+[Music]
+good morning everybody and welcome to
+the highlight of human civilization it's
+called coffee with Scott Adams and I'm
+back did you miss me if you'd like to
+take your experience up to levels well
+then nobody can understand with their
+tiny shiny human brains all you need is
+peer mug glass a tanker chelen Stein a
+guting suar flask a vessel of any kind
+fill it with your favorite liquid I like
+coffee and join me now for the
+unparallel pleasure the dop means end of
+the day the thing that makes everything
+better it's called the simultaneous Sip
+and happens now
+go well if you were wondering what
+happened to the show
+yesterday um I had a bout of uh food
+poisoning I'm pretty sure it was food
+poisoning um just before the show was
+about to
+begin and I don't want to tell you how
+bad it was but I did lose four pounds in
+six
+hours let's just say it was uh it's the
+sickest I've been in 25 years and I was
+pretty much in bad shape for a long long
+time so I'm only about uh 20% uh well
+maybe 80% of my normal intelligence this
+morning one of the things you don't
+realize is that when you get sick it
+hits you
+cognitively my brain is actually
+substantially slower than it was
+yesterday so I'll do my best but I
+decided I woke up this morning I wasn't
+100% and I thought to myself you know
+what if president
+Trump can take a bullet to the year and
+jump up and go right back to work I can
+have six hours of the worst time of my
+life and jump up and do a fight fight
+fight and I wasn't planning to do this
+but in honor of Hulk Hogan who ripped
+his shirt off at the
+RNC okay that's a lot harder than it
+looks it's a lot harder than it
+looks all right well the big story today
+besides the we'll talk about that is a
+gigantic computer
+outage and let's see if this gives you
+any
+Paws let's see company called crowd
+strike H where if I heard that name
+before crowd strike well for those users
+who have Windows and they also have
+crowd strike apparently it took down
+their systems in a really bad way so I
+don't know exactly what the problem is
+but uh we're flights are grounded and
+911 is broken and people can't get
+Hospital reservations and Society
+basically ground to a
+halt um but as I was reminded uh
+Microsoft is a key player in securing
+the
+elections so here's my question to you
+so crowd strike is a cyber security
+software you a big Enterprise would put
+it on their computers so that the entire
+Enterprise would be free from cyber
+attacks of various kinds now if you've
+heard of that name crowd strike and
+you're saying to yourself where have I
+heard of that before they're the ones
+who investigated the DNC hack and
+decided that it was a Russian
+operation which if you like me you said
+I don't believe
+that first of all I don't believe that
+they could tell where it came from you
+know if these are like state level
+hackers and that they would leave a
+trail they that crowd strike could just
+figure out where that came from
+okay I never believed I never believed
+that they had the right identification
+because everything was Russia Russia
+Russia it's like oh there's a hack who
+are you gonna blame how about Russia so
+it was a little bit too on the
+nose now I don't know if it was fake
+news I don't know that it's just that it
+had that odor to it so then when you see
+that um there's this big problem with
+cyber security with crowd strike and the
+question you ask yourself is wait a
+minute what if crowd strike was on the
+same computer networks that were doing
+elections and let me ask you this if you
+were going
+to let's say insert some malicious code
+into a system what would be the best way
+to do that I would think it would be
+embedded in the cyber security because
+cyber security would catch anybody else
+doing something bad the only thing it
+wouldn't catch is if it were the bad
+actor itself now you may remember uh I
+don't know much about this story but
+there was a russian-made cyber security
+program that was recently banned on all
+government computers kerski kerski I may
+be saying it wrong now why would we ban
+a Russian cyber security
+software well the only reason I can
+think
+of yeah uh kasperski right uh the only
+reason I can think of is that we didn't
+trust
+it right because a security software is
+got to be the biggest security problem
+I'll give you an analogy when I used to
+work at Pacific Bell we'd have a lot of
+problem with theft so people would be
+losing their stuff all over the place
+people were stealing from
+cubicles and I got to talk to the head
+of security one day about it and I said
+you can you determine where this is and
+why don't you have enough security you I
+feel like security should Sease people
+carrying out
+computers and he said security is who's
+doing all the
+stealing they had determined that most
+of the theft was the security guards
+themselves either working with people or
+doing it themselves so the very best way
+to
+steal is if you're the one who's
+supposed to be stopping the stealing
+it's the best place to hide now I want
+to be very very careful I don't want to
+malign crowd strike there is no evidence
+whatsoever that they did anything
+illegal or improper let me say that as
+clearly as possible there's no evidence
+whatsoever but we are in a zero trust
+environment and when something looks
+like a duck and smells like a duck and
+Walks Like A
+Duck it just raises some duck-like
+suspicions so if you think that our uh
+our election systems are secure
+let me just tell you that I'll bet the
+911 people thought their system was
+Secure what do you think do you think
+the people who designed 911 system said
+to themselves you know what we're not
+going to get the best security we'll
+we'll just get sort of Grade B security
+because I mean what what difference does
+it make if you can't call 911 sometimes
+no I would imagine without being close
+to it that the 911 systems
+are by their nature
+very secure do you think the 911 systems
+would be more secure than
+elections what do you think I feel like
+those would both be 10 and a 10 in terms
+of your attempt to make them secure now
+obviously every company tries to be 100%
+secure but you know some are going to be
+even more secure than that so if you've
+got a problem like that with your your
+Windows system I'd be worried about
+anything with a Windows system but I
+don't want to blame windows and I don't
+want to blame crowd strike I'm going to
+make a general comment the thing you
+should trust the least is the thing
+that's protecting you from the other
+stuff it's just a good General thing to
+hold in your
+mind there was a story about djt stock
+that's the true social stuff uh and
+allegedly before the uh assassination
+attempt there was a big short
+which means you would make money if it
+went down and it was a gigantic bet
+allegedly but the company that's um
+responsible for that said no that was
+just a uh mistaken
+reporting so they say that there was no
+gigantic unusual bet it just looked like
+it and then they corrected
+it or or since we're in a zero trust
+environment it was exactly would it
+looked like and they covered for it now
+I'm not accusing them I'm just saying
+that in a zero trust
+environment I don't know what to believe
+but I will tell you that the official
+story is that that's
+debunked and I I lean toward that being
+true because it feels like that'd be
+hard to cover
+up we'll
+see anyway um if you watch the uh Amazon
+video show the boys apparently their
+season finale had some kind of a
+politician being assassinated and so
+they had to add a
+statement that it um that basically they
+changed the name of the the title of the
+show that had assassination in it and
+any similarities between the season
+finale in the shooting during the
+Trump's rally purely
+coincidental purely coincidental you
+say here's what I
+say if you were part of some shady deep
+space thing deep
+space deep State I told you my brain's
+only 80% today lower your expectations
+I'm not really working too well
+today
+um if you were going to do some kind of
+MK Ultra brain you know Mass brain
+control thing on the country to increase
+the chance that Trump got assassinated
+you would do fiction that showed him
+getting assassinated remember there was
+a play uh there was at one point there
+was a live play that showed Trump
+getting assassinated and then apparently
+this would not be Trump per se but it
+was a you know another thing to put in
+your head so if I were trying to get a
+major politician assassinated and I were
+a dirty trickster I would make sure some
+popular TV shows featured that plot
+because all you have to do is make
+people think about it you know if you
+got a million crazy people in the
+country and of you know 350 million or
+whatever uh if you send the message you
+know this bad thing would be a good idea
+to a million people you can get somebody
+who says you know that's there's an idea
+I hadn't thought about that but I'm
+getting primed yeah it's a priming thing
+again I'm not going to uh I don't I'm
+not accusing anybody of doing that I'm
+just saying that's what it would look
+like it would look exactly like that
+you'd see fiction that somehow weirdly
+coincidentally had that theme in it but
+it could also happen just because it's a
+story and politicians getting
+assassinated is not the it's not really
+the strangest thing for a
+fiction so again these are not uh
+accusations they're just trying to
+navigate a world with zero
+trust well let's talk about the RNC
+convention and Trump's speech uh first
+of all Tucker Carlson has the strangest
+Journey doesn't
+he I loved watching Tucker go from
+cancelled to you know reconstituting his
+business to be even better than ever and
+the next thing you know he's sitting
+next to Trump uh and giving a speech at
+the RNC he's giving the speech
+apparently during his old time slot on
+Fox and they had to cover
+it that's the ultimate they had to cover
+it anyway so he's sitting up there with
+Trump and allegedly Tucker has some kind
+of a deal with Trump where they're doing
+a documentary behind the scenes so they
+they've got a videographer is falling
+following Trump around now that's going
+to be interesting I can't wait to see
+that all right let's talk about Trump's
+acceptance
+speech uh most of you probably saw
+it um I was in my deathbed trying to
+stay awake long enough to catch most of
+it but I caught up on it in the clips
+and the reactions today but
+um the the big story is the
+energy and the feeling so even the MSNBC
+people and the CNN people were saying
+there's something different the you know
+especially van Jones was pointing out
+that the that we haven't seen that kind
+of positive energy in a convention for a
+long time you know maybe Obama was the
+last time but it was just crazy
+energy and you can kind of see why that
+because look at all the things that came
+together first of all everybody loves a
+comeback story right when Trump lost the
+last election it looked like he not only
+lost but he was going to go to jail it
+looked like that's the biggest losing
+you could do you lose the election and
+you might even go to jail at the moment
+it's not looking like he's going to go
+to jail and he's ahe in the polls but
+here's here's my take on that Trump's
+comeback story is also your comeback
+story isn't it because if you were a
+trump supporter when he went down and
+then he was just buried with legal
+challenges didn't that feel
+personal it felt personal to me because
+if because if you're backing somebody
+and you know you identify with them as
+your team and then you see them taken
+out just
+savagely th so if you thought this was
+sort of Trump's
+comeback I would argue it wasn't just
+his
+comeback he he's the thing that
+identifies the comeback but it was
+everybody's comeback possibly the
+country in many ways it feels like the
+country coming back and boy do we love a
+comeback story don't we I mean it's
+perfect Cinema quality the lowest you
+can
+go and here he is here he is so not only
+is it a comeback story but he survived
+an assassination
+attempt by what looked like Divine in
+divine
+intervention now before you get on me
+about my own beliefs I'm just saying
+what it look like right the the reality
+is way less important but to many people
+including me it was just so
+suspiciously Divine looking that it's
+hard to get that out your head so
+basically you got you got a comeback
+Story You've Got survival of an
+assassination you've got the fist
+pumping in the American
+flag and possibly divine
+intervention how in the world could that
+be better I mean that's the most energy
+you can put into one situation and on
+top of that it's the greatest showman of
+all time I think you'd agree with that
+right Trump is the greatest showman of
+all
+time so if you give that many tools to
+the greatest showman of all time what's
+he going to do with it well he's doing
+what he what he does he he's just riding
+us you know riding this Beast to Victory
+it looks like now so even the uh
+Democrats are talking about the
+enthusiasm Gap uh I saw a funny quote
+from uh so I guess Jake Tapo was asking
+his cohorts there uh what theme are we
+seeing at the convention tonight and
+Chris Wallace said is that a trick
+question t
+testosterone and and he was it was the
+most
+testosterone uh driven thing ever now
+did we learn
+anything let's see if the Democrats
+learned
+everything so leading with testosterone
+which would include Hulk Hogan Dana
+White Trump himself uh and the entire
+situation of surviving the assassination
+that's probably one of the most
+male most male things that you could
+ever do and I think and and even there
+was some criticism from I guess Joy Reed
+or somebody uh no one of the one of the
+other MSNBC people was saying that even
+JD Vance's uh moving statement about
+wanting to be buried with his relatives
+because you know this is his land he
+wants to be buried where they are many
+generations uh one of the hosts said
+well that's a white supremacist kind of
+a thing now you're going to say to
+yourself wait a minute
+hold on what why does wanting to be
+buried with your
+family qualify as white supremacy well
+they were working really hard at this
+one it goes like this he's also
+married so why does his male burial plot
+take more precedence than his wife what
+about her wife's history which is but by
+the way not a terrible point I
+mean but it also is consistent with a
+let say uh a male frame on things let's
+put it that way not not for good or for
+bad it's just different and it's more
+classic it it suggests a different time
+and it suggests a different way of
+organizing personally as as well as
+every other way
+so I think what happened
+was besides all the things that just
+give us so much energy is that the idea
+to make it more testosterone
+filled was a good one because I think
+that's how people felt right when the
+when the fist went
+up you you felt like fighting he didn't
+yell you know be calm heeld fight that's
+very male all right if a female
+politician gets nicked in an
+assassination attempt is very unlikely
+she's going to jump up put a fist in the
+air and yell fight
+right it was just a
+quintessential the most male thing that
+ever happened in your life you've never
+seen anything more male than
+that um he was
+angry I I think that's what I like the
+best is that he got shot and he jumped
+up
+angry that's what I wanted to
+say that's what I wanted to
+say but he managed to channel that anger
+into a Unity pitch but first I have to
+tell you uh uh Molly Hing Way's joke
+when Jake Tapper said what theme are we
+seeing at the convention tonight and
+Chris Wall said is that a trick question
+it's testosterone Molly Hemingway
+equipped uh I could see why that would
+be confusing for both of
+you that was pretty
+funny all right
+so
+um the the speech itself was long I
+guess is one of the longest
+speeches
+um but if there was ever a time when you
+wanted a long speech it was this because
+it didn't matter what he was saying did
+it that as long as Trump was talking you
+felt connected to all the people in the
+in the room and all the other people
+across the country and so there's never
+been a better reason for a long
+acceptance speech you just wanted to
+Revel in it you wanted to feel it didn't
+matter what he said you just wanted to
+see him healthy you wanted to see him in
+charge and you wanted to see the
+reaction you wanted to see the energy
+that's what you wanted and he got it he
+he delivered now here's the least
+important fact about it Daniel Dale the
+fact checker for CNN said Trump had 22
+lies so he mentioned a
+few and here's one he says that Trump
+claimed that the Democrats cheated in
+the 2020 election and that's not
+true which is a lie that's a lie from
+Daniel Dale here here's what would have
+been true Trump claimed that there was
+cheating in 2020 but it hasn't been
+proven that would be true but if you're
+a fact Checker and you say it's proven
+that the election was fair you're not
+much of a fact Checker cuz that can't be
+proven you can only prove you didn't
+find anything and it doesn't matter
+whether the election was was legitimate
+or not legitimate if you're the fact
+Checker and you don't know that our
+elections are not fully auditable and
+you don't know that there's probably a
+hundred ways you could mess with them if
+you didn't know that you don't you don't
+belong to be a fact jaer that's probably
+the most basic fact uh and he probably
+thinks that January 6 was an
+Insurrection so I got real problems with
+the fact checker the fact Checker failed
+on the very first fact what else did he
+say he said that that Trump said that
+crime went up under
+Biden isn't that and then he says that's
+not true crime went down to which I say
+first of all that probably gets a little
+bit of the pandemic effect in there
+which they like to forget and secondly
+isn't that because they stopped counting
+crime and made everything legal you're
+the fact Checker you better say
+that something Chang changed in the way
+you're measuring now I famously said
+that all data is fake this is a good
+example so CNN gets on there and gives
+fact checking all the fact checking
+looked fake to me fake in the sense that
+the context was left out if he had said
+someone up some went down I'd say oh
+yeah maybe if he said uh they changed
+the way you know you can't really
+compare because a lot of things became
+legal that used to be illegal like
+stealing up to 9
+50
+so that was a fake fact check in my
+opinion um they fact checked him when he
+said that there were no Wars when he was
+a president and Daniel Dale says my God
+no there were 51 Wars all over the
+country when Trump was President well
+Daniel Dale let me explain Trump talk no
+Wars means America was not in a war and
+not likely to get into one that's what
+no Wars means
+if you thought he meant that no other
+little country in Africa was at war with
+his neighbor no he didn't mean that he
+meant those were not relevant to us
+because I can't name 51 Wars can you uh
+go ahead name the 51 Wars they're not
+important to us so the fact that he
+can't discern what is just sort of
+normal political talk there were no Wars
+he really meant the United States and
+there wasn't anything that likely we
+going to go
+into all
+right so once again U Daniel Dale can't
+tell the difference between a salesman's
+exaggeration and a fact um there were a
+bunch of things that I think were just
+failing the fact check but they're all
+directionally true they were all
+directionally true in the usual way they
+were all you know they were all the
+things you'd want him to do better on no
+matter how bad it was or no matter how
+Biden had done compared to him there
+were all the things you want him to work
+on I'd like to be better on crime better
+on immigration so any of those facts
+that they say he got wrong totally
+irrelevant and by the way I've never
+seen facts matter less than at this
+convention matter Less in the sense that
+it was about energy it was
+about energy really it was just energy
+and I've told you that Trump is an
+energy monster he can take whatever
+energy you send him flip it around and
+use it and recent events have given him
+so much energy and he productively
+employed it just like you just like you
+thought he
+would well on his Unity pitch of course
+Democrats will say it was a dark dark
+thing I'm sure today they'll be saying
+that but here are some of the things he
+said I am running to be president of all
+Americans not half of America good start
+uh he also said together we will launch
+a new era of safety prosperity and
+freedom for citizens of every race
+religion color and greed the Discord and
+Division in our society must be healed
+As Americans we are bound together by a
+single fate and a shared Destiny We rise
+together we fall
+apart not bad now those are just words
+just words but those are the words you
+want that's what you want to hear do you
+know what the biggest Story the
+convention speech was Trump's speech the
+biggest story is what he didn't
+say the biggest story is what he didn't
+say he didn't give them red meat he
+didn't say that the people coming across
+the border all bad he didn't
+say a lot of things he could have said I
+don't even think he mentioned Biden did
+he yeah Peter novaro did which I think
+it was a mistake
+actually uh yeah you don't want to give
+the other side red meat and I think
+I think Trump succeeded in give them
+nothing giving them nothing but fact
+checks that nobody cares about so if
+they're focusing on the fact
+Jacks Trump
+wins and by the way when Biden talks
+literally everything he says are lies
+but they're the big ones if Trump tells
+you there were no wars in the world but
+there were 51 little Wars you don't care
+about is that a big deal no if he tells
+you something about crime stats but you
+think they should have been more clear
+is that a big problem no no you just you
+all you hear is he wants to work on
+crime more good we like that too um but
+when you hear Biden Biden was doing the
+fine people hoax the Nazi stuff the
+dictator stuff that's the that gets
+you killed that that that gets the
+opponent killed and it almost
+happened all right so no contest and the
+fact that Daniel Dale doesn't make a
+distinction between little technical
+salesperson lies and exaggerations and
+something that will get you
+killed that is deeply dishonest let me
+say that directly Daniel Dale it is
+deeply dishonest for you to count the
+fact Jacks as if the number of them is
+the important part it is the quality of
+them that matters if one of them can get
+you killed but one of them might be a
+misleading statistic about crime but
+everybody wants to work on it to improve
+it
+those are not the same those are not the
+same very very
+different all right so I thought uh
+Trump was uh calm and you know somebody
+pointed out he could have gone the other
+way he could have said they tried to
+kill me so double down we must you know
+beat all the bad people up he didn't do
+that he read the room correctly and
+uh and here's the result
+according to Jason you know Jason from
+the all-in Pod uh he said Trump is
+flipping every moderate I know and many
+lifelong Democrats by speaking to all
+Americans the way that the Democrats
+have forgotten how to interesting the
+Democrats have forgotten how to that's
+exactly what happened the Democrats have
+made it about identity and that's
+specifically
+anti- I won't say anti-am it's the
+opposite of America
+yeah identity focusing identity is the
+opposite of the concept that made
+America what it is and uh he's a
+Democrat by the way and he's noticing
+that um and he says there are a lot of
+lessons here for Democrats from having a
+positive message to building a big
+non-judgmental tent and listening to
+your constituents as opposed to
+lecturing them wow now that's coming
+from a
+Democrat so a Democrat is saying you're
+not you're not building a big tent and
+you're not listening and you're
+lecturing to them that's what it feels
+like that I think he captured it
+perfectly
+actually all right here's the most
+embarrassing thing for the Biden Harris
+campaign they fact checked Trump by
+saying that he confused AI with electric
+cars oh what a big old dope right who
+could confuse Ai and electric cars
+because because Trump said the AI would
+uh you know double the need for
+electricity in the country and of course
+the Biden Harris campaign are like he
+thinks AI is going to double our
+electricity no he means electric cars
+and he's wrong so they fact jacked him
+and said he's confused electric cars
+with
+AI
+except he wasn't wrong AI is the one
+that will be the biggest drain on
+electricity according to all the experts
+like way more than electric cars and Not
+only was he right they fact checked them
+and
+proved they don't understand
+AI what's the most important thing you
+need to know about AI other than it
+might be could turn into a super weapon
+and change everything the most important
+thing you need to be in charge of policy
+around AI is to know that it will double
+our electricity need if you don't know
+that you can't be
+president period AI is going to be
+probably the biggest thing that happens
+in your lifetime and they don't know
+that that's going to double the
+electricity need and that we don't have
+that electricity and whoever does have
+that electricity will be the the ruling
+country
+forever
+right that that is a level of
+incompetence that is
+stunning how many of you knew that AI
+would double the electricity use or at
+least you know vastly increase it most
+of you knew that right right like just
+regular people know that how how do you
+propose that you're going to be in
+charge of the country and you don't know
+that yet you don't know that yet really
+that's this is the most embarrassing
+fact check of all politics because not
+only is the fact check wrong but it
+reveals that they don't have a basic
+understanding of the most important
+thing that's coming toward us the most
+important thing and most of you knew it
+wasn't even hard to know we all knew
+it could have asked
+Scott all
+right how bad is it for Biden
+well after watching the most successful
+Convention of all time from his opponent
+Biden hears that according to unusual
+whales on X a federal appeals court has
+issued an order temporarily halting the
+uh student loan repayment scheme that uh
+that Biden had now that doesn't mean
+it's cancelled but it's temporary halted
+for whatever reason I don't know so
+that's bad new news for
+Biden here's some more bad news there
+was a story that uh Biden was trying to
+uh
+um talk to his
+supporters and he was trying to make
+them feel more comfortable with him
+continuing to run and while he was
+talking to them a staffer slipped him a
+note that said you are sounding
+defensive and brain dead Biden
+instead of changing how he was talking
+and talking less defensive he reads the
+note out loud you are sounding
+defensive
+so not a good week not a good week is
+what I'm saying
+yeah anyway there was a uh a rumor I
+think Mark helin was behind it that
+Biden's going to Ste down this weekend
+he's definitely totally stepping down
+but as of today I think I I think I saw
+something just before I came on that the
+Biden campaign is still saying he's not
+so David saaks was
+hypothesizing that uh you said
+uh evidently the widely cited including
+by David saxs himself report was a uh
+strategic leak designed to build
+momentum against President Biden who
+doesn't want to go
+what what else can one call this but a
+coup so it could be that everybody's
+saying he's leaving although he has not
+said he's leaving in other words if
+everybody simply acts like he's leaving
+all of the the funding will dry up and
+then he has to leave so it could be that
+they're front running the the truth to
+turn to turn it into the truth in other
+words it it might be just fate comple if
+they just keep saying it because nobody
+will act like he's still running for
+president and then it doesn't work
+because he's got to have other people
+think he's running for president I mean
+if the entire Democratic party said
+you're not running for
+president and then he went out and tried
+to run for president he almost couldn't
+do it it would be basically
+impossible now of course everybody's
+having fun with this on the
+right saying that um you know Biden won
+fair and square according to the rule R
+of the game and if he's removed by the
+party Elites even if they do some little
+fake fast primary thing with five people
+or whatever uh however they do it it's
+going to be cancelling
+democracy now I don't quite buy that
+it's just a fun thing to say politically
+you know there are some beliefs that are
+more recreational so I'm going to say
+it's a recreational belief that the
+Democrats are cancelling democracy by
+you know having their power Brokers
+install a new candidate
+because the candidate they're running is
+brain dead if it were any other
+situation I'd say oh you know you're
+clearly it's a coup but if you have
+somebody who obviously can't do
+it you know I wouldn't even I don't even
+think I mind if they replace them it's
+just fun to say that they're cancelling
+democracy because they are they just
+have a good reason pretty good reason in
+that case but it is canceling democracy
+technically
+all right so let me summarize the state
+of the race so you've heard all the
+elements right you've heard bad week for
+Biden good week for Trump let me
+summarize that so Trump uh this week is
+elevated from an ex-president to a
+legend probably with the help of divine
+intervention now that's pretty good week
+pretty good week uh let's see how how
+Biden is doing uh dementia riddled Biden
+is being attacked by two-thirds of his
+own supporters who are begging him to
+leave the race so they can replace him
+with a drunken cackler who is widely
+considered one of the worst politicians
+in
+history oh that's not as good that's not
+nearly as good is
+it yeah a legend with divine
+intervention first Dementia riddled may
+be replaced with a drunken cackler yeah
+those
+are I mean it's kind of
+subjective but it feels to me like
+there's a big difference there I don't
+know I just feel that
+way well let's talk about uh the alleged
+not alleged but the shooter young man
+named Crooks apparently now he had a
+couple of cell phones and one burner
+phone or two or three and they had what
+they call three encrypted overseas
+accounts what is an encrypted overseas
+account I do not know do you an
+encrypted overseas account account would
+that be like a
+WhatsApp is he using telegram or signal
+is it an encrypted app that just happens
+to have some servers overseas or what
+exactly is that I don't even know what
+that is so but anyway there's the
+suggestion that there's some overseas
+connection now shall we speculate
+whether it was gross incompetence or or
+an inside job possibly a plot by the CIA
+to kill him or maybe some other country
+let us look at what we know now and
+we'll um here's the spirit in which I do
+this you should know in advance that I
+don't know the answer that's the
+important part if if you understand that
+I don't know the answer then you're not
+going to get mad at me for pushing a
+point of view that you think is wrong
+can we do that because you're going to
+go you're going to go crazy if I if I
+give any light to the to the theory that
+you think is wrong I'm just going to
+tell you both of them and then I'm going
+to tell you how to look at it right what
+you do with it is up to you and I I have
+to say I'm undecided I'm I'm completely
+on the fense on this but let's take the
+Mike cernovich view he says uh the
+regime's plan was to use mkra I'll talk
+about that in a minute it's a mind
+control thing that the CIA was involved
+with years ago uh the regime's plan was
+to use MK Ultra mind control um and uh
+on the subject and then lack security to
+have Trump assassinated uh knowing that
+there would be widespread retaliation
+chaos sits in then you um then you put
+restrictions on the country because
+there's chaos and then you can kind of
+take control so that the real play was
+to get uh Republicans take Trump out get
+Republicans all fired up and violent and
+then they could be cracked down on and
+you know taken out forever so that is
+one view now what is the what is the
+evidence for that all right so here are
+some things that would be consistent
+with that view but remember I'm not
+saying what is true I'm just saying
+there's going to be facts that are
+consistent with a few different
+hypotheses so here are the things
+consistent with the fact that it was a
+larger attempt the person who was a
+shooter was a smart enough but troubled
+youth which is exactly the kind of
+person that you could
+flip um so and probably somebody who
+didn't feel
+important if you if you were trying to
+hypnotize
+somebody um you'd want to find somebody
+who is naturally leaning in that
+direction in other words you could not
+hypnotize Tucker
+Carlson to murder Trump because they're
+friends right you can't do that but you
+could find somebody who doesn't have an
+attachment to anybody including his own
+friends and maybe even his parents to
+some extent so if you find somebody
+who's just sort of floating out there
+alone that's somebody you could maybe
+flip but how do you talk somebody into a
+a suicide mission how in the world do
+you talk some some somebody into that
+now the rumor is that he didn't like
+Biden maybe and he didn't like Trump so
+he look he has a search result looking
+for both I don't think you can believe
+that that's something told told to you
+by our government and our government is
+not credible so it sounds like the sort
+of thing they would say just so you
+didn't think it was the rhetoric coming
+from the Democrats that caused this to
+happen so it's very convenient that he's
+the only person in the world who might
+have been considering shooting either of
+the candidates do you think in the
+history of the world there's ever been
+an assassin who said you know it doesn't
+really matter which one I do I could
+shoot Biden and and die trying I could
+shoot Trump Die Trying it's about equal
+no in the history of the world nobody
+ever had that thought now they're trying
+to sell him as you know unstable and he
+didn't like any
+politicians but I don't think it's a
+total coincidence that he picked the one
+he
+picked given all all the rhetoric around
+him now how do 20-year-olds get their
+information on
+politics they don't do their own
+research and come to their own opinion
+they listen to what everybody says in
+the channel that they listen to they
+listen to their friends if their friends
+say ah that Trump guy that's that's what
+opinion a 20-year-old will have so 20-y
+olds don't have their own opinions I
+mean I didn't have one when I was 20
+when I was 20 I didn't know anything my
+my 20-year-old opinions were just
+worthless as are everybody's as are
+everybody's
+so anyway um I don't trust that he was
+also looking to kill Biden I just don't
+think that's true and I predict that
+you'll never see a document that is that
+is credible to make that claim I think
+the government will just say yeah we
+looked at it and we're telling you we
+saw it and then you'll say well could we
+see it could we see what you saw no it's
+an ongoing
+investigation right they don't have to
+tell us or show us the evidence they can
+just say it's an ongoing investigation
+and it doesn't seem like it was about
+Trump per se because the worst thing
+they could say is it was about Trump per
+se because that means that the rhetoric
+of the left actually weaponized him to
+try to kill him which is what I think
+happened most
+likely and and and that would be true
+with or without it being a wider plot so
+at a bare minimum he was hypnotized
+brainwashed into not liking Trump so we
+don't know how it happened naturally or
+from some other source but he clearly
+was anti-trump I don't think there's any
+question about
+that here are the things we don't know
+we still don't know who to blame because
+there's this question about well but was
+there was there this other sniper and
+somebody says that they've got an audio
+that shows a second shooter uh if
+there's a second
+shooter then of course I would assume
+there's a larger plot because that would
+sound very kenned esque um we still
+don't know why the snipers didn't take
+the shot when they could we still don't
+know why the guy was allowed to walk
+around forever all of those things point
+to either a massive security um problem
+or a plot to have poor security and then
+a weaponized guy you put them together
+boom but if it's true that he was doing
+his own research on where the campaign
+was going to be so if you if you had to
+look it up that doesn't sound like
+somebody doesn't sound like he had a
+Handler does it because if he had a
+Handler the Handler would have told him
+this is what you're doing and you know
+go there do this so it wasn't a Handler
+situation but it could have been
+somebody who got hypnotized into doing
+his own work so that's still
+possible there was the car with the
+remote control and the bombs some say it
+was to create a diversion I don't know
+if that's true but if it was to create a
+diversion that would suggest he had a
+getaway
+plan uh although you can't imagine how
+he thought he would get away I mean
+that's beyond beyond belief there's a
+story about he got there in a bicycle he
+got there in two different kind of cars
+so even basic facts about how he got
+there and whether or not even the
+question of whether he bought a ladder
+and carried it there for a mile or he
+just climbed up the air conditioning
+ducks or whatever it was so almost
+everything about this is
+squirly so with that much squirly stuff
+around
+um the yeah the covich view that he was
+sort of weaponized by a bad actor and
+then poor security was
+intentional or they just didn't care
+about protecting them which looks the
+same um maybe so I'd say that's uh very
+much in the mix so here's the
+incompetence
+argument so we'll keep both both
+arguments alive for now the incompetence
+argument looks like this MK Ultra isn't
+real it's not real there's no MK Ultra
+now it is true that there was a big
+program to see if mind control work but
+primarily it was with uh drugs so they
+were testing LSD and Other Drugs to see
+if you could turn somebody into a zombie
+I guess but hypnosis was
+mentioned as you know one of the MK
+Ultra tools but in my view you can't
+really hypnotize somebody into shooting
+a president and killing themselves at
+the same time
+uh now I'm not going to say it couldn't
+happen in the most extreme case I've
+never seen it though and it's generally
+considered true that you can't hypnotize
+somebody into murder you could hypnotize
+somebody into thinking it was their own
+idea and you do that by saying that he's
+Hitler you do it that by saying he's a
+dictator you're going to lose your
+democracy that's how you do it
+indirectly so if you're thinking this
+young was individually hypnotized that's
+not necessary you don't need individual
+hypnosis because the whole country was
+hypnotized or half of it so what you
+need is somebody who's willing to act on
+it and that's the hard part now since we
+know he had already talked to his
+schoolmates about threatening to shoot
+up a school what does that tell you if
+he threatened to shoot up a
+school and then he did this it probably
+has more to do do with him wanting to be
+important in other words the reason that
+you shoot up a school is that you want
+to die with some Glory basically even if
+it's negative Glory you you want to be
+known even even dead and so I would
+suggest that maybe he wasn't even that
+political but that he changed his Target
+from the school where we would be
+reviled forever too and this is horrible
+but this is what I think
+happened I think he thought he would be
+seen as a hero if he
+succeeded because it could be that he
+knew so many Democrats that they would
+just regard him as a hero on top of that
+it looks like his parents were Trump's
+supporters imagine if your parents are
+Trump supporters and you don't get along
+with them so to me it looks like
+somebody um who needed to be important
+couldn't find a way to do it in the
+normal way and and he probably was
+somewhat ambivalent about whether he
+shot Biden his school or Trump but when
+he looked at those three choices
+probably said you know what Trump's the
+only one that maybe half the country
+would think I'm a hero because the
+school shooting would get you zero you
+know zero positive anything so to me it
+looks like somebody who wanted to do
+something bad and this is just what he
+picked all right he had access to a gun
+easy access to a gun which suggests not
+so much a
+plot with a plot you'd expect somebody
+somehow gets a gun in some illegal way
+or you know already had one maybe but
+the fact that it was just a crime of
+opportunity you know you just had access
+to a high powerered
+rifle um to me that suggests not a
+plot unless the MK Ultra people said do
+you have any way to get a hold of a gun
+oh yeah I got one in the house
+all right what
+else all right so you've got the police
+and the soci and the Secret Service
+blaming each other that sounds more like
+incompetence but there were three
+entities so there were the local police
+who were supposed to be doing just
+traffic there was a nearby police force
+another local police but not that
+locality nearby apparently they had the
+sniper position and they would have been
+controlling the house
+and then the Secret
+Service would have to deal with two
+different
+entities now anybody who's lived in the
+real world what happens when three
+entities are in charge of something now
+there in theory they're only in charge
+of their own domains but it's three
+entities have some responsibility how's
+that work out in the real world that's a
+total cluster right on paper that's
+a
+problem now I'm just speculating but but
+you could imagine something like
+this hey local police uh are you all set
+yes and then the Secret Service guy goes
+all right they've got that building
+secured except he was talking to the
+wrong local police he was talking to the
+ones who were doing traffic and the
+traffic gu said yep all good on traffic
+but he thought that it meant the local
+police were also securing that building
+so maybe they didn't even talk to the
+the sniper team that set up in the
+window it's entirely possible that they
+thought oh the local police will be
+guarding the outside we'll just set up
+in this window we got a better view
+maybe they're not the best or smartest
+snipers in the world they just wanted to
+get out of the
+Sun but
+maybe maybe it gets back
+to how hard they wanted to protect Trump
+if you had a local police sniper group
+and they're looking at this the roof
+where they're going to have a tough day
+because they'll be in the Sun for hours
+or they're looking at indoors where
+they've got a access to a private
+bathroom and they're sitting in the
+shade and they don't care so much
+whether Trump lives or
+dies you you could see them making just
+the Wall-E decision of what's the
+laziest easiest thing to do but if they
+were protecting you know their own guy
+somebody they really wanted to keep
+alive probably get on the
+roof so you could imagine that a whole
+bunch of decisions were made
+they were all well if this mattered more
+to me I'd try a little harder you know
+like the real world like everything in
+the real
+world and let's see what else we got um
+we also know that the Whistleblower says
+that the Secret Service had limited
+resources for Trump uh because of the
+NATO Summit and Jill was in
+town and uh and also whistleblower says
+that most of the security
+detail um were not even Secret Service
+they were Department of Homeland
+Security assigned and they were
+unprepared and
+inexperienced so I don't know how much
+that
+matters do you think that the snipers
+were not Secret
+Service I'd have to know how much i' I'd
+have to know if the snipers were Secret
+Service because if they were you would
+still make sure that that roof got
+covered and if you were less trained I
+know maybe that made a difference
+all right so if you put that all
+together there is
+every there's every indication that
+would suggest it was mass
+incompetence with with a touch of not
+caring right not caring
+enough um but I would say that the the
+theory that there's something deeper is
+absolutely still alive all right are you
+happy with that both hypotheses are
+completely alive
+and it's not outside what we expect from
+the dark parts of our government it's
+not
+unprecedented if you look at the Kennedy
+assassination so I would say this one's
+a tough one and and then if you add the
+fact that the per got killed and you add
+the fact that there was opportunity for
+one of the snipers to take the shot
+themselves and make it look like it was
+him that's a lot of
+coincidences a lot of coincidences
+anyway so over in the ninth Circuit
+Court uh over in Arizona there's a
+there's a ruling in favor of election
+Integrity in Arizona so voters will have
+to show proof of citizenship to vote
+that seems like a big
+deal um I don't know how many other
+places are having something like this I
+saw that maybe Nevada went the other way
+anyway and then this story which is
+amusing Hunter Hunter Biden is using the
+Trump defense to get out of some of his
+troubles uh the Trump defense among
+others is that uh the special Council
+was not uh
+constitutionally uh
+appropriate in other words he's using
+exactly the uh the argument that Trump
+successfully used on that judge judge
+Cannon situation with Mar Lago boxes
+that Jack Smith was not appropriately
+and
+legally um
+empowered and so uh
+and by the way every the Democrats
+mocked that defense until it
+worked they mocked it I think Joe Biden
+mocked it too and that was the only
+thing that might keep his son into
+prison so that's kind of perfect uh do
+you remember Max
+boot Max boot so he's a Washington Post
+colist and one of the worst of the worst
+for the Russia collusion theory he he's
+a sort of person that you don't even
+imagine is trying to be a legitimate
+writer is just a Democrat you know maybe
+an intelligence asset or something but
+he doesn't write like he's a writer he
+writes like he's working for somebody
+who's not the Washington Post uh at
+least that's what it looks like so he's
+been The Pusher of uh some major hoaxes
+and sometimes one of the major pushers
+of it well some news about him his wife
+uh suei
+Sumi Terry but her first part is
+Sumi that's unfortunate uh anyway she's
+a former CIA analyst and she was his
+wife and she's been indicted for acting
+as an agent for the South Korean
+government without registring so that
+would be a Fara
+problem and uh I believe that there's an
+indication that Max boot has written on
+the topic of South Korea maybe in a way
+that was compatible with what his wife
+wanted we don't know know that for sure
+but she was being paid in expensive
+meals and
+Handbags she was being paid in expensive
+meals and
+Handbags
+now does that sound like she's a
+spy or does that sound like she was just
+cheating on her
+husband because it sounds more to me
+like she just had a
+boyfriend because who is she eating the
+expensive dinners with she wasn't eating
+the expensive dinners with her husband
+cuz that's not mentioned I don't you
+know I'm not ruling it out but wouldn't
+the husband be suspicious about eating
+dinners that they can't
+afford on a writer writer salary so the
+husband never under he he wasn't alerted
+when his wife showed up with a handbag
+that he never could have
+afforded and she probably couldn't
+either do you know how much an expensive
+handbag costs by the
+way sadly I had to learn this the hard
+way an expense of had handbag is many
+thousands of dollars I mean it could be
+$25,000 now I doubt it was that but I
+mean easily could be5 to $4,000 for a
+handbag uh so I think there was $335,000
+in total gifts that they
+calculated but uh I'm not sure this is
+what it looks
+like I I think she simply had a
+boyfriend that's what it looks like
+because who else gives you Handbags and
+dinners that's that's pretty boyfriend
+is that that doesn't sound like a spy
+situation to me but maybe I don't know
+I'm just speculating we don't really
+know all right here's a interesting
+thing on AI so China's government um may
+be somewhat Limited in their AI push
+which they would think is uh critical to
+the Future as we all do because they uh
+they need to control political speech so
+China has this extra problem that they
+have to teach AI to
+lie otherwise the whole regime comes
+down so they're trying to figure out how
+do we teach it to lie but also tell
+people it's an advanced
+intelligence
+and and I'm thinking this could be the
+it could be the Achilles heel of
+China because I don't know the United
+States will have as big a problem
+but I will say more generally I don't
+think governments can survive AI telling
+the
+truth I don't think governments can
+survive if AI learns to tell the truth
+now at the moment it lies automatically
+because it'll give you the common
+narrative but if you're in China are
+they training it only on Chinese
+propaganda or are they training it the
+way other people do on all the other
+things happening everywhere else you
+know are they training on American data
+so
+um I don't think America uses Chinese do
+they I wonder if the American AIS use
+China data for training I don't know but
+this could be the biggest the biggest
+issue in AI that determines which
+countries
+survive is simply who's allowing it to
+tell the truth because if you have to
+stop it from telling the
+truth I mean it's proba not going to be
+very
+good all right I see I see you asking me
+about Kai Kai Trump uh how many of you
+saw um Don Jr's daughter Kai give her
+speech first speech ever in public
+apparently at the
+convention that was genius by the way
+that was genius because she just said
+how great her grandfather was and how
+kind he is and you know so the biggest
+complaint about Trump is he's only in it
+for
+himself it's hard to make that
+survive when the when the grandchild
+gets on and says no matter what he's
+doing he'll call me and like he'll call
+me from the golf course he'll call me
+for work calls me all the time M make
+sure he knows how I'm
+doing it's hard to survive that he's so
+selfish when you see the grandkid say um
+no you're totally wrong about that and
+then some other people say the same
+thing I I thought the the kai move was
+brilliant and beyond that I would say
+let's see if you had the same
+feeling you always wonder about the
+future because you think that the kids
+are all messed up now but every
+generation thought that every generation
+thinks their children are the ones that
+are messed up uh but watching Kai who is
+a very capable human you really get back
+your confidence in the youth it's like
+okay what whatever it is that made her
+her
+we need some more of that but it was
+very inspirational I don't think there
+could be much more inspirational than
+seeing a young person nail it on the
+first try in the hardest place you could
+ever give a speech but wow what Poise
+and of course she's beautiful surprise
+of course she's the camera just loves
+her so yeah she's she's going to be uh a
+forced to be reckoned with if she goes
+into
+politics all right
+um apparently Yemen sent a uh a drone
+into Tel
+Aviv and actually caused a death and
+some some injuries
+so you probably heard that uh Trump said
+that um the Palestinians better give
+back our the hostages before he gets
+into office or they'll be held to
+pay and I thought to myself he's the
+only one that knows this is isn't a
+negotiation that that's why Trump's
+better Biden thinks it's a negotiation
+it's not in
+negotiation it's we're going to end
+every one of you until you give
+back the the uh the hostages you get
+nothing until we get the hostages and by
+the way if it doesn't happen fast we're
+just going to mow the LA now do the
+Palestinians believe he would act that
+aggressively
+they might I that's all it takes all it
+takes is they believe the uh they
+believe the threat but here's the thing
+if somebody has your
+hostages that's not a negotiation if
+you're the powerful one especially if
+you don't think there's a good chance
+they coming
+back if you're the powerful one you say
+here's the deal if we don't get them
+back there's going to be a hell coming
+toward you that you've never even
+experienced before whatever gains you
+thought you got and that we're going to
+take take them away we're going to set
+you back a 100
+years but if you release the hostages
+we'll
+talk Biden never did that did he did
+Biden ever give them a direct threat you
+need a threat you need to say credibly
+we will destroy your life for a hundred
+years give them back now and by the way
+that's not a negotiation that's just
+what's going to happen choose and then
+you have to do it you know I don't know
+what that would take but now of course I
+don't want the poor Palestinian citizens
+to be you know wiped out or something so
+ideally you don't want to do it or
+anything like it but you need to
+threaten it you you need to make a
+threat that sounds real now it helps
+that Trump at one point dropped a mother
+of all bomb on the on the uh what was it
+Isis or was it Taliban I can't remember
+Isis I think uh it helps he's got a
+little bit of a history of being a
+badass
+then you can sell it do you think Biden
+could have sold that threat do you think
+Biden could have said oh we're going to
+really come down hard on you if you
+don't let no no he doesn't have the
+ability Trump has the ability now
+likewise with this Yemen stuff that's
+been driving me crazy Trump says he's
+going to reduce your
+costs the biggest thing you could do
+fast is to stop the uh Yemen the hoodies
+I guess from uh making all the shipping
+go around the long
+so part of the reason that everything
+costs more is that the ships can't go
+the short way they're afraid of the
+getting a missile
+attack Yemen needs to stop
+it and Trump is smart enough to know
+that there would be a gigantic financial
+gain not just in America but everywhere
+if he can scare the hoodies away from
+their actions now I don't know what that
+would take but it would be similar to a
+Gaza thing where you say look you're
+going to stop doing that if you don't
+Yemen's going to disappear because we
+can't live with this this is an
+unsustainable situation for the world
+and for the United States we want you to
+know that if you don't start stop now
+we're going to take out the capital or
+something I don't know that's a bad idea
+but you have to do something I I would
+put the entire like
+Fleet and just start hitting them
+and I don't think we can put up with
+this right so there's so many ways that
+Trump can fix things fairly quickly
+Ukraine war for example that when he
+says I'm going to bring your cost down
+it looks real to me because he has the
+superpower he's got the energy he's got
+the Gods on his side he's got his
+reputation as being a badass he knows
+how to negotiate he knows where the
+biggest lever is to make money Biden
+doesn't know any of that these are
+things that Biden's just a helpless
+hunger skin
+basically so I think you'll see
+something happen with that then lastly
+there's studies that say loneliness
+increased your risk of premature death
+by nearly
+30% I believe that and that's why I try
+to be here every morning no matter how
+bad I feel yesterday was impossible so
+sorry I missed yesterday that is by the
+way the first sick day I've
+taken in decades 30 years but that one
+was unavoidable
+unfortunately um so I'm back well I'm
+not back like Trump but I'm back and uh
+if you'd like to work on your
+loneliness every evening just about
+every evening uh we do a manave live
+stream for members of locals so you'd
+have to be a member and uh we just hang
+out and uh if if you saw the vibe you'd
+it's not so much about me doing a
+presentation we're just hanging out and
+uh we're all addicted to it there are
+hundreds of us several hundred of us
+they just meet every day and the people
+in the comments have made friends and
+you know they're supporting each other
+people are offering to help each other
+or just they only know them from the
+comments so and it's a whole bunch of
+people who are in some cases widowed in
+other cases just don't have anything
+else that they would be doing on a
+Saturday night like me so
+so we've just we're working on a cure
+for loneliness now I can't cure
+everybody but I can cure a few hundred
+so if you want to join that fun it's the
+uh Scott adams. locals.com is the link
+but you'd have to be a member and that's
+all I got for you today thanks for
+joining and uh I'm going to say hi to
+the locals
+people but I'm going to say bye to the
+rest of you and uh thanks for
+joining
+for
+e
+e
+e
+e
+e
+e
+e
+e e

@@ -1,0 +1,25 @@
+all right here's the problem i select
+the line tool
+here are my settings
+and then i use the line tool
+and every line i draw makes the prior
+line go away
+and if i deselect it it just disappears
+now going back here
+if i reselect
+and make sure that i've selected the
+line
+and i've selected the fill make sure
+i've got a black there
+and then these these numbers have filled
+in
+automatically i don't know where the 12
+and the 132 came from
+but now when i draw it's a big thick
+line
+that i did not request so things are
+happening somewhat
+randomly and this is with the latest
+update i just
+downloaded the update
+any any hints

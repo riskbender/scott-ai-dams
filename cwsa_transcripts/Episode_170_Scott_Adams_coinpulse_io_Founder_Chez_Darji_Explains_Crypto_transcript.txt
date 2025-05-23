@@ -1,0 +1,319 @@
+hey everybody I hope this sound is
+better this time if it's not we're gonna
+afford you have anyway with what with
+what we have I want to give you a little
+tutorial on crypto wallets and crypto
+exchanges and where your money lives on
+the Black team for people who really are
+not familiar with this world but one I
+want to get an overview and then I'm
+going to introduce my special guest
+after I give you a quick overview all
+right if you have any kind of
+cryptocurrency whether it's Bitcoin
+Ruthie reom or any of the hundreds of
+other points your money lives as zeros
+and ones on the internet is spread
+across various servers in a special kind
+of database called the block team and
+what do you want to pay somebody or
+receive money the changes are just
+changes in the database so the actual
+money just let's spread out across
+servers on the internet once you want to
+manipulate your money you need something
+called a wallet but the wallet is a
+misleading curtain because the wallet
+doesn't actually hold any money it's
+just a piece of software or it could be
+a software and hardware unit for a
+little extra security they give this
+like a viewer that lets you look into
+the cloud see your money and then change
+change it's addresses essentially so
+that you could pay somebody by assigning
+your money to someone else or vice versa
+so money never lives in the wallet
+that's just a piece of software for
+accessing the money whether it doesn't
+it likewise if you wanted to to exchange
+your cryptocurrency for some other kind
+of 50
+you can need something called an
+exchange and my special guests all
+introduced in the moment will tell you
+more about that and that would allow you
+to change for example from a when token
+to a Bitcoin to an aetherium that sort
+of thing so you can make those kinds of
+transitions the my startup which you've
+heard that before has an app called the
+interface app it's available in all the
+app stores already for both Apple and
+Android and it allows you to connect to
+an expert and pay that expert either in
+cash or crypto if you want if you want
+to use crypto and there'll be lots of
+reasons you might want to do that you
+might already have cryptocurrency and
+you're looking to spend it you might
+want to keep something off of your
+credit card already you might want to
+not be able to banks you might be in
+another country you not deal with tax
+tax stuff the way you would if it goes
+to the bank so you might have lots of
+reasons why you want to pay in crypto so
+in our app whether you buy your tokens
+that in our world are called the wet whe
+n it's our own crypto currency that like
+others lives in the internet but you can
+use them to pay experts who are
+available in real time like right now
+you just say where's my expert right now
+and you're connected with the live video
+call now we have a wallet also think of
+it as if you were to see your money you
+move it around built into the app or you
+can have a separate wallet you could
+have as many wallets as you want because
+remember the wallets are not holding
+money they're just viewers to look at
+the money that's spread across the
+internet with a special database called
+the blockchain alright so you should all
+check out the interface app what I want
+to tell you about this is that if you've
+seen that if
+I see oh you know that a lot of
+companies including mine have issued
+their own coin or token and they do it
+for a variety of reasons most of the ICS
+are nothing but an idea in a white paper
+so somebody writes a document that says
+if I had money and if I knew how to make
+things I would make something and it
+would be valuable and then they issue a
+coin that's very speculative if you're
+if you're buying one of those coins a
+little bit safer but by no means I would
+call this an investment by the way
+nothing you hear here nothing you hear
+here is an investment advice because
+these are not investments they are
+things which can go up in value or down
+in value but they don't qualify as
+investments and they're not safe in the
+event a normal investment pretty-pretty
+something so this is your overview if
+you've got the interface app you can you
+can talk to experts you can pay them in
+our coins you can change those coins for
+other crypto and from there you can turn
+it into cash in a few places that will
+do that for you I would like to
+introduce now my special guest chas
+darzee I'm gonna bring them over on this
+device or maybe I'll turn this this way
+and see what works how that works and
+Chas is founder of coin pulse the change
+that my startup is now will be part of
+in in a few weeks and jazz say hi to my
+periscope and it says how long has Point
+pulse been around okay so we started
+this project back in November 2017 when
+we are at robbed our tokens
+it was a BCH back then which is CPX now
+so we started this project in November
+2017 we had a community of around 15,000
+members at that time we took coin purse
+is actually an exchange a global digital
+currency trading platform which is built
+based on users suggestions users meaning
+community suggestions so each and every
+so so that's what makes your exchange
+different from others is that yes it's
+built from the ground up by user
+suggestions including what coins you you
+have on the exchange right yes yes so we
+took suggestions from the community
+members and each and every feature that
+we have added today is all from the
+community and what's the difference
+between a centralized exchange which you
+are and a decentralized exchange why
+does somebody want one over the other
+okay so in decentralized exchange user
+will have control over response and each
+and every transaction that user does
+goes through blockchain but on
+centralized exchange you just pay
+trading three you just deposit oneself
+and start trading by paying credit free
+to the exchange which is usually cheaper
+and so they then decentralized exchange
+so the centralized is cheaper and is it
+also safer is it more secure it depends
+like we are using multi single bond it's
+for our exchange and over ninety percent
+of all the coins are storing cold
+storage so which is not at all hackable
+so it depends what technologies
+exchanges are used and so how many how
+many coins do you have on the exchange
+man so currently we have about nine to
+ten points
+those are majority of them are standard
+coins as of today so thank you you know
+Bitcoin litecoin triple G cash - then we
+have our
+own token which is called CPX then based
+on our voting page we have added two
+more points which is what one of them is
+hydro and the other one is a photo and
+soon I'll give the dates when the the
+coin the point that my startup has
+issued will be listed so that on August
+15th will be listed on coin pulse but
+that just means you can put your when
+coins in there and it won't be till
+September 20th that'll be active for
+trading so those people who are experts
+on the interface app can can earn their
+web coins or they can be cash but if
+they are win points they can trade them
+in on point pulse now the value of your
+coins
+can you explain what what determines
+their value howdy how do you know how
+much you'll be able to trade them for in
+other words it's a market based value
+right so yeah so value is actually
+determined by buyers and sellers so it's
+all on traders depends on what price
+they want to buy or sell a particular
+coin for so on day one when when the
+when our coin is listed its value could
+be you know much higher or much lower
+than it would be a week later so it
+depends on what the market is right now
+in our case because the the coin or
+token as we call it which would be
+technically more accurate it's a utility
+token because it's it's used in our app
+and there's a limited number of them by
+design and people need them in order to
+use the app the demand over time should
+go up as the app is more popular because
+they need these tokens to use the app
+and then that should in theory but
+they're no guarantee
+of course that should make the value of
+them go up when people put them on the
+exchange is that it was that accurate
+yes Betsy
+you know if supply is less the money is
+definitely going to go up and that will
+also have impact on its price so yeah I
+expect it to go up so of all the icos
+that are out there and there must be
+thousands of them would you say are
+there hundreds or thousands of icos and
+just in the past year but I would say
+would you say that 90% or more than more
+than 90% were based on just an idea just
+a white paper with when nobody's
+actually built a product what what
+percentage of all the ICS were not based
+on the product they had yeah been built
+is it most
+there are actually only few projects
+whew I see use that we'll have their own
+project already ready for the users when
+they are doing their I see you
+so when definitely as it's project ready
+for the users right so this is something
+unique for an ICU so while I don't make
+any investment advice and owning icos
+is or owning points is not an investment
+per se it is safe to say that if you
+would buy if you're trying to hold a
+portfolio of different ICO coins
+you probably want something in your
+portfolio that's a product that's
+already built and then the second big
+thing and I think you'll agree Chazz is
+to be able to get on an exchange because
+that's the that's really hard so it's
+not automatic that you could ever ever
+get out of exchange so most of these I
+SEOs are creating coins that are just
+random they can't be used
+thing ever but we have a product product
+that's being used already it's in the
+stores and it and and will be on the
+exchange we've already scheduled for
+that lung point pulse so certainly
+that's you should consider that type of
+coin there can't be them anything or
+that kind of token so what else do we
+need to know about in exchange so how
+hard is it to use let's say you've never
+used one and it's a it's a webpage
+you've got a coin pulse I oh I I assume
+that you're just signing up with your
+credentials yes and and then I
+understand that even the users had a lot
+of input on the user interface to make
+it as easy as possible and so they
+should be able to work their way through
+it the first time they use it probably
+but if they if they need an extra help
+they could go to youtube and just Google
+yes or just search within YouTube for a
+coin pulse and you'd find a little
+youtube tutorial yeah alright and I'm
+dying to ask how hard was it to build an
+exchange like just just from the startup
+perspective like how many people did it
+take you know if you did it in in less
+than a year which is amazing for any
+startup yeah but how hard is it was it
+was it crazy hard yeah it was really
+very tithing on my end and I used to
+spend around you know 17 to 18 hours
+daily since last 3 to 4 months on this
+development part and in our team we had
+we have actually around tender process
+of today
+they have been with us since inception
+so and developers then now we have
+support team listing team we have a
+bunch of people doing the research on
+various coins or tokens that they want
+to get listed on the exchange so
+altogether we have about
+thirty people in our team regarding
+development as I as I mentioned I used
+to spend so many hours not just me but
+my entire team and every day we used to
+finish you know new hurdle like one
+feature will work and something will go
+wrong try it test it again be tested
+without it it means it carry gram
+channel so it was really you know very
+difficult time but so Sony it worked out
+well for us it's all up and working in
+your you're in you're in the right place
+at the right time and the right time in
+history it sounds like so so Chaz I
+think we'll keep this short because
+people have short attention spans but
+thank you so much for joining me and for
+helping me explain this this world and
+it's coin pulse dot IO you'll see the
+when tokens listed on August 15th and
+available for trade on September 20th
+this is 2018 if anybody's watching this
+I'm Luke like and that's all for today
+bye
